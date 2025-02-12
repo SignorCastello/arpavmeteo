@@ -15,7 +15,7 @@ jobs:
 
       - name: Download file
         run: |
-          curl -L -o bollettino_utenti.yml "https://meteo.arpa.veneto.it/meteo/bollettini/it/xml/bollettino_utenti.xml"
+          curl -L -o bollettino_utenti.xml "https://meteo.arpa.veneto.it/meteo/bollettini/it/xml/bollettino_utenti.xml"
 
       - name: Configure Git
         run: |
@@ -24,7 +24,7 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git add bollettino_utenti.yml
-          git commit -m "Updated bollettino_utenti.yml"
+          git add bollettino_utenti.xml
+          git commit -m "Updated bollettino_utenti.xml"
           git push
         continue-on-error: true  # Prevents failure if no changes occur
