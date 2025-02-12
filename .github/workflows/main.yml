@@ -3,7 +3,7 @@ name: Download and Upload File
 on:
   workflow_dispatch: # Allows manual triggering
   schedule:
-    - cron: "0 6 * * *" # Runs daily at midnight UTC (adjust as needed)
+    - cron: "0 4 * * *" # Runs daily at midnight UTC (adjust as needed)
 
 jobs:
   download-and-upload:
