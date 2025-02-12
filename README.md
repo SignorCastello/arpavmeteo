@@ -1,0 +1,2 @@
+Ho un bot Telegram che prende da un URL il file XML del bollettino meteo di ARPAV per renderlo di facile consultazione anche da Telegram. Però l'host sul quale viene eseguito il bot è dietro un proxy,
+che non può connettersi direttamente al sito di ARPAV. Perciò, ogni giorno alle 6AM un'azione GitHub prenderà l'ultimo file da https://meteo.arpa.veneto.it/meteo/bollettini/it/xml/bollettino_utenti.xml .
