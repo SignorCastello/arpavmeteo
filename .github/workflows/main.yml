@@ -24,7 +24,7 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git add downloaded_file.ext
-          git commit -m "Updated downloaded_file.ext"
+          git add bollettino_utenti.yml
+          git commit -m "Updated bollettino_utenti.yml"
           git push
         continue-on-error: true  # Prevents failure if no changes occur
