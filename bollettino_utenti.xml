@@ -1,190 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <previsioni>
-<data_emissione date="26/02/2025 alle 13:00" />
-<data_aggiornamento date="26/02 alle 16.00" />
+<data_emissione date="27/02/2025 alle 13:00" />
+<data_aggiornamento date="27/02 alle 16.00" />
 <meteogrammi>
 <meteogramma zoneid="1" name="Dolomiti Nord-Est">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e3.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 2000m" type="text" value="max -1 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max -8 C" />
-          <previsione title="Precipitazioni" type="text" value="Deboli" />
-					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 1000/1300 m" />
+				<scadenza data="gio 27 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Nubi in aumento" />
+          <previsione title="Temperatura 2000m" type="text" value="max 1 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max -9 C" />
+          <previsione title="Precipitazioni" type="text" value="Qualche pioggia verso sera" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura 2000m" type="text" value="min -4 C" />
-          <previsione title="Temperatura 3000m" type="text" value="min -10 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-          <previsione title="Cielo" type="text" value="Nubi in aumento" />
-          <previsione title="Temperatura 2000m" type="text" value="max 0 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max -9 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="ven 28 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e1.png" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura 2000m" type="text" value="min -4 C" />
-          <previsione title="Temperatura 3000m" type="text" value="min -11 C" />
-					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 1000-1300 m" />
+          <previsione title="Temperatura 3000m" type="text" value="min -12 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e1.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura 2000m" type="text" value="max -2 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max -10 C" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e1.png"/>
+          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura 2000m" type="text" value="max -3 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max -11 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste locali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab  1 marzo">
+				<scadenza data="sab  1 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
+          <previsione title="Temperatura 2000m" type="text" value="min -6 C" />
+          <previsione title="Temperatura 3000m" type="text" value="min -13 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
+          <previsione title="Temperatura 2000m" type="text" value="max -4 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max -12 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste" />
 					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="2" name="Dolomiti Sud-Ovest">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e3.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 2000m" type="text" value="max -1 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max -8 C" />
-          <previsione title="Precipitazioni" type="text" value="Deboli" />
-					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 1000/1300 m" />
+				<scadenza data="gio 27 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Nubi in aumento" />
+          <previsione title="Temperatura 2000m" type="text" value="max 1 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max -9 C" />
+          <previsione title="Precipitazioni" type="text" value="Qualche pioggia verso sera" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura 2000m" type="text" value="min -4 C" />
-          <previsione title="Temperatura 3000m" type="text" value="min -10 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-          <previsione title="Cielo" type="text" value="Nubi in aumento" />
-          <previsione title="Temperatura 2000m" type="text" value="max 0 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max -9 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="ven 28 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e1.png" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura 2000m" type="text" value="min -4 C" />
-          <previsione title="Temperatura 3000m" type="text" value="min -11 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 1000-1300 m" />
+          <previsione title="Temperatura 3000m" type="text" value="min -12 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e1.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura 2000m" type="text" value="max -2 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max -10 C" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e1.png"/>
+          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura 2000m" type="text" value="max -3 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max -11 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste locali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab  1 marzo">
+				<scadenza data="sab  1 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
+          <previsione title="Temperatura 2000m" type="text" value="min -6 C" />
+          <previsione title="Temperatura 3000m" type="text" value="min -13 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
+          <previsione title="Temperatura 2000m" type="text" value="max -4 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max -12 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste" />
 					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="3" name="Belluno e Prealpi orientali">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e7.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 1500m" type="text" value="max 1 C" />
+				<scadenza data="gio 27 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura 1500m" type="text" value="max 4 C" />
           <previsione title="Temperatura 2000m" type="text" value="max -1 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 1100/1400 m" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura 1500m" type="text" value="min 1 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min -3 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-          <previsione title="Cielo" type="text" value="Nubi in aumento" />
-          <previsione title="Temperatura 1500m" type="text" value="max 4 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 0 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="ven 28 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
          <previsione title="Cielo" type="text" value="Nuvoloso" />
           <previsione title="Temperatura 1500m" type="text" value="min -1 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min -5 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 1000-1300 m" />
+          <previsione title="Temperatura 2000m" type="text" value="min -4 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
+					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso" />
           <previsione title="Temperatura 1500m" type="text" value="max 1 C" />
           <previsione title="Temperatura 2000m" type="text" value="max -3 C" />
 					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio" />
@@ -192,68 +172,68 @@
 					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab  1 marzo">
+				<scadenza data="sab  1 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png" />
          <previsione title="Cielo" type="text" value="Nuvoloso" />
+          <previsione title="Temperatura 1500m" type="text" value="min -3 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min -6 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso" />
+          <previsione title="Temperatura 1500m" type="text" value="max -2 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max -5 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste" />
 					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="4" name="Prealpi centrali">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e3.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 1500m" type="text" value="max 1 C" />
+				<scadenza data="gio 27 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura 1500m" type="text" value="max 4 C" />
           <previsione title="Temperatura 2000m" type="text" value="max -1 C" />
-          <previsione title="Precipitazioni" type="text" value="Deboli" />
-					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 1100/1400 m" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura 1500m" type="text" value="min 1 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min -3 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-          <previsione title="Cielo" type="text" value="Nubi in aumento" />
-          <previsione title="Temperatura 1500m" type="text" value="max 4 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 0 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="ven 28 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura 1500m" type="text" value="min -1 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min -5 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 1000-1300 m" />
+          <previsione title="Temperatura 2000m" type="text" value="min -4 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso" />
           <previsione title="Temperatura 1500m" type="text" value="max 1 C" />
           <previsione title="Temperatura 2000m" type="text" value="max -3 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio" />
@@ -261,381 +241,383 @@
 					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab  1 marzo">
+				<scadenza data="sab  1 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png" />
          <previsione title="Cielo" type="text" value="Nuvoloso" />
+          <previsione title="Temperatura 1500m" type="text" value="min -3 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min -6 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso" />
+          <previsione title="Temperatura 1500m" type="text" value="max -2 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max -5 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste" />
 					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="5" name="Pedemontana orientale">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 8/10 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="min 4/6 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-          <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="ven 28 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
-          <previsione title="Temperatura" type="text" value="min 2/4 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="sab  1 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-</meteogramma>
-
-<meteogramma zoneid="6" name="Treviso e pianura orientale">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 9/11 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="min 4/6 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-          <previsione title="Cielo" type="text" value="Poco nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
           <previsione title="Temperatura" type="text" value="max 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="ven 28 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
-          <previsione title="Temperatura" type="text" value="min 3/5 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="sab  1 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-</meteogramma>
-
-<meteogramma zoneid="7" name="Veneziano orientale">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 9/11 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="min 4/6 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da nord" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-          <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="ven 28 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
-          <previsione title="Temperatura" type="text" value="min 3/5 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="max 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="sab  1 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-</meteogramma>
-
-<meteogramma zoneid="8" name="Prealpi occidentali">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e3.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 1500m" type="text" value="max 1 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max -1 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 1100/1400 m" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura 1500m" type="text" value="min 1 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min -3 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-          <previsione title="Cielo" type="text" value="Nubi in aumento" />
-          <previsione title="Temperatura 1500m" type="text" value="max 4 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 0 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="ven 28 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
-          <previsione title="Temperatura 1500m" type="text" value="min -1 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min -5 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 1000-1300 m" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
-          <previsione title="Temperatura 1500m" type="text" value="max 1 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max -3 C" />
-					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="sab  1 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
-					<previsione title="Precipitazioni" type="text" value="Modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-</meteogramma>
-
-<meteogramma zoneid="9" name="Vicenza e pedemontana">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 9/11 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="min 2/4 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-          <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
           <previsione title="Temperatura" type="text" value="min 1/3 C" />
-					<previsione title="Precipitazioni" type="text" value="Deboli intermittenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
           <previsione title="Temperatura" type="text" value="max 12/14 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab  1 marzo">
+				<scadenza data="sab  1 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="min 1/3 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="max 9/11 C" />
 					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-</meteogramma>
-
-<meteogramma zoneid="10" name="Padova e pianura centrale">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 9/11 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="min 4/6 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-          <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 14/16 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+</meteogramma>
+
+<meteogramma zoneid="6" name="Treviso e pianura orientale">
+				<scadenza data="gio 27 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 14/16 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="" />
+				</scadenza>
+				<scadenza data="ven 28 febbraio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 2/4 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="ven 28 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="min 4/6 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="max 9/11 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom  2 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+</meteogramma>
+
+<meteogramma zoneid="7" name="Veneziano orientale">
+				<scadenza data="gio 27 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 14/16 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da sudest" />
+					<previsione title="Attendibilita'" type="text" value="" />
+				</scadenza>
+				<scadenza data="ven 28 febbraio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 2/4 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="ven 28 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="min 5/7 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Forti da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="max 9/11 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Forti da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom  2 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+</meteogramma>
+
+<meteogramma zoneid="8" name="Prealpi occidentali">
+				<scadenza data="gio 27 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura 1500m" type="text" value="max 4 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max -1 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="" />
+				</scadenza>
+				<scadenza data="ven 28 febbraio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
+          <previsione title="Temperatura 1500m" type="text" value="min -1 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min -4 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="Oltre i " />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="ven 28 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso" />
+          <previsione title="Temperatura 1500m" type="text" value="max 1 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max -3 C" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso" />
+          <previsione title="Temperatura 1500m" type="text" value="min -3 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min -6 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso" />
+          <previsione title="Temperatura 1500m" type="text" value="max -2 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max -5 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom  2 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+</meteogramma>
+
+<meteogramma zoneid="9" name="Vicenza e pedemontana">
+				<scadenza data="gio 27 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 14/16 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="" />
+				</scadenza>
+				<scadenza data="ven 28 febbraio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 2/4 C" />
+					<previsione title="Precipitazioni" type="text" value="Deboli intermittenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="ven 28 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="min 4/6 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="max 8/10 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom  2 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+</meteogramma>
+
+<meteogramma zoneid="10" name="Padova e pianura centrale">
+				<scadenza data="gio 27 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 14/16 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
@@ -647,62 +629,60 @@
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
           <previsione title="Temperatura" type="text" value="max 13/15 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste locali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab  1 marzo">
+				<scadenza data="sab  1 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="min 6/8 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="max 9/11 C" />
 					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
 				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="11" name="Venezia e laguna">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 9/11 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="min 5/7 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da nord" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-          <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+          <previsione title="Vento" type="text" value="Moderati da sudest" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
@@ -715,63 +695,63 @@
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
           <previsione title="Temperatura" type="text" value="max 12/14 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Variabili" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab  1 marzo">
+				<scadenza data="sab  1 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="min 6/8 C" />
 					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Forti da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="max 9/11 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Forti da nordest" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
 				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="12" name="Delta del Po">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 9/11 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="min 5/7 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-          <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+          <previsione title="Vento" type="text" value="Deboli da sud" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
@@ -784,265 +764,265 @@
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="max 10/12 C" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="max 11/13 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Deboli da nordest" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab  1 marzo">
+				<scadenza data="sab  1 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="min 6/8 C" />
 					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Forti da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="max 10/12 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Forti da nordest" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
 				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="13" name="Rovigo e pianura meridionale">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 9/11 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="min 4/6 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-          <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="ven 28 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
-          <previsione title="Temperatura" type="text" value="min 5/7 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="sab  1 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-</meteogramma>
-
-<meteogramma zoneid="14" name="Verona e pedemontana">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 10/12 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="min 4/6 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-          <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="ven 28 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
-          <previsione title="Temperatura" type="text" value="min 2/4 C" />
-					<previsione title="Precipitazioni" type="text" value="Deboli intermittenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
           <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="sab  1 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-</meteogramma>
-
-<meteogramma zoneid="15" name="Area del Garda">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 10/12 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="min 4/6 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da nordovest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-          <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da ovest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="ven 28 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
-          <previsione title="Temperatura" type="text" value="min 2/4 C" />
-					<previsione title="Precipitazioni" type="text" value="Deboli intermittenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="sab  1 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
-				</scadenza>
-</meteogramma>
-
-<meteogramma zoneid="16" name="Litorale nord">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 9/11 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
 					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="min 4/6 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da nord" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-          <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
           <previsione title="Temperatura" type="text" value="min 3/5 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="ven 28 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="min 6/8 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="max 10/12 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom  2 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+</meteogramma>
+
+<meteogramma zoneid="14" name="Verona e pedemontana">
+				<scadenza data="gio 27 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 14/16 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="" />
+				</scadenza>
+				<scadenza data="ven 28 febbraio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 2/4 C" />
+					<previsione title="Precipitazioni" type="text" value="Deboli intermittenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="ven 28 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="min 6/8 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="max 10/12 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom  2 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+</meteogramma>
+
+<meteogramma zoneid="15" name="Area del Garda">
+				<scadenza data="gio 27 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da sudovest" />
+					<previsione title="Attendibilita'" type="text" value="" />
+				</scadenza>
+				<scadenza data="ven 28 febbraio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 3/5 C" />
+					<previsione title="Precipitazioni" type="text" value="Deboli intermittenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="ven 28 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="min 5/7 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="max 10/12 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom  2 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+</meteogramma>
+
+<meteogramma zoneid="16" name="Litorale nord">
+				<scadenza data="gio 27 febbraio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da sudest" />
+					<previsione title="Attendibilita'" type="text" value="" />
+				</scadenza>
+				<scadenza data="ven 28 febbraio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 2/4 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -1050,63 +1030,63 @@
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="max 14/16 C" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Variabili" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab  1 marzo">
+				<scadenza data="sab  1 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="min 5/7 C" />
 					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Forti da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="max 9/11 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Forti da nordest" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
 				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="17" name="Litorale centrale">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 9/11 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="min 5/7 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da nord" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-          <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+          <previsione title="Vento" type="text" value="Moderati da sudest" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
@@ -1119,63 +1099,63 @@
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
           <previsione title="Temperatura" type="text" value="max 12/14 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Variabili" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab  1 marzo">
+				<scadenza data="sab  1 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="min 6/8 C" />
 					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Forti da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="max 9/11 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Forti da nordest" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
 				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="18" name="Litorale sud">
-				<scadenza data="mer 26 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 9/11 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="gio 27 febbraio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="min 5/7 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="gio 27 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-          <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+          <previsione title="Vento" type="text" value="Deboli da sud" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
@@ -1188,215 +1168,239 @@
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="ven 28 febbraio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura" type="text" value="max 10/12 C" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="max 11/13 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Deboli da nordest" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab  1 marzo">
+				<scadenza data="sab  1 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="min 6/8 C" />
 					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Forti da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab  1 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+          <previsione title="Temperatura" type="text" value="max 10/12 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Forti da nordest" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="dom  2 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun  3 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
 				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Discreta" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 </meteogramma>
 
 </meteogrammi>
 <bollettini>
 
-<bollettino bollettinoid="MV" name="Meteo Veneto" title="Bollettino del 26 febbraio">
-<evoluzionegenerale><![CDATA[Mercoled&igrave; transita sul Veneto una perturbazione atlantica. Al suo seguito la circolazione rester&agrave; debolmente ciclonica: nei prossimi giorni saranno ancora frequenti gli annuvolamenti, ma minore rispetto a mercoled&igrave; la probabilit&agrave; di precipitazioni, che potranno interessare perlopi&ugrave; le zone montane.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="26 febbraio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_0.png" caption="26 febbraio pomeriggio" />
+<bollettino bollettinoid="MV" name="Meteo Veneto" title="Bollettino del 27 febbraio">
+<evoluzionegenerale><![CDATA[Fino a sabato, la marginale influenza di correnti cicloniche associate a una bassa pressione sull'Europa centro-settentrionale, porter&agrave; sulla regione tratti di variabilit&agrave;, con frequenti annuvolamenti e qualche precipitazione. Da domenica, un cuneo di alta pressione dall'Atlantico espander&agrave; la sua influenza sull'Europa centro-occidentale, e il tempo torner&agrave; ad essere stabile e soleggiato.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="27 febbraio">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_0.png" caption="27 febbraio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Tempo perturbato con cielo molto nuvoloso o coperto. Precipitazioni diffuse di modesta o moderata entit&agrave;, frequenti nel corso della giornata, tendenti al diradamento a partire dalle zone meridionali verso sera; limite della neve oltre i 1100-1300 m. Temperature diurne in diminuzione rispetto a marted&igrave;. Venti nord-orientali, moderati o anche tesi in quota e lungo la costa.]]>
-					</text>
-				</giorno>
-				<giorno data="27 febbraio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_1.png" caption="27 febbraio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_2.png" caption="27 febbraio pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Nuvolosit&agrave; variabile pi&ugrave; presente e consistente nella prima parte della giornata alternata a tratti di sereno anche ampi a partire dalla mattina soprattutto in pianura; in montagna nuovi annuvolamenti potranno verificarsi dal tardo pomeriggio/sera.<br /><b>Precipitazioni: </b>In prevalenza assenti, salvo probabilit&agrave; bassa (5-25%) di qualche residuo fenomeno a inizio giornata e medio-bassa (25-50%) sulle Dolomiti in serata/notte di modeste locali precipitazioni, nevose sopra i 1300/1500 m.<br /><b>Temperature: </b>In diminuzione le minime e in aumento le massime.<br /><b>Venti: </b>Variabili, in prevalenza dai settori occidentali, deboli o a tratti moderati.<br /><b>Mare: </b>Da mosso a poco mosso.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Previsione: </b>In pianura sereno o poco nuvoloso; in montagna inizialmente sereno o poco nuvoloso, ma con aumento della nuvolosit&agrave;, specie a fine giornata, quando saranno possibili modeste locali precipitazioni sulle zone orientali, nevose sopra i 1300/1500 m. Temperature diurne in rialzo. Venti variabili deboli o a tratti moderati, in pianura in prevalenza dai quadranti meridionali. ]]>
 					</text>
 				</giorno>
 				<giorno data="28 febbraio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_3.png" caption="28 febbraio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_4.png" caption="28 febbraio pomeriggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_1.png" caption="28 febbraio mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_2.png" caption="28 febbraio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Inizialmente cielo poco o parzialmente nuvoloso per nubi alte, con crescenti annuvolamenti a partire dalle ore centrali.<br /><b>Precipitazioni: </b>Probabilit&agrave; al pi&ugrave; medio-bassa (25-50%), soprattutto nella seconda parte della giornata, di locali precipitazioni a carattere discontinuo: al momento la probabilit&agrave; maggiore sembra riguardare le zone montane e pedemontane e la pianura meridionale. Limite della neve in abbassamento fino a circa 1000 m.<br /><b>Temperature: </b>Prevalentemente in diminuzione, salvo stazionariet&agrave; delle minime in pianura.<br /><b>Venti: </b>In quota deboli occidentali; nelle valli variabili. In pianura deboli, a tratti moderati, in prevalenza orientali.<br /><b>Mare: </b>Poco mosso o quasi calmo.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>A inizio giornata cielo poco o parzialmente nuvoloso per nubi alte, con crescenti annuvolamenti a partire dalle ore centrali.<br /><b>Precipitazioni: </b>Probabilit&agrave; al pi&ugrave; medio-bassa (25-50%), soprattutto nella seconda parte della giornata, di locali precipitazioni a carattere discontinuo: al momento la probabilit&agrave; maggiore sembra riguardare le zone montane e pedemontane, ma localmente saranno possibili anche in pianura. Limite della neve in abbassamento fino a circa 1000 m.<br /><b>Temperature: </b>In diminuzione.<br /><b>Venti: </b>In quota deboli/moderati dai quadranti occidentali; nelle valli variabili. In pianura deboli, a tratti moderati, in prevalenza dai settori orientali.<br /><b>Mare: </b>Poco mosso o quasi calmo.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 				<giorno data=" 1 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_5.png" caption=" 1 marzo" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_3.png" caption=" 1 marzo mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_4.png" caption=" 1 marzo pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per sabato  1: </b>Nuvoloso o molto nuvoloso, con qualche schiarita nelle ore pomeridiane. Possibile qualche precipitazione in montagna, con limite della neve intorno a 800-1000 m. Temperature prevalentemente in diminuzione, ad eccezione del rialzo delle minime in pianura. Intensificazione dei venti da nord-est in pianura.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Cielo nuvoloso o molto nuvoloso, salvo possibili temporanee schiarite. <br /><b>Precipitazioni: </b>Probabilit&agrave; medio-alta (50-75%) di modeste precipitazioni sparse a carattere discontinuo. Limite della neve intorno a 800-1000 m. <br /><b>Temperature: </b>In montagna in diminuzione con minime raggiunte in serata; in pianura minime in rialzo, massime in diminuzione.<br /><b>Venti: </b>In quota deboli o temporaneamente moderati dai settori orientali; nelle valli variabili. In pianura nord-orientali moderati sull'entroterra, tesi lungo la costa.<br /><b>Mare: </b>Da poco mosso a mosso.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 				<giorno data=" 2 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_6.png" caption=" 2 marzo" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_5.png" caption=" 2 marzo" />
 					<text>
-                        <![CDATA[<b>Tendenza per domenica  2: </b>All'inizio cielo ancora nuvoloso e possibilit&agrave; di qualche precipitazione soprattutto sulle zone occidentali, ma con nuvolosit&agrave; in diminuzione soprattutto a partire dalle ore centrali. Temperature massime in aumento.
-Previsore:ms.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
+                        <![CDATA[<b>Tendenza per domenica  2: </b>Residui annuvolamenti a inizio giornata, con nuvolosit&agrave; in diminuzione fino a cielo sereno. Temperature minime in calo e massime in aumento.
+<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+					</text>
+				</giorno>
+				<giorno data=" 3 marzo">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_6.png" caption=" 3 marzo" />
+					<text>
+                        <![CDATA[<b>Tendenza per luned&igrave;  3: </b>Tempo stabile con cielo sereno. Temperature in montagna in aumento; in pianura in diminuzione le minime, senza notevoli variazioni o in locale aumento le massime.
+Previsore:ms.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
 					</text>
 				</giorno>
 </bollettino>
 
-<bollettino bollettinoid="DM" name="Dolomiti Meteo" title="Bollettino del 26 febbraio">
-<evoluzionegenerale><![CDATA[Mercoled&igrave; fase di moderato maltempo legata ad una ciclogenesi sul golfo di Genova. Gioved&igrave; una piccola dorsale si former&agrave;, prima del passaggio di un veloce fronte freddo nella notte di venerd&igrave;. A seguire un nucleo di aria fredda in spostamento verso la Francia richiamer&agrave; aria pi&ugrave; umida da sudest con condizioni di instabilit&agrave;. ]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="26 febbraio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_0.png" caption="26 febbraio pomeriggio" />
+<bollettino bollettinoid="DM" name="Dolomiti Meteo" title="Bollettino del 27 febbraio">
+<evoluzionegenerale><![CDATA[Gioved&igrave; una piccola dorsale interessa la montagna veneta prima del passaggio di un veloce fronte freddo nella notte di venerd&igrave;. A seguire un nucleo di aria fredda in quota in movimento all'Europa centrale alla Francia richiamer&agrave; aria pi&ugrave; umida da sudest con condizioni di instabilit&agrave; specie tra venerd&igrave; pomeriggio e il mattino di sabato. Da domenica e nei primi giorni della prossima settimana alta pressione con tempo stabile e via via pi&ugrave; mite.   ]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="27 febbraio">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_0.png" caption="27 febbraio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Cielo coperto con fenomeni diffusi (100%), a tratti di moderata intensit&agrave;, anche per rovesci su alcuni settori prealpini. Limite neve sui 1300-1500 m a tratti a 1100-1300 m nelle valli chiuse e durante i rovesci pi&ugrave; intensi. Sono previsti ulteriori cumuli medi di 10-20 mm,  meno sulle Dolomiti settentrionali e su Prealpi veronesi, mentre si potr&agrave; osservare apporti fino a 20-30 mm o anche pi&ugrave; tra Prealpi orientali e qualche settore delle Dolomiti meridionali, con altrettanti cm di neve oltre i 1700-1800 m.  Temperature massime in calo con debole escursione termica diurna. Venti in quota deboli o al pi&ugrave; moderati in rotazione da nordest ]]>
-					</text>
-				</giorno>
-				<giorno data="27 febbraio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_1.png" caption="27 febbraio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_2.png" caption="27 febbraio pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Residuo maltempo notturno, prima del suo totale esaurimento entro l'alba. Poi miglioramento del tempo con riduzione della nuvolosit&agrave; e ritorno di ampi rasserenamenti. Nelle ore pomeridiane tratti soleggiati e nuvolosit&agrave; cumuliforme, prima che il tempo peggiori di nuovo nel tardo pomeriggio/sera. <br /><b>Precipitazioni: </b>Nottetempo residui piovaschi sparsi (40-60%) in rapido esaurimento. Limite neve a 1300-1500 m. In giornata assenti (0%). Dalla tarda serata non esclusi nuovi fenomeni sparsi (30-50%) con neve oltre i 1300-1500 m a partire da Dolomiti. Eventuali accumuli irrisori.<br /><b>Temperature: </b>Minime in generale lieve calo e massime in leggera ripresa in relazione al buon soleggiamento, eccetto ulteriore lieve diminuzione delle stesse sulle cime dolomitiche pi&ugrave; alte. SuPrealpi - a 1500 m: min 1 max 4, a 2000 m: min -3 max 0 Dolomiti - a 2000 m: min -4 max 0, a 3000 m: min -10 max -9<br /><b>Venti: </b>Nelle valli deboli di direzione variabile; in quota deboli/moderati da nord-ovest al mattino, in rotazione da sud-ovest al pomeriggio/sera, a 5-15 km/h a 2000 m e 10-20 km/h a 3000 m.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Previsione: </b>Nel pomeriggio poco nuvoloso con annuvolamenti irregolari qua e l&agrave; soprattutto su Prealpi. Dalla sera nubi irregolari su bellunese. Precipitazioni: dalla tarda serata non esclusi piovaschi/rovesci qua e l&agrave; su Dolomiti (30-50%) con neve oltre i 1300-1500 m, in estensione in modo irregolare a Prealpi orientali nella notte. Eventuali accumuli di poco conto e irregolari. Temperature massime in aumento.   ]]>
 					</text>
 				</giorno>
 				<giorno data="28 febbraio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_3.png" caption="28 febbraio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_4.png" caption="28 febbraio pomeriggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_1.png" caption="28 febbraio mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_2.png" caption="28 febbraio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Cielo per lo pi&ugrave; nuvoloso su Prealpi, su Dolomiti nuvolosit&agrave; variabile alternata a schiarite specie sui settori settentrionali.   <br /><b>Precipitazioni: </b>Non escluso qualche isolato piovasco/rovescio qua e l&agrave; nella notte e fino all'alba (30-50%). In giornata, specie dalle ore centrali e nel pomeriggio possibili rovesci sparsi (40-60%). Limite neve in calo attorno a 1000 m, localmente pi&ugrave; in basso. Attesi accumuli assai irregolari ed ancora incerti (1-10 cm oltre i 1400 m)    <br /><b>Temperature: </b>Temperature in calo a tutte le quote. Su Prealpi - a 1500 m: min -1 max 1, a 2000 m: min -5 max -3 Dolomiti - a 2000 m: min -4 max -2, a 3000 m: min -11 max -10<br /><b>Venti: </b>Venti deboli di direzione variabile nelle valli, salvo locali rinforzi. In quota deboli/moderati da nordovest fino al mattino poi occidentali, a 5-15 km/h a 2000 m e 10-20 km/h a 3000 m.
+                        <![CDATA[<b>Tempo atteso: </b>Cielo per lo pi&ugrave; nuvoloso su Prealpi, su Dolomiti nuvolosit&agrave; variabile alternata a schiarite anche ampie specie sui settori settentrionali e al mattino. Dal pomeriggio generale aumento delle nubi ovunque fino a nuvoloso o moto nuvoloso in serata.    <br /><b>Precipitazioni: </b>Nella notte e fino all'alba non escluso qualche isolato piovasco/rovescio qua e l&agrave; (30-50%) pi&ugrave; probabili sul bellunese con neve oltre i 1100-1300 m. In mattinata poco probabili ma non del tutto escluso un piovasco isolato (10%) con un p&ograve; di neve oltre i 1100-1300 m.  Dalle ore centrali e nel pomeriggio/sera probabilit&agrave; in aumento anche per rovesci sparsi (40-60%). Limite neve in calo attorno a 1000 m in serata, localmente pi&ugrave; in basso durante i rovesci pi&ugrave; intensi. Attesi accumuli assai irregolari ed ancora incerti (1-10 cm oltre i 1400-1500 m)    <br /><b>Temperature: </b>Temperature in calo a tutte le quote. Su  Prealpi - a 1500 m: min -1 max 1, a 2000 m: min -4 max -3 Dolomiti - a 2000 m: min -4 max -3, a 3000 m: min -12 max -11<br /><b>Venti: </b>Venti deboli di direzione variabile nelle valli, salvo locali rinforzi. In quota deboli/moderati da nordovest fino al mattino poi occidentali, a 5-15 km/h a 2000 m e 10-20 km/h a 3000 m.
 <br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 				<giorno data=" 1 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_5.png" caption=" 1 marzo" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_3.png" caption=" 1 marzo mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_4.png" caption=" 1 marzo pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per sabato  1: </b>Per lo pi&ugrave; nuvoloso al mattino e su Prealpi con irregolari schiarite su Dolomiti nord. Nel pomeriggio tendenza ad irregolari schiarite via via pi&ugrave; ampie verso sera. Possibili deboli precipitazioni anche diffuse al mattino specie su Prealpi un p&ograve; meno probabili su Dolomiti nord, nevose fin sui 800-1000 m. Dal pomeriggio tendenza ad esaurimento dei fenomeni.  Temperature stazionarie o in lieve calo.  Venti deboli di direzione variabile nelle valli, salvo locali rinforzi nei settori solitamente pi&ugrave; ventilati. In quota perlopi&ugrave; deboli, a tratti moderati, da est/nordest.
+                        <![CDATA[<b>Tempo atteso: </b>Per lo pi&ugrave; nuvoloso al mattino e su Prealpi con irregolari schiarite su Dolomiti nord. Nel pomeriggio tendenza ad irregolari schiarite via via pi&ugrave; ampie verso sera. <br /><b>Precipitazioni: </b>Possibili deboli precipitazioni anche diffuse al mattino specie su Prealpi un p&ograve; meno probabili su Dolomiti nord, nevose fin sui 800-1000 m. Dal pomeriggio tendenza ad esaurimento dei fenomeni. Tra venerd&igrave; e sabato, seppur ancora piuttosto incerti, sono attesi accumuli assai irregolari e variabili sul territorio. (2-20 cm ma isolatamente non esclusi di pi&ugrave; oltre i 1400-1500 m)    
+<br /><b>Temperature: </b>Temperature stazionarie o in lieve calo. Prealpi - a 1500 m: min -3 max -2, a 2000 m: min -6 max -5 Dolomiti - a 2000 m: min -6 max -4, a 3000 m: min -13 max -12<br /><b>Venti: </b>Venti deboli di direzione variabile nelle valli, salvo locali rinforzi nei settori solitamente pi&ugrave; ventilati. In quota perlopi&ugrave; deboli, a tratti moderati sulle cime pi&ugrave; elevate delle Dolomiti e sulle dorsali prealpine,  5-15 km/h a 2000 m e 10-20 km/h a 3000 m, da sudest a 3000m, da est/nordest a 2000 m.
 <br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 				<giorno data=" 2 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_6.png" caption=" 2 marzo" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_5.png" caption=" 2 marzo" />
 					<text>
-                        <![CDATA[<b>Tendenza per domenica  2: </b>Al mattino irregolarmente nuvoloso con qualche schiarita pi&ugrave; ampia su Dolomiti nord, dal mezzogiorno e nel pomeriggio schiarite via via pi&ugrave; ampie fino a poco o parzialmente nuvoloso. Temperature massime in aumento. Venti deboli.
-Previsore: DDL<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Tendenza per domenica  2: </b>Qualche nube fino all'alba, poi sereno o al pi&ugrave; poco nuvoloso. Temperature minime in calo e massime in aumento. Venti in quota deboli da nordest.
+<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+					</text>
+				</giorno>
+				<giorno data=" 3 marzo">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_6.png" caption=" 3 marzo" />
+					<text>
+                        <![CDATA[<b>Tendenza per luned&igrave;  3: </b>Sereno o al pi&ugrave; poco nuvoloso. Temperature in marcato aumento. Venti deboli da nordest in quota, deboli variabili nelle valli.
+Previsore: DDL<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
 					</text>
 				</giorno>
 <quota_zero_termico>
-<previsione data="26 febbraio">1700</previsione>
 <previsione data="27 febbraio">1700</previsione>
 <previsione data="28 febbraio">1400</previsione>
-<previsione data=" 1 marzo">1000</previsione>
-<previsione data=" 2 marzo">1400</previsione>
+<previsione data=" 1 marzo">1100</previsione>
+<previsione data=" 2 marzo">1700</previsione>
+<previsione data=" 3 marzo">2100</previsione>
 </quota_zero_termico>
-<previsioni_localita data="27 febbraio">
+<previsioni_localita data="28 febbraio">
 <localita nome="Bosco C.N.">
-<tmin value="1" /><tmax value="6" />
-<scadenza data="gio 27 febbraio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><scadenza data="gio 27 febbraio Mattina"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="gio 27 febbraio Pomeriggio"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="gio 27 febbraio Sera"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><pioggia value="0" /><neve value="0" />
+<tmin value="1" /><tmax value="4" />
+<scadenza data="ven 28 febbraio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="ven 28 febbraio Mattina"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
+</scadenza><scadenza data="ven 28 febbraio Pomeriggio"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
+</scadenza><scadenza data="ven 28 febbraio Sera"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
+</scadenza><pioggia value="1-10" /><neve value="0" />
 </localita>
 <localita nome="Asiago">
-<tmin value="0" /><tmax value="5" />
-<scadenza data="gio 27 febbraio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><scadenza data="gio 27 febbraio Mattina"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="gio 27 febbraio Pomeriggio"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="gio 27 febbraio Sera"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><pioggia value="0" /><neve value="0" />
+<tmin value="0" /><tmax value="4" />
+<scadenza data="ven 28 febbraio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="ven 28 febbraio Mattina"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
+</scadenza><scadenza data="ven 28 febbraio Pomeriggio"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
+</scadenza><scadenza data="ven 28 febbraio Sera"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
+</scadenza><pioggia value="1-10" /><neve value="0" />
 </localita>
 <localita nome="Belluno">
-<tmin value="4" /><tmax value="12" />
-<scadenza data="gio 27 febbraio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><scadenza data="gio 27 febbraio Mattina"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="gio 27 febbraio Pomeriggio"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="gio 27 febbraio Sera"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><pioggia value="0" /><neve value="0" />
+<tmin value="3" /><tmax value="10" />
+<scadenza data="ven 28 febbraio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="ven 28 febbraio Mattina"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
+</scadenza><scadenza data="ven 28 febbraio Pomeriggio"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
+</scadenza><scadenza data="ven 28 febbraio Sera"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
+</scadenza><pioggia value="1-10" /><neve value="0" />
 </localita>
 <localita nome="Agordo">
-<tmin value="2" /><tmax value="10" />
-<scadenza data="gio 27 febbraio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><scadenza data="gio 27 febbraio Mattina"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="gio 27 febbraio Pomeriggio"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="gio 27 febbraio Sera"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><pioggia value="0" /><neve value="0" />
+<tmin value="2" /><tmax value="8" />
+<scadenza data="ven 28 febbraio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="ven 28 febbraio Mattina"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
+</scadenza><scadenza data="ven 28 febbraio Pomeriggio"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
+</scadenza><scadenza data="ven 28 febbraio Sera"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
+</scadenza><pioggia value="1-10" /><neve value="0" />
 </localita>
 <localita nome="Arabba">
-<tmin value="-2" /><tmax value="3" />
-<scadenza data="gio 27 febbraio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><scadenza data="gio 27 febbraio Mattina"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="gio 27 febbraio Pomeriggio"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="gio 27 febbraio Sera"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="20%" />
-</scadenza><pioggia value="0" /><neve value="0" />
+<tmin value="-4" /><tmax value="1" />
+<scadenza data="ven 28 febbraio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="ven 28 febbraio Mattina"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
+</scadenza><scadenza data="ven 28 febbraio Pomeriggio"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
+</scadenza><scadenza data="ven 28 febbraio Sera"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
+</scadenza><pioggia value="1-10" /><neve value="1-5" />
 </localita>
 <localita nome="Cortina d'Ampezzo">
-<tmin value="-1" /><tmax value="5" />
-<scadenza data="gio 27 febbraio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><scadenza data="gio 27 febbraio Mattina"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="gio 27 febbraio Pomeriggio"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="gio 27 febbraio Sera"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="20%" />
-</scadenza><pioggia value="0" /><neve value="0" />
+<tmin value="-2" /><tmax value="3" />
+<scadenza data="ven 28 febbraio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="ven 28 febbraio Mattina"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
+</scadenza><scadenza data="ven 28 febbraio Pomeriggio"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
+</scadenza><scadenza data="ven 28 febbraio Sera"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
+</scadenza><pioggia value="1-10" /><neve value="0-5" />
 </localita>
 <localita nome="Pieve di Cadore">
-<tmin value="2" /><tmax value="10" />
-<scadenza data="gio 27 febbraio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><scadenza data="gio 27 febbraio Mattina"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="gio 27 febbraio Pomeriggio"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="gio 27 febbraio Sera"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="20%" />
-</scadenza><pioggia value="0" /><neve value="0" />
+<tmin value="1" /><tmax value="7" />
+<scadenza data="ven 28 febbraio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="ven 28 febbraio Mattina"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
+</scadenza><scadenza data="ven 28 febbraio Pomeriggio"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
+</scadenza><scadenza data="ven 28 febbraio Sera"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
+</scadenza><pioggia value="1-10" /><neve value="0" />
 </localita>
 <localita nome="Auronzo di Cadore">
-<tmin value="1" /><tmax value="10" />
-<scadenza data="gio 27 febbraio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><scadenza data="gio 27 febbraio Mattina"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="gio 27 febbraio Pomeriggio"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="gio 27 febbraio Sera"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="20%" />
-</scadenza><pioggia value="0" /><neve value="0" />
+<tmin value="1" /><tmax value="8" />
+<scadenza data="ven 28 febbraio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="ven 28 febbraio Mattina"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
+</scadenza><scadenza data="ven 28 febbraio Pomeriggio"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
+</scadenza><scadenza data="ven 28 febbraio Sera"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
+</scadenza><pioggia value="1-10" /><neve value="0" />
 </localita>
 </previsioni_localita>
 </bollettino>
 
-<bollettino bollettinoid="MP" name="Meteo Pianura Veneta" title="Bollettino del 26 febbraio">
-<evoluzionegenerale><![CDATA[Mercoled&igrave; transita sul Veneto una perturbazione atlantica. Al suo seguito la circolazione rester&agrave; debolmente ciclonica: nei prossimi giorni saranno ancora frequenti gli annuvolamenti, ma minore rispetto a mercoled&igrave; la probabilit&agrave; di precipitazioni.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="26 febbraio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_0.png" caption="26 febbraio pomeriggio" />
+<bollettino bollettinoid="MP" name="Meteo Pianura Veneta" title="Bollettino del 27 febbraio">
+<evoluzionegenerale><![CDATA[Fino a sabato, la marginale influenza di correnti cicloniche associate a una bassa pressione sull'Europa centro-settentrionale, porter&agrave; sulla regione tratti di variabilit&agrave;, con frequenti annuvolamenti e qualche precipitazione. Da domenica, un cuneo di alta pressione dall'Atlantico espander&agrave; la sua influenza sull'Europa centro-occidentale, e il tempo torner&agrave; ad essere stabile e soleggiato.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="27 febbraio">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_0.png" caption="27 febbraio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Tempo perturbato con cielo molto nuvoloso o coperto. Precipitazioni diffuse di modesta o moderata entit&agrave;, frequenti nel corso della giornata, tendenti al diradamento a partire dalle zone meridionali verso sera. Temperature diurne in diminuzione rispetto a marted&igrave;. Venti nord-orientali, moderati o anche tesi lungo la costa.]]>
-					</text>
-				</giorno>
-				<giorno data="27 febbraio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_1.png" caption="27 febbraio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_2.png" caption="27 febbraio pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Nuvolosit&agrave; variabile pi&ugrave; presente e consistente nella prima parte della giornata alternata a tratti di sereno anche ampi a partire dalla mattina.<br /><b>Precipitazioni: </b>In prevalenza assenti, salvo probabilit&agrave; bassa (5-25%) di qualche residuo fenomeno a inizio giornata.<br /><b>Temperature: </b>In diminuzione le minime e in aumento le massime.<br /><b>Venti: </b>Variabili, in prevalenza dai settori occidentali, deboli o a tratti moderati.<br /><b>Mare: </b>Da mosso a poco mosso.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Previsione: </b>Sereno o poco nuvoloso. Temperature diurne in rialzo. Venti variabili deboli o a tratti moderati in prevalenza dai quadranti meridionali. ]]>
 					</text>
 				</giorno>
 				<giorno data="28 febbraio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_3.png" caption="28 febbraio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_4.png" caption="28 febbraio pomeriggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_1.png" caption="28 febbraio mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_2.png" caption="28 febbraio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Inizialmente cielo poco o parzialmente nuvoloso per nubi alte, con crescenti annuvolamenti a partire dalle ore centrali.<br /><b>Precipitazioni: </b>Probabilit&agrave; al pi&ugrave; medio-bassa (25-50%), soprattutto nella seconda parte della giornata, di locali precipitazioni a carattere discontinuo: al momento la probabilit&agrave; maggiore sembra riguardare le zone pedemontane e la pianura meridionale. <br /><b>Temperature: </b>Prevalentemente in diminuzione, salvo stazionariet&agrave; delle minime.<br /><b>Venti: </b>Deboli, a tratti moderati, in prevalenza orientali.<br /><b>Mare: </b>Poco mosso o quasi calmo.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>A inizio giornata cielo poco o parzialmente nuvoloso per nubi alte, con crescenti annuvolamenti a partire dalle ore centrali.<br /><b>Precipitazioni: </b>Probabilit&agrave; al pi&ugrave; medio-bassa (25-50%), soprattutto nella seconda parte della giornata, di locali precipitazioni a carattere discontinuo: al momento la probabilit&agrave; maggiore sembra riguardare le zone pedemontane, ma localmente saranno possibili anche in pianura.<br /><b>Temperature: </b>In diminuzione.<br /><b>Venti: </b>Deboli, a tratti moderati, in prevalenza dai settori orientali.<br /><b>Mare: </b>Poco mosso o quasi calmo.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 				<giorno data=" 1 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_5.png" caption=" 1 marzo" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_3.png" caption=" 1 marzo mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_4.png" caption=" 1 marzo pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per sabato  1: </b>Nuvoloso o molto nuvoloso, con qualche schiarita nelle ore pomeridiane. Temperature massime in diminuzione, minime in aumento. Intensificazione dei venti da nord-est.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Cielo nuvoloso o molto nuvoloso, salvo possibili temporanee schiarite. <br /><b>Precipitazioni: </b>Probabilit&agrave; medio-alta (50-75%) di modeste precipitazioni sparse a carattere discontinuo.<br /><b>Temperature: </b>Minime in rialzo, massime in diminuzione.<br /><b>Venti: </b>Nord-orientali moderati sull'entroterra, tesi lungo la costa.<br /><b>Mare: </b>Da poco mosso a mosso.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 				<giorno data=" 2 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_6.png" caption=" 2 marzo" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_5.png" caption=" 2 marzo" />
 					<text>
-                        <![CDATA[<b>Tendenza per domenica  2: </b>All'inizio cielo ancora nuvoloso e possibilit&agrave; di qualche precipitazione soprattutto sulle zone occidentali, ma con nuvolosit&agrave; in diminuzione soprattutto a partire dalle ore centrali. Temperature massime in aumento.
-Previsore:ms.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
+                        <![CDATA[<b>Tendenza per domenica  2: </b>Residui annuvolamenti a inizio giornata, con nuvolosit&agrave; in diminuzione fino a cielo sereno. Temperature minime in calo e massime in aumento.
+<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+					</text>
+				</giorno>
+				<giorno data=" 3 marzo">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_6.png" caption=" 3 marzo" />
+					<text>
+                        <![CDATA[<b>Tendenza per luned&igrave;  3: </b>Tempo stabile con cielo sereno. Temperature in diminuzione le minime, senza notevoli variazioni o in locale aumento le massime.
+Previsore:ms.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
 					</text>
 				</giorno>
 </bollettino>
