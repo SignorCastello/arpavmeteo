@@ -1,43 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <previsioni>
-<data_emissione date="01/03/2025 alle 13:00" />
-<data_aggiornamento date="01/03 alle 16.00" />
+<data_emissione date="02/03/2025 alle 13:00" />
+<data_aggiornamento date="02/03 alle 16.00" />
 <meteogrammi>
 <meteogramma zoneid="1" name="Dolomiti Nord-Est">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura 2000m" type="text" value="max -3 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max -12 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura 2000m" type="text" value="min -5 C" />
-          <previsione title="Temperatura 3000m" type="text" value="min -11 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
 				<scadenza data="dom  2 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-          <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
           <previsione title="Temperatura 2000m" type="text" value="max 0 C" />
           <previsione title="Temperatura 3000m" type="text" value="max -8 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="lun  3 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="Sereno" />
-          <previsione title="Temperatura 2000m" type="text" value="min -2 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min -1 C" />
           <previsione title="Temperatura 3000m" type="text" value="min -7 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
@@ -45,8 +25,8 @@
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 				<scadenza data="lun  3 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+          <previsione title="Cielo" type="text" value="Sereno" />
           <previsione title="Temperatura 2000m" type="text" value="max 3 C" />
           <previsione title="Temperatura 3000m" type="text" value="max -6 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
@@ -54,17 +34,37 @@
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
-				<scadenza data="mar  4 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso per nubi alte" />
+				<scadenza data="mar  4 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura 2000m" type="text" value="min 1 C" />
+          <previsione title="Temperatura 3000m" type="text" value="min -6 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura 2000m" type="text" value="max 3 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max -6 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 				<scadenza data="mer  5 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="gio  6 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno" />
 				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -73,40 +73,20 @@
 </meteogramma>
 
 <meteogramma zoneid="2" name="Dolomiti Sud-Ovest">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura 2000m" type="text" value="max -3 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max -12 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura 2000m" type="text" value="min -5 C" />
-          <previsione title="Temperatura 3000m" type="text" value="min -11 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
 				<scadenza data="dom  2 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-          <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso per velature" />
           <previsione title="Temperatura 2000m" type="text" value="max 0 C" />
           <previsione title="Temperatura 3000m" type="text" value="max -8 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="lun  3 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="Sereno" />
-          <previsione title="Temperatura 2000m" type="text" value="min -2 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min -1 C" />
           <previsione title="Temperatura 3000m" type="text" value="min -7 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
@@ -114,8 +94,8 @@
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 				<scadenza data="lun  3 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+          <previsione title="Cielo" type="text" value="Sereno" />
           <previsione title="Temperatura 2000m" type="text" value="max 3 C" />
           <previsione title="Temperatura 3000m" type="text" value="max -6 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
@@ -123,17 +103,37 @@
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
-				<scadenza data="mar  4 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso per nubi alte" />
+				<scadenza data="mar  4 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura 2000m" type="text" value="min 1 C" />
+          <previsione title="Temperatura 3000m" type="text" value="min -6 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura 2000m" type="text" value="max 3 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max -6 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 				<scadenza data="mer  5 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="gio  6 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno" />
 				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -142,40 +142,20 @@
 </meteogramma>
 
 <meteogramma zoneid="3" name="Belluno e Prealpi orientali">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura 1500m" type="text" value="max 1 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max -4 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura 1500m" type="text" value="min -1 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min -5 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
 				<scadenza data="dom  2 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-          <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
           <previsione title="Temperatura 1500m" type="text" value="max 2 C" />
           <previsione title="Temperatura 2000m" type="text" value="max -2 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="lun  3 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="Sereno" />
-          <previsione title="Temperatura 1500m" type="text" value="min 0 C" />
+          <previsione title="Temperatura 1500m" type="text" value="min 1 C" />
           <previsione title="Temperatura 2000m" type="text" value="min -2 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
@@ -183,8 +163,8 @@
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 				<scadenza data="lun  3 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+          <previsione title="Cielo" type="text" value="Sereno" />
           <previsione title="Temperatura 1500m" type="text" value="max 4 C" />
           <previsione title="Temperatura 2000m" type="text" value="max 1 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
@@ -192,17 +172,37 @@
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
-				<scadenza data="mar  4 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso per nubi alte" />
+				<scadenza data="mar  4 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura 1500m" type="text" value="min 3 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min 1 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura 1500m" type="text" value="max 6 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max 1 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 				<scadenza data="mer  5 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="gio  6 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno" />
 				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -211,40 +211,20 @@
 </meteogramma>
 
 <meteogramma zoneid="4" name="Prealpi centrali">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura 1500m" type="text" value="max 1 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max -4 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura 1500m" type="text" value="min -1 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min -5 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
 				<scadenza data="dom  2 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-          <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
           <previsione title="Temperatura 1500m" type="text" value="max 2 C" />
           <previsione title="Temperatura 2000m" type="text" value="max -2 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="lun  3 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="Sereno" />
-          <previsione title="Temperatura 1500m" type="text" value="min 0 C" />
+          <previsione title="Temperatura 1500m" type="text" value="min 1 C" />
           <previsione title="Temperatura 2000m" type="text" value="min -2 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
@@ -252,8 +232,8 @@
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 				<scadenza data="lun  3 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+          <previsione title="Cielo" type="text" value="Sereno" />
           <previsione title="Temperatura 1500m" type="text" value="max 4 C" />
           <previsione title="Temperatura 2000m" type="text" value="max 1 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
@@ -261,17 +241,37 @@
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
-				<scadenza data="mar  4 marzo">
+				<scadenza data="mar  4 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso per nubi alte" />
+          <previsione title="Temperatura 1500m" type="text" value="min 3 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min 1 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura 1500m" type="text" value="max 6 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max 1 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 				<scadenza data="mer  5 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="gio  6 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno" />
 				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -280,291 +280,25 @@
 </meteogramma>
 
 <meteogramma zoneid="5" name="Pedemontana orientale">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 1/3 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
 				<scadenza data="dom  2 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="lun  3 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min -1/1 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="lun  3 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mar  4 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mer  5 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-</meteogramma>
-
-<meteogramma zoneid="6" name="Treviso e pianura orientale">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 13/15 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 1/3 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="dom  2 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="lun  3 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min -1/1 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="lun  3 marzo pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
           <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mar  4 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mer  5 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-</meteogramma>
-
-<meteogramma zoneid="7" name="Veneziano orientale">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
 					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 1/3 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="dom  2 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="lun  3 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min -1/1 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="lun  3 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mar  4 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mer  5 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-</meteogramma>
-
-<meteogramma zoneid="8" name="Prealpi occidentali">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura 1500m" type="text" value="max 1 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max -4 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 1000 m" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura 1500m" type="text" value="min -1 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min -5 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="dom  2 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-          <previsione title="Cielo" type="text" value="In prevalenza sereno" />
-          <previsione title="Temperatura 1500m" type="text" value="max 2 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max -2 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 				<scadenza data="lun  3 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="Sereno" />
-          <previsione title="Temperatura 1500m" type="text" value="min 0 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min -2 C" />
+          <previsione title="Temperatura" type="text" value="min -2/0 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 				<scadenza data="lun  3 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno" />
-          <previsione title="Temperatura 1500m" type="text" value="max 4 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 1 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mar  4 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso per nubi alte" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mer  5 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-</meteogramma>
-
-<meteogramma zoneid="9" name="Vicenza e pedemontana">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 0/2 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="dom  2 marzo pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
           <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
           <previsione title="Temperatura" type="text" value="max 11/13 C" />
@@ -573,337 +307,7 @@
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
-				<scadenza data="lun  3 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min -1/1 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="lun  3 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mar  4 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mer  5 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-</meteogramma>
-
-<meteogramma zoneid="10" name="Padova e pianura centrale">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 3/5 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="dom  2 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="lun  3 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 0/2 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="lun  3 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mar  4 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mer  5 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-</meteogramma>
-
-<meteogramma zoneid="11" name="Venezia e laguna">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 4/6 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="dom  2 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="lun  3 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 1/3 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="lun  3 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da nord" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mar  4 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mer  5 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-</meteogramma>
-
-<meteogramma zoneid="12" name="Delta del Po">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da est" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 4/6 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="dom  2 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da nord" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="lun  3 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 2/4 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="lun  3 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da nord" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mar  4 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mer  5 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-</meteogramma>
-
-<meteogramma zoneid="13" name="Rovigo e pianura meridionale">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 3/5 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="dom  2 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="lun  3 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 1/3 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="lun  3 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mar  4 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mer  5 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-</meteogramma>
-
-<meteogramma zoneid="14" name="Verona e pedemontana">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 13/15 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 1/3 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="dom  2 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="lun  3 marzo mattina">
+				<scadenza data="mar  4 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
           <previsione title="Temperatura" type="text" value="min -2/0 C" />
@@ -912,26 +316,622 @@
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
-				<scadenza data="lun  3 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mar  4 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 				<scadenza data="mer  5 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="gio  6 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+</meteogramma>
+
+<meteogramma zoneid="6" name="Treviso e pianura orientale">
+				<scadenza data="dom  2 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="" />
+				</scadenza>
+				<scadenza data="lun  3 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno" />
+          <previsione title="Temperatura" type="text" value="min -1/1 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="lun  3 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min -2/0 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura" type="text" value="max 14/16 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mer  5 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="gio  6 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+</meteogramma>
+
+<meteogramma zoneid="7" name="Veneziano orientale">
+				<scadenza data="dom  2 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="" />
+				</scadenza>
+				<scadenza data="lun  3 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno" />
+          <previsione title="Temperatura" type="text" value="min 0/2 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="lun  3 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da nordovest" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min -1/1 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura" type="text" value="max 14/16 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da sudovest" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mer  5 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="gio  6 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+</meteogramma>
+
+<meteogramma zoneid="8" name="Prealpi occidentali">
+				<scadenza data="dom  2 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura 1500m" type="text" value="max 2 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max -2 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="" />
+				</scadenza>
+				<scadenza data="lun  3 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno" />
+          <previsione title="Temperatura 1500m" type="text" value="min 1 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min -2 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="lun  3 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+          <previsione title="Cielo" type="text" value="Sereno" />
+          <previsione title="Temperatura 1500m" type="text" value="max 4 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max 1 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso per nubi alte" />
+          <previsione title="Temperatura 1500m" type="text" value="min 3 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min 1 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura 1500m" type="text" value="max 6 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max 1 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mer  5 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="gio  6 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+</meteogramma>
+
+<meteogramma zoneid="9" name="Vicenza e pedemontana">
+				<scadenza data="dom  2 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="" />
+				</scadenza>
+				<scadenza data="lun  3 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno" />
+          <previsione title="Temperatura" type="text" value="min 1/3 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="lun  3 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 1/3 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura" type="text" value="max 14/16 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mer  5 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="gio  6 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+</meteogramma>
+
+<meteogramma zoneid="10" name="Padova e pianura centrale">
+				<scadenza data="dom  2 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="" />
+				</scadenza>
+				<scadenza data="lun  3 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno" />
+          <previsione title="Temperatura" type="text" value="min -1/1 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="lun  3 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 0/2 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura" type="text" value="max 14/16 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mer  5 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="gio  6 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+</meteogramma>
+
+<meteogramma zoneid="11" name="Venezia e laguna">
+				<scadenza data="dom  2 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 11/13 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="" />
+				</scadenza>
+				<scadenza data="lun  3 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno" />
+          <previsione title="Temperatura" type="text" value="min 1/3 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="lun  3 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da nord" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 1/3 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da nord" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da sud" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mer  5 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="gio  6 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+</meteogramma>
+
+<meteogramma zoneid="12" name="Delta del Po">
+				<scadenza data="dom  2 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 10/12 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="" />
+				</scadenza>
+				<scadenza data="lun  3 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno" />
+          <previsione title="Temperatura" type="text" value="min 1/3 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="lun  3 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nord" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 0/2 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nord" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mer  5 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="gio  6 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+</meteogramma>
+
+<meteogramma zoneid="13" name="Rovigo e pianura meridionale">
+				<scadenza data="dom  2 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 11/13 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="" />
+				</scadenza>
+				<scadenza data="lun  3 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno" />
+          <previsione title="Temperatura" type="text" value="min 1/3 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="lun  3 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 0/2 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura" type="text" value="max 14/16 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mer  5 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="gio  6 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+</meteogramma>
+
+<meteogramma zoneid="14" name="Verona e pedemontana">
+				<scadenza data="dom  2 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="" />
+				</scadenza>
+				<scadenza data="lun  3 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno" />
+          <previsione title="Temperatura" type="text" value="min -1/1 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="lun  3 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 0/2 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura" type="text" value="max 14/16 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mer  5 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="gio  6 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
 				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -940,40 +940,20 @@
 </meteogramma>
 
 <meteogramma zoneid="15" name="Area del Garda">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da est" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
+				<scadenza data="dom  2 marzo pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 1/3 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da nord" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="dom  2 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="A regime di brezza" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="lun  3 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 0/2 C" />
+         <previsione title="Cielo" type="text" value="Sereno" />
+          <previsione title="Temperatura" type="text" value="min 1/3 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -981,26 +961,46 @@
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 				<scadenza data="lun  3 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="A regime di brezza" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
-				<scadenza data="mar  4 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+				<scadenza data="mar  4 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 1/3 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="A regime di brezza" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="A regime di brezza" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mer  5 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
-				<scadenza data="mer  5 marzo">
+				<scadenza data="gio  6 marzo">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
 				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -1009,40 +1009,20 @@
 </meteogramma>
 
 <meteogramma zoneid="16" name="Litorale nord">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+				<scadenza data="dom  2 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 11/13 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da nordest" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 1/3 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="dom  2 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
 				<scadenza data="lun  3 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min -1/1 C" />
+         <previsione title="Cielo" type="text" value="Sereno" />
+          <previsione title="Temperatura" type="text" value="min 0/2 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -1050,26 +1030,46 @@
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 				<scadenza data="lun  3 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da nordovest" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+          <previsione title="Temperatura" type="text" value="min -1/1 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Deboli da nordest" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
-				<scadenza data="mar  4 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura" type="text" value="max 14/16 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da sudovest" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mer  5 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
-				<scadenza data="mer  5 marzo">
+				<scadenza data="gio  6 marzo">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
 				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -1078,39 +1078,19 @@
 </meteogramma>
 
 <meteogramma zoneid="17" name="Litorale centrale">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+				<scadenza data="dom  2 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 11/13 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da nordest" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 4/6 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="dom  2 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
 				<scadenza data="lun  3 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+         <previsione title="Cielo" type="text" value="Sereno" />
           <previsione title="Temperatura" type="text" value="min 1/3 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
@@ -1119,8 +1099,8 @@
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 				<scadenza data="lun  3 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
           <previsione title="Temperatura" type="text" value="max 12/14 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
@@ -1128,17 +1108,37 @@
           <previsione title="Vento" type="text" value="Deboli da nord" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
-				<scadenza data="mar  4 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+				<scadenza data="mar  4 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 1/3 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da nord" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da sud" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mer  5 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
-				<scadenza data="mer  5 marzo">
+				<scadenza data="gio  6 marzo">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
 				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -1147,40 +1147,20 @@
 </meteogramma>
 
 <meteogramma zoneid="18" name="Litorale sud">
-				<scadenza data="sab  1 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da est" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="dom  2 marzo mattina">
+				<scadenza data="dom  2 marzo pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 5/7 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Temperatura" type="text" value="max 10/12 C" />
+          <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="dom  2 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da nord" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="lun  3 marzo mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 2/4 C" />
+         <previsione title="Cielo" type="text" value="Sereno" />
+          <previsione title="Temperatura" type="text" value="min 1/3 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -1188,26 +1168,46 @@
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
 				<scadenza data="lun  3 marzo pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
+          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
           <previsione title="Temperatura" type="text" value="max 12/14 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da nord" />
+          <previsione title="Vento" type="text" value="Moderati da nord" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
-				<scadenza data="mar  4 marzo">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+				<scadenza data="mar  4 marzo mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 0/2 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nord" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mar  4 marzo pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="mer  5 marzo">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
 				</scadenza>
-				<scadenza data="mer  5 marzo">
+				<scadenza data="gio  6 marzo">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png"/>
-         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
 				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -1218,187 +1218,189 @@
 </meteogrammi>
 <bollettini>
 
-<bollettino bollettinoid="MV" name="Meteo Veneto" title="Bollettino del  1 marzo">
-<evoluzionegenerale><![CDATA[Nel fine settimana tende ad esaurirsi un flusso d'aria relativamente fredda dai quadranti nord-orientali, richiamato anche sul Veneto da una circolazione ciclonica presente sull'Europa centro-settentrionale; la successiva espansione di un promontorio anticiclonico dall'Atlantico assicura sulla nostra regione da domenica ampi spazi di sereno, con ripresa dell'escursione termica diurna.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data=" 1 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_0.png" caption=" 1 marzo pomeriggio" />
+<bollettino bollettinoid="MV" name="Meteo Veneto" title="Bollettino del  2 marzo">
+<evoluzionegenerale><![CDATA[Sulla nostra regione il tempo si fa stabile con ampi spazi di sereno perch&egrave; dapprima aumenta la pressione, poi anche le temperature, salvo ritorno di un po' di inversioni termiche e qualche possibile locale nebbia sulle zone pianeggianti nelle ore pi&ugrave; fredde.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data=" 2 marzo">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_0.png" caption=" 2 marzo pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Cielo da nuvoloso a parzialmente nuvoloso con crescenti spazi di sereno, specie a fine giornata; precipitazioni generalmente assenti, salvo al pi&ugrave; occasionali lievi fenomeni; fasi di rinforzo del vento per Bora in pianura.]]>
-					</text>
-				</giorno>
-				<giorno data=" 2 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_1.png" caption=" 2 marzo mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_2.png" caption=" 2 marzo pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Cielo sereno o poco nuvoloso.<br /><b>Precipitazioni: </b>Assenti.<br /><b>Temperature: </b>Minime in diminuzione, localmente anche sensibile nelle valli; riguardo alle massime, prevalgono aumenti sulle zone montane e valori stazionari o in locale lieve diminuzione su quelle pianeggianti.<br /><b>Venti: </b>In quota da nord-est moderati, localmente anche tesi sulle Prealpi verso sera; nelle valli deboli, con lieve prevalenza dai quadranti nord-orientali; sulla pianura in prevalenza da nord-est, sull'entroterra da moderati a deboli e sulle zone costiere da tesi a moderati.<br /><b>Mare: </b>In prevalenza mosso, specie al largo.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+                        <![CDATA[<b>Previsione: </b>Cielo sereno, od al pi&ugrave; localmente poco nuvoloso.]]>
 					</text>
 				</giorno>
 				<giorno data=" 3 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_3.png" caption=" 3 marzo mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_4.png" caption=" 3 marzo pomeriggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_1.png" caption=" 3 marzo mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_2.png" caption=" 3 marzo pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Cielo in genere da sereno a poco nuvoloso.<br /><b>Precipitazioni: </b>Assenti.<br /><b>Temperature: </b>Nelle valli e sulla fascia pedemontana, contenute variazioni di carattere locale; aumenti in quota; sulla pianura, minime in diminuzione e massime in leggero aumento.<br /><b>Venti: </b>In quota dai quadranti orientali, perlopi&ugrave; moderati ma con tendenza a divenire deboli sulle Dolomiti; nelle valli e sulla fascia pedemontana deboli con direzione variabile, salvo locale prevalenza dai quadranti orientali; altrove in prevalenza dai quadranti settentrionali, da moderati a deboli con attenuazione a partire dall'entroterra.<br /><b>Mare: </b>Nelle prime ore mosso soprattutto al largo e il settore meridionale, poi da poco mosso a quasi calmo.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Cielo da sereno a poco nuvoloso; nelle ore pi&ugrave; fredde in pianura non sono esclusi occasionali banchi di nebbia, per il resto visibilit&agrave; ottima.<br /><b>Precipitazioni: </b>Assenti.<br /><b>Temperature: </b>Aumenti sulle zone montane, pi&ugrave; significativi riguardo alle minime in quota; sulla fascia pedemontana, contenute variazioni di carattere locale con prevalenza di aumenti riguardo alle massime; altrove, minime in calo e massime in leggero aumento.<br /><b>Venti: </b>In quota dai quadranti orientali, sulle Dolomiti deboli, sulle Prealpi a tratti deboli e pi&ugrave; spesso moderati; su costa e parte della bassa pianura nelle prime ore moderati e poi da moderati a deboli, dai quadranti settentrionali; altrove, generalmente deboli con direzione variabile.<br /><b>Mare: </b>Da poco mosso a quasi calmo.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
 					</text>
 				</giorno>
 				<giorno data=" 4 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_5.png" caption=" 4 marzo" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_3.png" caption=" 4 marzo mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_4.png" caption=" 4 marzo pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per marted&igrave;  4: </b>Cielo sereno o poco nuvoloso, a parte qualche modesto addensamento all'inizio della giornata; nelle ore pi&ugrave; fredde, possibili locali nebbie sulla pianura centro-meridionale; per le temperature prevale un contenuto aumento, salvo varie modeste controtendenze delle minime in pianura.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Cielo sereno, salvo qualche possibile modesto annuvolamento nelle primissime ore; nelle ore pi&ugrave; fredde, possibili locali nebbie sulla pianura centro-meridionale.<br /><b>Precipitazioni: </b>Assenti.<br /><b>Temperature: </b>Minime sulle zone montane e pedemontane in contenuto aumento, altrove stazionarie o in leggero calo; massime in aumento, specie nelle valli e sull'entroterra pianeggiante.<br /><b>Venti: </b>In quota nelle prime ore da deboli a moderati dai quadranti orientali per rinforzi a partire dalle Prealpi, poi moderati da sud-est; altrove, in genere deboli con direzione variabile, salvo temporanee fasi di moderato rinforzo dai quadranti settentrionali sulla costa.<br /><b>Mare: </b>Quasi calmo.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
 					</text>
 				</giorno>
 				<giorno data=" 5 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_6.png" caption=" 5 marzo" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_5.png" caption=" 5 marzo" />
 					<text>
-                        <![CDATA[<b>Tendenza per mercoled&igrave;  5: </b>Cielo generalmente sereno; nelle ore pi&ugrave; fredde, possibili locali banchi di nebbia sulla pianura centro-meridionale; per le temperature prevale un moderato aumento, salvo locali lievi controtendenze delle minime sulla pianura centro-meridionale.
+                        <![CDATA[<b>Tendenza per mercoled&igrave;  5: </b>Cielo sereno, od al pi&ugrave; localmente poco nuvoloso di sera; nelle ore pi&ugrave; fredde, possibile qualche locale nebbia su costa e pianura centro-meridionale; per le temperature prevale un moderato aumento, salvo locali lievi controtendenze in pianura per le minime a sud-ovest e per le massime a nord-est.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+					</text>
+				</giorno>
+				<giorno data=" 6 marzo">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_6.png" caption=" 6 marzo" />
+					<text>
+                        <![CDATA[<b>Tendenza per gioved&igrave;  6: </b>Cielo generalmente sereno; nelle ore pi&ugrave; fredde, probabili alcune nebbie sulla bassa pianura e in qualche valle prealpina; per le temperature sono attese contenute variazioni di carattere locale, tra cui lievi diminuzioni sulla costa e aumenti sull'entroterra specie riguardo alle minime.
 Previsore: AB<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
 					</text>
 				</giorno>
 </bollettino>
 
-<bollettino bollettinoid="DM" name="Dolomiti Meteo" title="Bollettino del  1 marzo">
-<evoluzionegenerale><![CDATA[Oggi, nel primo giorno di primavera meteorologica, un nucleo di aria fredda in quota si allontana dalle Alpi verso ovest con residua variabilit&agrave; nel pomeriggio. Da domenica e per buona parte della prossima settimana alta pressione con tempo stabile e via via pi&ugrave; mite.   ]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data=" 1 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_0.png" caption=" 1 marzo pomeriggio" />
+<bollettino bollettinoid="DM" name="Dolomiti Meteo" title="Bollettino del  2 marzo">
+<evoluzionegenerale><![CDATA[Da oggi e per buona parte della prossima settimana alta pressione con tempo stabile e via via pi&ugrave; mite.   ]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data=" 2 marzo">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_0.png" caption=" 2 marzo pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Annuvolamenti anche intensi con qualche fiocco qua e l&agrave; sulle cime e schiarite via via pi&ugrave; ampie a partire da Dolomiti in estensione a Prealpi verso sera fino a poco nuvoloso ovunque in tarda serata. Temperature massime stazionarie o in lieve calo. Venti deboli di direzione variabile nelle valli. In quota perlopi&ugrave; deboli da sudest su Dolomiti, a tratti moderati sulle cime dolomitiche pi&ugrave; elevate; su Prealpi rinforzi da nordest fino a tratti tesi sulle dorsali prealpine vicentine e veronesi.  ]]>
-					</text>
-				</giorno>
-				<giorno data=" 2 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_1.png" caption=" 2 marzo mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_2.png" caption=" 2 marzo pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>In qualche fondovalle nubi basse qua e l&agrave; fino all'alba, poi sereno o al pi&ugrave; poco nuvoloso per qualche addensamento nel pomeriggio sui settori prealpini esposti alla pianura e qualche velatura nel tardo pomeriggio/sera su Dolomiti.  <br /><b>Precipitazioni: </b>Assenti (0%)<br /><b>Temperature: </b>Temperature minime in calo e massime in aumento.  Prealpi - a 1500 m: min -1 max 2, a 2000 m: min -5 max -2 Dolomiti - a 2000 m: min -5 max 0, a 3000 m: min -11 max -8<br /><b>Venti: </b>Venti in quota deboli da nordest a 5-15 km/h a 2000 m e 10-20 km/h a 3000 m.
-
-<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+                        <![CDATA[<b>Previsione: </b>Sereno o al pi&ugrave; poco nuvoloso per qualche addensamento sui settori prealpini esposti alla pianura e qualche velatura nel tardo pomeriggio/sera su Dolomiti. Temperature massime in aumento. Venti in quota deboli da nordest, brezze nelle valli. 
+]]>
 					</text>
 				</giorno>
 				<giorno data=" 3 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_3.png" caption=" 3 marzo mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_4.png" caption=" 3 marzo pomeriggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_1.png" caption=" 3 marzo mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_2.png" caption=" 3 marzo pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Sereno con aria tersa ed ottima visibilit&agrave;, o al pi&ugrave; poco nuvoloso per qualche velatura verso sera. Fino al primo mattino non esclusa nebbia o nubi basse in qualche fondovalle prealpino.  <br /><b>Precipitazioni: </b>Assenti (0%)<br /><b>Temperature: </b>Temperature minime stazionarie nelle valli e in lieve aumento in quota, massime in aumento a tutte le quote.  Prealpi - a 1500 m: min 0 max 4, a 2000 m: min -2 max 1 Dolomiti - a 2000 m: min -2 max 3, a 3000 m: min -7 max -6<br /><b>Venti: </b>Venti deboli da nordest in quota, brezze nelle valli,  a 5-15 km/h si a 2000 che a 3000 m 
+                        <![CDATA[<b>Tempo atteso: </b>Sereno con ottima visibilit&agrave;, al pi&ugrave; poco nuvoloso per qualche velatura verso sera. Fino al primo mattino non esclusa locale nebbia o nubi basse in qualche fondovalle prealpino.  <br /><b>Precipitazioni: </b>Assenti (0%)<br /><b>Temperature: </b>Temperature minime stazionarie nelle valli e in lieve aumento in quota, massime in aumento a tutte le quote con marcata escursione termica diurna.    Prealpi - a 1500 m: min 1 max 4, a 2000 m: min -2 max 1 Dolomiti - a 2000 m: min -1 max 3, a 3000 m: min -7 max -6<br /><b>Venti: </b>Venti deboli da nordest in quota, brezze nelle valli, a 5-15 km/h si a 2000 che a 3000 m 
 
 <br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
 					</text>
 				</giorno>
 				<giorno data=" 4 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_5.png" caption=" 4 marzo" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_3.png" caption=" 4 marzo mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_4.png" caption=" 4 marzo pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per marted&igrave;  4: </b>Tra notte e mattino poco nuvoloso per qualche velatura. Dalle ore centrali e nel pomeriggio sereno. Temperature in ulteriore generale aumento specie le massime. Venti deboli o al pi&ugrave; moderati in alta quota da nordest con brezze nelle valli. 
+                        <![CDATA[<b>Tempo atteso: </b>Tra notte e mattino poco nuvoloso per qualche velatura. Dalle ore centrali e nel pomeriggio sereno. <br /><b>Precipitazioni: </b>Assenti (0%)<br /><b>Temperature: </b>Temperature in ulteriore generale aumento specie le massime, con marcata escursione termica giornaliera nelle valli, far&agrave; eccezione l'alta quota con temperature pressoch&egrave; stazionarie oltre i 2700 m. Su Prealpi - a 1500 m: min 3 max 6, a 2000 m: min 1 max 1 Dolomiti - a 2000 m: min 1 max 3, a 3000 m: min -6 max -6<br /><b>Venti: </b>Venti in quota deboli da est, brezze nelle valli, a 5-15 km/h si a 2000 che a 3000 m 
+
 <br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
 					</text>
 				</giorno>
 				<giorno data=" 5 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_6.png" caption=" 5 marzo" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_5.png" caption=" 5 marzo" />
 					<text>
-                        <![CDATA[<b>Tendenza per mercoled&igrave;  5: </b>Cielo sereno. Temperature in generale aumento specie le massime con valori ben superiori alla media del periodo.  Venti moderati meridionali in alta quota, brezze nelle valli. 
+                        <![CDATA[<b>Tendenza per mercoled&igrave;  5: </b>Cielo sereno. Temperature in lieve aumento specie le massime con valori ben superiori alla media del periodo e marcata escursione termica giornaliera nelle valli. Venti deboli o al pi&ugrave; moderati meridionali in alta quota, brezze nelle valli. 
+<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+					</text>
+				</giorno>
+				<giorno data=" 6 marzo">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_6.png" caption=" 6 marzo" />
+					<text>
+                        <![CDATA[<b>Tendenza per gioved&igrave;  6: </b>Cielo sereno. Temperature stazionarie o in ulteriore lieve aumento. Venti in quota meridionali, moderati a tratti tesi sulle cime dolomitiche pi&ugrave; elevate, brezze nelle valli. 
+
 Previsore: DDL<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
 					</text>
 				</giorno>
 <quota_zero_termico>
-<previsione data=" 1 marzo">1400</previsione>
 <previsione data=" 2 marzo">1600</previsione>
 <previsione data=" 3 marzo">2100</previsione>
-<previsione data=" 4 marzo">2100</previsione>
+<previsione data=" 4 marzo">2200</previsione>
 <previsione data=" 5 marzo">2400</previsione>
+<previsione data=" 6 marzo">2400</previsione>
 </quota_zero_termico>
-<previsioni_localita data=" 2 marzo">
+<previsioni_localita data=" 3 marzo">
 <localita nome="Bosco C.N.">
-<tmin value="0" /><tmax value="6" />
-<scadenza data="dom  2 marzo Notte"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Mattina"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Pomeriggio"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+<tmin value="0" /><tmax value="7" />
+<scadenza data="lun  3 marzo Notte"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Mattina"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Pomeriggio"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
 </scadenza><pioggia value="0" /><neve value="0" />
 </localita>
 <localita nome="Asiago">
-<tmin value="-5" /><tmax value="5" />
-<scadenza data="dom  2 marzo Notte"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Mattina"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Pomeriggio"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+<tmin value="-7" /><tmax value="6" />
+<scadenza data="lun  3 marzo Notte"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Mattina"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Pomeriggio"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
 </scadenza><pioggia value="0" /><neve value="0" />
 </localita>
 <localita nome="Belluno">
-<tmin value="0" /><tmax value="11" />
-<scadenza data="dom  2 marzo Notte"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Mattina"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Pomeriggio"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+<tmin value="0" /><tmax value="12" />
+<scadenza data="lun  3 marzo Notte"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Mattina"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Pomeriggio"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
 </scadenza><pioggia value="0" /><neve value="0" />
 </localita>
 <localita nome="Agordo">
-<tmin value="-2" /><tmax value="9" />
-<scadenza data="dom  2 marzo Notte"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Mattina"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Pomeriggio"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+<tmin value="-3" /><tmax value="10" />
+<scadenza data="lun  3 marzo Notte"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Mattina"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Pomeriggio"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
 </scadenza><pioggia value="0" /><neve value="0" />
 </localita>
 <localita nome="Arabba">
-<tmin value="-3" /><tmax value="3" />
-<scadenza data="dom  2 marzo Notte"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Mattina"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Pomeriggio"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+<tmin value="-3" /><tmax value="5" />
+<scadenza data="lun  3 marzo Notte"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Mattina"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Pomeriggio"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
 </scadenza><pioggia value="0" /><neve value="0" />
 </localita>
 <localita nome="Cortina d'Ampezzo">
-<tmin value="-4" /><tmax value="6" />
-<scadenza data="dom  2 marzo Notte"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Mattina"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Pomeriggio"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+<tmin value="-3" /><tmax value="7" />
+<scadenza data="lun  3 marzo Notte"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Mattina"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Pomeriggio"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
 </scadenza><pioggia value="0" /><neve value="0" />
 </localita>
 <localita nome="Pieve di Cadore">
-<tmin value="-2" /><tmax value="9" />
-<scadenza data="dom  2 marzo Notte"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Mattina"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Pomeriggio"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+<tmin value="-1" /><tmax value="9" />
+<scadenza data="lun  3 marzo Notte"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Mattina"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Pomeriggio"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
 </scadenza><pioggia value="0" /><neve value="0" />
 </localita>
 <localita nome="Auronzo di Cadore">
-<tmin value="-5" /><tmax value="9" />
-<scadenza data="dom  2 marzo Notte"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Mattina"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Pomeriggio"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="dom  2 marzo Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+<tmin value="-5" /><tmax value="10" />
+<scadenza data="lun  3 marzo Notte"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Mattina"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Pomeriggio"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="lun  3 marzo Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
 </scadenza><pioggia value="0" /><neve value="0" />
 </localita>
 </previsioni_localita>
 </bollettino>
 
-<bollettino bollettinoid="MP" name="Meteo Pianura Veneta" title="Bollettino del  1 marzo">
-<evoluzionegenerale><![CDATA[Nel fine settimana tende ad esaurirsi un flusso d'aria relativamente fredda dai quadranti nord-orientali, richiamato anche sul Veneto da una circolazione ciclonica presente sull'Europa centro-settentrionale; la successiva espansione di un promontorio anticiclonico dall'Atlantico assicura sulla nostra regione da domenica ampi spazi di sereno, con ripresa dell'escursione termica diurna.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data=" 1 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_0.png" caption=" 1 marzo pomeriggio" />
+<bollettino bollettinoid="MP" name="Meteo Pianura Veneta" title="Bollettino del  2 marzo">
+<evoluzionegenerale><![CDATA[Sulla nostra regione il tempo si fa stabile con ampi spazi di sereno perch&egrave; dapprima aumenta la pressione, poi anche le temperature, salvo ritorno di un po' di inversioni termiche e qualche possibile locale nebbia sulle zone pianeggianti nelle ore pi&ugrave; fredde.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data=" 2 marzo">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_0.png" caption=" 2 marzo pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Cielo da nuvoloso a parzialmente nuvoloso con crescenti spazi di sereno, specie a fine giornata; precipitazioni generalmente assenti, salvo al pi&ugrave; occasionali piovaschi; fasi di rinforzo del vento per Bora.]]>
-					</text>
-				</giorno>
-				<giorno data=" 2 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_1.png" caption=" 2 marzo mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_2.png" caption=" 2 marzo pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Cielo sereno o poco nuvoloso.<br /><b>Precipitazioni: </b>Assenti.<br /><b>Temperature: </b>Minime in diminuzione, massime stazionarie o in locale lieve diminuzione.<br /><b>Venti: </b>In prevalenza da nord-est, sull'entroterra da moderati a deboli e sulle zone costiere da tesi a moderati.<br /><b>Mare: </b>In prevalenza mosso, specie al largo.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+                        <![CDATA[<b>Previsione: </b>Cielo sereno, od al pi&ugrave; localmente poco nuvoloso.]]>
 					</text>
 				</giorno>
 				<giorno data=" 3 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_3.png" caption=" 3 marzo mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_4.png" caption=" 3 marzo pomeriggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_1.png" caption=" 3 marzo mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_2.png" caption=" 3 marzo pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Cielo in genere da sereno a poco nuvoloso.<br /><b>Precipitazioni: </b>Assenti.<br /><b>Temperature: </b>Sulla fascia pedemontana, contenute variazioni di carattere locale; aumenti in quota; altrove, minime in diminuzione e massime in leggero aumento.<br /><b>Venti: </b>Sulla fascia pedemontana deboli con direzione variabile, salvo locale prevalenza dai quadranti orientali; altrove in prevalenza dai quadranti settentrionali, da moderati a deboli con attenuazione a partire dall'entroterra.<br /><b>Mare: </b>Nelle prime ore mosso soprattutto al largo e il settore meridionale, poi da poco mosso a quasi calmo.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Cielo da sereno a poco nuvoloso; nelle ore pi&ugrave; fredde non sono esclusi occasionali banchi di nebbia, per il resto visibilit&agrave; ottima.<br /><b>Precipitazioni: </b>Assenti.<br /><b>Temperature: </b>Sulla fascia pedemontana, contenute variazioni di carattere locale con prevalenza di aumenti riguardo alle massime; altrove, minime in calo e massime in leggero aumento.<br /><b>Venti: </b>Su costa e parte della bassa pianura nelle prime ore moderati e poi da moderati a deboli, dai quadranti settentrionali; altrove, generalmente deboli con direzione variabile.<br /><b>Mare: </b>Da poco mosso a quasi calmo.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
 					</text>
 				</giorno>
 				<giorno data=" 4 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_5.png" caption=" 4 marzo" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_3.png" caption=" 4 marzo mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_4.png" caption=" 4 marzo pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per marted&igrave;  4: </b>Cielo sereno o poco nuvoloso, a parte qualche modesto addensamento all'inizio della giornata; nelle ore pi&ugrave; fredde, possibili locali nebbie sulle zone centro-meridionali; per le temperature prevale un contenuto aumento, ma con varie modeste controtendenze delle minime.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Cielo sereno, salvo qualche possibile modesto annuvolamento nelle primissime ore; nelle ore pi&ugrave; fredde, possibili locali nebbie sulle zone centro-meridionali.<br /><b>Precipitazioni: </b>Assenti.<br /><b>Temperature: </b>Minime sulle zone pedemontane in contenuto aumento, altrove stazionarie o in leggero calo; massime in aumento, specie nelle valli e sull'entroterra.<br /><b>Venti: </b>In genere deboli con direzione variabile, salvo temporanee fasi di moderato rinforzo dai quadranti settentrionali sulla costa.<br /><b>Mare: </b>Quasi calmo.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
 					</text>
 				</giorno>
 				<giorno data=" 5 marzo">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_6.png" caption=" 5 marzo" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_5.png" caption=" 5 marzo" />
 					<text>
-                        <![CDATA[<b>Tendenza per mercoled&igrave;  5: </b>Cielo generalmente sereno; nelle ore pi&ugrave; fredde, possibili locali banchi di nebbia sulle zone centro-meridionali; per le temperature prevale un moderato aumento, salvo locali lievi controtendenze delle minime sulle zone centro-meridionali.
+                        <![CDATA[<b>Tendenza per mercoled&igrave;  5: </b>Cielo sereno, od al pi&ugrave; localmente poco nuvoloso di sera; nelle ore pi&ugrave; fredde, possibile qualche locale nebbia sulle zone centro-meridionali e costiere; per le temperature prevale un moderato aumento, salvo locali lievi controtendenze per le minime a sud-ovest e per le massime a nord-est.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+					</text>
+				</giorno>
+				<giorno data=" 6 marzo">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_6.png" caption=" 6 marzo" />
+					<text>
+                        <![CDATA[<b>Tendenza per gioved&igrave;  6: </b>Cielo generalmente sereno; nelle ore pi&ugrave; fredde, probabili alcune nebbie sulla bassa pianura; per le temperature sono attese contenute variazioni di carattere locale, tra cui lievi diminuzioni sulla costa e aumenti sull'entroterra specie riguardo alle minime.
 Previsore: AB<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
 					</text>
 				</giorno>
