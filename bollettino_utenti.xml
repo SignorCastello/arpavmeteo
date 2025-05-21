@@ -1,38 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <previsioni>
-<data_emissione date="19/05/2025 alle 13:00" />
-<data_aggiornamento date="19/05 alle 16.00" />
+<data_emissione date="20/05/2025 alle 13:00" />
+<data_aggiornamento date="20/05 alle 16.00" />
 <meteogrammi>
 <meteogramma zoneid="1" name="Dolomiti Nord-Est">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
-          <previsione title="Temperatura 2000m" type="text" value="max 12 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max 2 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
-          <previsione title="Temperatura 2000m" type="text" value="min 5 C" />
-          <previsione title="Temperatura 3000m" type="text" value="min -1 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 2800-3000 m" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e3.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e3.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
           <previsione title="Temperatura 2000m" type="text" value="max 7 C" />
           <previsione title="Temperatura 3000m" type="text" value="max 0 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
 					<previsione title="Quota neve" type="text" value="Oltre i 2700-3000 m" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
@@ -45,8 +25,8 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
           <previsione title="Temperatura 2000m" type="text" value="max 8 C" />
           <previsione title="Temperatura 3000m" type="text" value="max 0 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
@@ -54,54 +34,54 @@
 					<previsione title="Quota neve" type="text" value="Oltre i 2500-2800 m" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
+				<scadenza data="gio 22 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e7.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto per intensa attivit&#224; cumuliforme" />
+          <previsione title="Temperatura 2000m" type="text" value="min 2 C" />
+          <previsione title="Temperatura 3000m" type="text" value="min -3 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 2200-2500 m" />
+					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 2300-2600 m" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="gio 22 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e7.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto per intensa attivit&#224; cumuliforme" />
+          <previsione title="Temperatura 2000m" type="text" value="max 5 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max -1 C" />
+					<previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 2000-2300 m" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 2000 m" />
+					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 1800-2000 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e1.png"/>
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Quota neve" type="text" value="1700-2000 m" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="2" name="Dolomiti Sud-Ovest">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
-          <previsione title="Temperatura 2000m" type="text" value="max 12 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max 2 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
-          <previsione title="Temperatura 2000m" type="text" value="min 5 C" />
-          <previsione title="Temperatura 3000m" type="text" value="min -1 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 2800-3000 m" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e3.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e3.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
           <previsione title="Temperatura 2000m" type="text" value="max 7 C" />
           <previsione title="Temperatura 3000m" type="text" value="max 0 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
 					<previsione title="Quota neve" type="text" value="Oltre i 2700-3000 m" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
@@ -114,8 +94,8 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e2.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
           <previsione title="Temperatura 2000m" type="text" value="max 8 C" />
           <previsione title="Temperatura 3000m" type="text" value="max 0 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
@@ -123,54 +103,54 @@
 					<previsione title="Quota neve" type="text" value="Oltre i 2500-2800 m" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
+				<scadenza data="gio 22 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e7.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto per intensa attivit&#224; cumuliforme" />
+          <previsione title="Temperatura 2000m" type="text" value="min 2 C" />
+          <previsione title="Temperatura 3000m" type="text" value="min -3 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 2200-2500 m" />
+					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 2300-2600 m" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="gio 22 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e7.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto per intensa attivit&#224; cumuliforme" />
+          <previsione title="Temperatura 2000m" type="text" value="max 5 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max -1 C" />
+					<previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 2000-2300 m" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 2000 m" />
+					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 1800-2000 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e1.png"/>
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Quota neve" type="text" value="1700-2000 m" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="3" name="Belluno e Prealpi orientali">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
-          <previsione title="Temperatura 1500m" type="text" value="max 12 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 10 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
-          <previsione title="Temperatura 1500m" type="text" value="min 8 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min 5 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c3.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c3.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
           <previsione title="Temperatura 1500m" type="text" value="max 9 C" />
           <previsione title="Temperatura 2000m" type="text" value="max 6 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
@@ -183,8 +163,8 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
           <previsione title="Temperatura 1500m" type="text" value="max 10 C" />
           <previsione title="Temperatura 2000m" type="text" value="max 7 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
@@ -192,54 +172,54 @@
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
+				<scadenza data="gio 22 maggio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto per intensa attivit&#224; cumuliforme" />
+          <previsione title="Temperatura 1500m" type="text" value="min 7 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min 4 C" />
+					<previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 2300 m" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="gio 22 maggio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e7.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto per intensa attivit&#224; cumuliforme" />
+          <previsione title="Temperatura 1500m" type="text" value="max 8 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max 5 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 2200-2300 m" />
+					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 2000-2300 m" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 2000 m" />
+					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 2100-2200 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e1.png"/>
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Quota neve" type="text" value="1700-2000 m" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="4" name="Prealpi centrali">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
-          <previsione title="Temperatura 1500m" type="text" value="max 12 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 10 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
-          <previsione title="Temperatura 1500m" type="text" value="min 8 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min 5 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c3.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c3.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
           <previsione title="Temperatura 1500m" type="text" value="max 9 C" />
           <previsione title="Temperatura 2000m" type="text" value="max 6 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
@@ -252,8 +232,8 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
           <previsione title="Temperatura 1500m" type="text" value="max 10 C" />
           <previsione title="Temperatura 2000m" type="text" value="max 7 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
@@ -261,81 +241,101 @@
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
+				<scadenza data="gio 22 maggio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto per intensa attivit&#224; cumuliforme" />
+          <previsione title="Temperatura 1500m" type="text" value="min 7 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min 4 C" />
+					<previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 2300 m" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="gio 22 maggio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e7.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto per intensa attivit&#224; cumuliforme" />
+          <previsione title="Temperatura 1500m" type="text" value="max 8 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max 5 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 2200-2300 m" />
+					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 2000-2300 m" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 2000 m" />
+					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 2100-2200 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e1.png"/>
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Quota neve" type="text" value="1700-2000 m" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="5" name="Pedemontana orientale">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 23/25 C" />
-          <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+				<scadenza data="mar 20 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c3.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 17/19 C" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-          <previsione title="Temperatura" type="text" value="min 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c3.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 20/22 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b2.png" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura" type="text" value="min 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso" />
           <previsione title="Temperatura" type="text" value="max 20/22 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
+				<scadenza data="gio 22 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 12/14 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge consistenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
+				<scadenza data="gio 22 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 16/18 C" />
+					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
 				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-         <previsione title="Cielo" type="text" value="Nubi in diminuzione" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
 				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -344,168 +344,148 @@
 </meteogramma>
 
 <meteogramma zoneid="6" name="Treviso e pianura orientale">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 23/25 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-          <previsione title="Temperatura" type="text" value="min 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c3.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 20/22 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 19/21 C" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura" type="text" value="min 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 20/22 C" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 21/23 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
+				<scadenza data="gio 22 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 12/14 C" />
 					<previsione title="Precipitazioni" type="text" value="Moderate" />
 					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
+				<scadenza data="gio 22 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 17/19 C" />
+					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
 				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Nubi in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="7" name="Veneziano orientale">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 21/23 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da nordest" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-          <previsione title="Temperatura" type="text" value="min 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
+				<scadenza data="mar 20 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 20/22 C" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 20/22 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b2.png" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
-          <previsione title="Temperatura" type="text" value="min 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci" />
+          <previsione title="Temperatura" type="text" value="min 14/16 C" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da nordest" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 21/23 C" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 20/22 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Deboli da sudest" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
+				<scadenza data="gio 22 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 12/14 C" />
 					<previsione title="Precipitazioni" type="text" value="Moderate" />
 					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
 					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da sud" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="gio 22 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 19/21 C" />
+					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da sud" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Nubi in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="8" name="Prealpi occidentali">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
-          <previsione title="Temperatura 1500m" type="text" value="max 12 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 10 C" />
-          <previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
-          <previsione title="Temperatura 1500m" type="text" value="min 8 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min 5 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c3.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c3.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
           <previsione title="Temperatura 1500m" type="text" value="max 9 C" />
           <previsione title="Temperatura 2000m" type="text" value="max 6 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
@@ -518,8 +498,8 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
           <previsione title="Temperatura 1500m" type="text" value="max 10 C" />
           <previsione title="Temperatura 2000m" type="text" value="max 7 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
@@ -527,81 +507,101 @@
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
+				<scadenza data="gio 22 maggio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto per intensa attivit&#224; cumuliforme" />
+          <previsione title="Temperatura 1500m" type="text" value="min 7 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min 4 C" />
+					<previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 2300 m" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="gio 22 maggio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e7.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto per intensa attivit&#224; cumuliforme" />
+          <previsione title="Temperatura 1500m" type="text" value="max 8 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max 5 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 2200-2300 m" />
+					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 2000-2300 m" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 2000 m" />
+					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 2100-2200 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/e1.png"/>
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Piogge intermittenti anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Quota neve" type="text" value="1700-2000 m" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="9" name="Vicenza e pedemontana">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 24/26 C" />
-          <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-          <previsione title="Temperatura" type="text" value="min 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c3.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 21/23 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c3.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 20/22 C" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura" type="text" value="min 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 21/23 C" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 20/22 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
+				<scadenza data="gio 22 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 12/14 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge consistenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
+				<scadenza data="gio 22 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 18/20 C" />
+					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
 				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-         <previsione title="Cielo" type="text" value="Nubi in diminuzione" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
 				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -610,182 +610,162 @@
 </meteogramma>
 
 <meteogramma zoneid="10" name="Padova e pianura centrale">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 23/25 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-          <previsione title="Temperatura" type="text" value="min 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c3.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
           <previsione title="Temperatura" type="text" value="max 21/23 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
-          <previsione title="Temperatura" type="text" value="min 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+          <previsione title="Temperatura" type="text" value="min 14/16 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso" />
           <previsione title="Temperatura" type="text" value="max 21/23 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
+				<scadenza data="gio 22 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 12/14 C" />
 					<previsione title="Precipitazioni" type="text" value="Moderate" />
 					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-         <previsione title="Cielo" type="text" value="Nubi in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+				<scadenza data="gio 22 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a5.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 20/22 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="ven 23 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nubi in diminuzione" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="11" name="Venezia e laguna">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 20/22 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-          <previsione title="Temperatura" type="text" value="min 15/17 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da est" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a5.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
           <previsione title="Temperatura" type="text" value="max 20/22 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b2.png" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura" type="text" value="min 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da nordest" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 19/21 C" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 20/22 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Deboli da est" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
+				<scadenza data="gio 22 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 13/15 C" />
 					<previsione title="Precipitazioni" type="text" value="Moderate" />
 					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
 					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da sud" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="gio 22 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a5.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 20/22 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da sud" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Nubi in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="12" name="Delta del Po">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 23/25 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+				<scadenza data="mar 20 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a5.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 21/23 C" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da sudest" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-          <previsione title="Temperatura" type="text" value="min 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 21/23 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b2.png" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura" type="text" value="min 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Deboli da nordest" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso" />
           <previsione title="Temperatura" type="text" value="max 20/22 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
@@ -793,145 +773,165 @@
           <previsione title="Vento" type="text" value="Deboli da sudest" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
+				<scadenza data="gio 22 maggio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a5.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso" />
-					<previsione title="Precipitazioni" type="text" value="Moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
+          <previsione title="Temperatura" type="text" value="min 11/13 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da sud" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="gio 22 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a5.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 21/23 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Nubi in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="13" name="Rovigo e pianura meridionale">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 23/25 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-          <previsione title="Temperatura" type="text" value="min 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c3.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c3.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
           <previsione title="Temperatura" type="text" value="max 22/24 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura" type="text" value="min 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso" />
           <previsione title="Temperatura" type="text" value="max 21/23 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
+				<scadenza data="gio 22 maggio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a5.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso" />
-					<previsione title="Precipitazioni" type="text" value="Moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
+          <previsione title="Temperatura" type="text" value="min 12/14 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="gio 22 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a5.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 20/22 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Nubi in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="14" name="Verona e pedemontana">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 24/26 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-          <previsione title="Temperatura" type="text" value="min 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c7.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c3.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
           <previsione title="Temperatura" type="text" value="max 22/24 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura" type="text" value="min 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 22/24 C" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 21/23 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
+				<scadenza data="gio 22 maggio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso" />
-					<previsione title="Precipitazioni" type="text" value="Piogge consistenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+          <previsione title="Temperatura" type="text" value="min 11/13 C" />
+					<previsione title="Precipitazioni" type="text" value="Moderate" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="gio 22 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a5.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 21/23 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-         <previsione title="Cielo" type="text" value="Nubi in diminuzione" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
 				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -940,49 +940,29 @@
 </meteogramma>
 
 <meteogramma zoneid="15" name="Area del Garda">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 24/26 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+				<scadenza data="mar 20 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c3.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 21/23 C" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Variabili" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-          <previsione title="Temperatura" type="text" value="min 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da est" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c7.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 20/22 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b2.png" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura" type="text" value="min 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Variabili" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c2.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso" />
           <previsione title="Temperatura" type="text" value="max 21/23 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
@@ -990,17 +970,37 @@
           <previsione title="Vento" type="text" value="Variabili" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
+				<scadenza data="gio 22 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 12/14 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge consistenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
 					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da sud" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="gio 22 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b7.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 19/21 C" />
+					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da sud" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
-         <previsione title="Cielo" type="text" value="Nubi in diminuzione" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
 				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -1009,187 +1009,167 @@
 </meteogramma>
 
 <meteogramma zoneid="16" name="Litorale nord">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 21/23 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da nordest" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-          <previsione title="Temperatura" type="text" value="min 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
+				<scadenza data="mar 20 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 20/22 C" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 20/22 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b2.png" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
-          <previsione title="Temperatura" type="text" value="min 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci" />
+          <previsione title="Temperatura" type="text" value="min 14/16 C" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da nordest" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 21/23 C" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 20/22 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Deboli da sudest" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
+				<scadenza data="gio 22 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 12/14 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste" />
 					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da sud" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="gio 22 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a5.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 19/21 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da sud" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Nubi in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="17" name="Litorale centrale">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 21/23 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b2.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-          <previsione title="Temperatura" type="text" value="min 15/17 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da est" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a5.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
           <previsione title="Temperatura" type="text" value="max 20/22 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b2.png" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura" type="text" value="min 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da nordest" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 19/21 C" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 20/22 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Deboli da est" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
+				<scadenza data="gio 22 maggio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 13/15 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste" />
 					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da sud" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="gio 22 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a5.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 20/22 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da sud" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Nubi in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="18" name="Litorale sud">
-				<scadenza data="lun 19 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 21/23 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+				<scadenza data="mar 20 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a5.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 20/22 C" />
+          <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da sudest" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="mar 20 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso con qualche schiarita" />
-          <previsione title="Temperatura" type="text" value="min 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="mar 20 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 21/23 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="mer 21 maggio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b2.png" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura" type="text" value="min 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Deboli da nordest" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="mer 21 maggio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a4.png"/>
+          <previsione title="Cielo" type="text" value="Nuvoloso" />
           <previsione title="Temperatura" type="text" value="max 20/22 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
@@ -1197,19 +1177,39 @@
           <previsione title="Vento" type="text" value="Deboli da sudest" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 22 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/b3.png" />
+				<scadenza data="gio 22 maggio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a5.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 11/13 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste" />
 					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da sud" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="gio 22 maggio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a5.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 21/23 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="ven 23 maggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
          <previsione title="Cielo" type="text" value="Nubi in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 24 maggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
@@ -1218,181 +1218,183 @@
 </meteogrammi>
 <bollettini>
 
-<bollettino bollettinoid="MV" name="Meteo Veneto" title="Bollettino del 19 maggio">
-<evoluzionegenerale><![CDATA[Il nucleo depressionario che ha portato variabilit&agrave; nello scorso fine settimana, nel corso di luned&igrave; si allontaner&agrave; verso est lasciando spazio ad un temporaneo promontorio anticiclonico. Da marted&igrave; una nuova depressione avanzer&agrave; da ovest transitando sul nord Italia fino alle prime ore di mercoled&igrave;, determinando sulla regione una fase di tempo instabile, con precipitazioni sparse e discontinue. Seguir&agrave; l'avanzare di un nuovo impulso perturbato, associato ad una vasta area depressionaria posizionata sul nord Europa, che determiner&agrave; precipitazioni pi&ugrave; diffuse e consistenti sui settori centro-settentrionali della regione fino al primo mattino di venerd&igrave;.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="19 maggio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_0.png" caption="19 maggio pomeriggio" />
+<bollettino bollettinoid="MV" name="Meteo Veneto" title="Bollettino del 20 maggio">
+<evoluzionegenerale><![CDATA[Da marted&igrave; una nuova depressione avanzer&agrave; da ovest transitando sul nord Italia fino alle prime ore di mercoled&igrave;, determinando sulla regione una fase di tempo instabile, con precipitazioni sparse e discontinue. Seguir&agrave; l'avanzare di un nuovo impulso perturbato, associato ad una vasta area depressionaria posizionata sul nord Europa, che determiner&agrave; precipitazioni pi&ugrave; diffuse e consistenti sui settori centro-settentrionali della regione, specie nella giornata di gioved&igrave;. Venerd&igrave; e sabato rimarr&agrave; una certa variabilit&agrave;, specie in montagna, dove saranno pi&ugrave; probabili precipitazioni.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="20 maggio">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_0.png" caption="20 maggio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Condizioni di variabilit&agrave; in montagna con annuvolamenti che si alterneranno a schiarite, con probabili piovaschi e rovesci ed occasionali temporali. In pianura sereno o poco nuvoloso salvo locali annuvolamenti. Temperature massime in aumento. Venti deboli variabili in pianura, con brezze sulla costa; in quota venti inizialmente moderati da nord-ovest, in successiva rotazione da sud-ovest verso fine giornata.]]>
-					</text>
-				</giorno>
-				<giorno data="20 maggio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_1.png" caption="20 maggio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_2.png" caption="20 maggio pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Tempo da variabile a instabile nella seconda parte della giornata. Sulle zone montane in prevalenza nuvoloso, in pianura iniziali schiarite alternate a nubi irregolari, poi tendenza ad aumento della nuvolosit&agrave;, specie nel pomeriggio/sera.<br /><b>Precipitazioni: </b>Nella notte fino a parte della mattinata probabili precipitazioni sparse e discontinue, in particolare in pianura, poi possibile temporaneo esaurimento dei fenomeni sui settori pianeggianti centro-orientali. Nel pomeriggio aumenter&agrave; nuovamente la probabilit&agrave; di rovesci e temporali, a partire da sud-ovest in rapida estensione al resto della regione. In questa fase non si escludono locali temporali intensi (forti rovesci, raffiche di vento).<br /><b>Temperature: </b>Minime in aumento, massime in calo, localmente anche marcato in montagna.<br /><b>Venti: </b>In pianura venti dai quadranti orientali deboli/moderati; sulla costa nel pomeriggio ingresso di venti di Scirocco che soffier&agrave; con intensit&agrave; moderata/tesa. In quota al mattino moderati dai quadranti meridionali, al pomeriggio tendenza a rotazione dei venti dai quadranti settentrionali.<br /><b>Mare: </b>Poco mosso.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Previsione: </b>Tempo da variabile a instabile, con aumento graduale della nuvolosit&agrave; e della probabilit&agrave; di precipitazioni che risulteranno pi&ugrave; frequenti e diffuse rispetto al mattino, con rovesci e temporali, specie verso sera e sui settori meridionali della pianura. In questa fase non si escludono locali temporali intensi (forti rovesci, raffiche di vento). Temperature massime in calo, localmente anche marcato in montagna. In pianura venti dai quadranti orientali deboli/moderati; sulla costa nel pomeriggio ingresso di venti di Scirocco che soffieranno con intensit&agrave; a tratti moderata/tesa. ]]>
 					</text>
 				</giorno>
 				<giorno data="21 maggio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_3.png" caption="21 maggio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_4.png" caption="21 maggio pomeriggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_1.png" caption="21 maggio mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_2.png" caption="21 maggio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Nuvolosit&agrave; irregolare, a tratti consistente, alternata a schiarite.<br /><b>Precipitazioni: </b>Nella notte/prime ore del mattino residue precipitazioni sparse sui settori orientali, generalmente assenti altrove. Nel pomeriggio aumento della probabilit&agrave; di rovesci e temporali sparsi. <br /><b>Temperature: </b>Senza notevoli variazioni. <br /><b>Venti: </b>In pianura deboli variabili, con probabili rinforzi in occasione di eventi temporaleschi. In quota inizialmente moderati da nord, in successiva rotazione e rinforzo da sud-ovest.<br /><b>Mare: </b>Da poco mosso a quasi calmo.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Nuvolosit&agrave; irregolare, a tratti consistente, alternata a schiarite.<br /><b>Precipitazioni: </b>Nella notte/prime ore del mattino residue precipitazioni sparse sui settori orientali, generalmente assenti altrove. Nel pomeriggio nuovo aumento della probabilit&agrave; di rovesci e temporali sparsi, pi&ugrave; frequenti sulle zone montane, in pianura a carattere locale e pi&ugrave; probabili sui settori occidentali.<br /><b>Temperature: </b>Senza notevoli variazioni. <br /><b>Venti: </b>In pianura al mattino moderati da nord-est, poi deboli variabili. In quota inizialmente moderati da nord, in successiva rotazione e rinforzo da sud-ovest.<br /><b>Mare: </b>Da poco mosso a quasi calmo.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
 					</text>
 				</giorno>
 				<giorno data="22 maggio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_5.png" caption="22 maggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_3.png" caption="22 maggio mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_4.png" caption="22 maggio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per gioved&igrave; 22: </b>Tempo perturbato, con nubi estese e precipitazioni in prevalenza diffuse, specie sui settori montani e pedemontani, con rovesci e temporali, salvo possibili temporanei diradamenti dei fenomeni sui settori sud-orientali. Temperature minime in calo sulle zone montane, stazionarie altrove; massime in calo su zone montane e pedemontane, senza notevoli variazioni in pianura. Fino a parte della mattinata venti in quota moderati/tesi da sud-ovest poi in rotazione da nord. In pianura variabili moderati, a tratti tesi.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Tempo perturbato con nubi estese.<br /><b>Precipitazioni: </b>Nella notte fino alle prime ore del mattino precipitazioni in prevalenza diffuse, poi tenderanno a diradarsi fino a risultare generalmente assenti sui settori centro-meridionali della pianura, mentre persisteranno su zone montane, pedemontane e settentrionali della pianura. Saranno frequenti rovesci e temporali. Generale diradamento dei fenomeni verso fine giornata.<br /><b>Temperature: </b>In diminuzione in entrambi i valori estremi, salvo stazionariet&agrave; delle temperature massime sulla costa.<br /><b>Venti: </b>Fino a parte della mattinata venti in quota moderati/tesi da sud-ovest, poi in rotazione da nord. In pianura durante le ore centrali moderati/tesi dai quadranti orientali, poi variabili moderati, a tratti tesi.<br /><b>Mare: </b>Da poco mosso a mosso.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
 					</text>
 				</giorno>
 				<giorno data="23 maggio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_6.png" caption="23 maggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_5.png" caption="23 maggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per venerd&igrave; 23: </b>Fino al primo mattino residua nuvolosit&agrave; e precipitazioni, con ultimi fenomeni sui settori orientali. In seguito attenuazione della nuvolosit&agrave;, con comparsa di schiarite, anche ampie, e con precipitazioni generalmente assenti o al pi&ugrave; deboli locali sui rilievi. Venti in pianura deboli/moderati dai quadranti orientali, salvo rinforzi moderati/tesi durante le ore centrali. In quota venti da nord da tesi a deboli/moderati.
+                        <![CDATA[<b>Tendenza per venerd&igrave; 23: </b>Fino al primo mattino residua nuvolosit&agrave; e instabilit&agrave; sui settori meridionali della pianura con precipitazioni anche a carattere temporalesco, con ultimi fenomeni sui settori sud-orientali. In seguito attenuazione della nuvolosit&agrave;, con comparsa di schiarite, anche ampie, e con precipitazioni generalmente assenti o al pi&ugrave; deboli locali sui rilievi. Temperature minime in calo, massime in ripresa sui settori centro-settentrionali, in diminuzione altrove. Venti in pianura deboli/moderati dai quadranti orientali, salvo rinforzi moderati/tesi nelle prime ore del mattino sulla costa. In quota venti da nord inizialmente tesi, poi deboli/moderati.
+<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
+					</text>
+				</giorno>
+				<giorno data="24 maggio">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_6.png" caption="24 maggio" />
+					<text>
+                        <![CDATA[<b>Tendenza per sabato 24: </b>Condizioni di variabilit&agrave;, specie su zone montane e pedemontane, dove si alterneranno schiarite ed annuvolamenti, a tratti anche consistenti, con probabili precipitazioni associate. In pianura nubi irregolari sulle zone interne, alternate a tratti soleggiati, ma generalmente senza precipitazioni, mentre sulla costa prevarr&agrave; un cielo sereno o poco nuvoloso. Temperature minime stazionarie, massime in ripresa su costa e pianura centro-orientale, senza notevoli variazioni altrove. Sulla costa moderati venti da nord-est.
 Previsore: R.R.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 </bollettino>
 
-<bollettino bollettinoid="DM" name="Dolomiti Meteo" title="Bollettino del 19 maggio">
-<evoluzionegenerale><![CDATA[Il promontorio anticiclonico che ha interessato le Alpi da quasi una settimana, da luned&igrave; subir&agrave; una graduale attenuazione ad iniziare dall'Europa meridionale per l'arrivo sul Mediterraneo di una depressione di origine atlantica proveniente dalle medie latitudini, avviando cos&igrave; da marted&igrave; una fase piovosa su tutte le Alpi. Un primo impulso perturbato, proveniente dalla Spagna, &egrave; atteso tra la notte di luned&igrave; e la giornata di marted&igrave; e determiner&agrave; precipitazioni anche diffuse e nevicate a quote alte. Un secondo impulso arriver&agrave; dal nord Europa tra mercoled&igrave; e gioved&igrave; e si aggancer&agrave; a quello gi&agrave; presente sul Mediterraneo determinando precipitazioni pi&ugrave; significative e un calo termico assieme ad una diminuzione della quota delle nevicate che si porter&agrave; a quote medio-alte. Le temperature da marted&igrave; inizieranno a diminuire a cominciare dai valori massimi per portarsi da gioved&igrave; su valori temporaneamente inferiori alle medie stagionali.   ]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="19 maggio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_0.png" caption="19 maggio pomeriggio" />
+<bollettino bollettinoid="DM" name="Dolomiti Meteo" title="Bollettino del 20 maggio">
+<evoluzionegenerale><![CDATA[E' in transito sul Mediterraneo una perturbazione di origine atlantica proveniente dalla Spagna che avvier&agrave; una fase piovosa su tutte le Alpi. Questo primo impulso marted&igrave; determiner&agrave; fenomeni anche diffusi e nevicate a quote alte specie nel pomeriggio. Un secondo impulso arriver&agrave; dal nord Europa tra mercoled&igrave; e gioved&igrave; e si aggancer&agrave; a quello gi&agrave; presente sul Mediterraneo determinando precipitazioni pi&ugrave; significative, un calo termico assieme e della quota delle nevicate che si porter&agrave; a quote medio-alte. Da venerd&igrave; il temporaneo e modesto rinforzo di un promontorio riporter&agrave; condizioni meteorologiche meno piovose. La persistenza delle correnti di aria umida e fresca potranno favorire, infatti, una moderata attivit&agrave; termo-convettiva che potr&agrave; essere associata ad altre precipitazioni che saranno meno significative rispetto a quelle di gioved&igrave;. Dopo il calo termico che durer&agrave; fino a gioved&igrave;, specie delle massime, da venerd&igrave; queste temperature tenderanno lentamente ad aumentare.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="20 maggio">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_0.png" caption="20 maggio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Cielo inizialmente poco nuvoloso a tratti parzialmente nuvoloso con locali addensamenti anche consistenti nel corso del pomeriggio per una modesta attivit&agrave; cumuliforme e con nubi serali pi&ugrave; persistenti rispetto ai giorni precedenti soprattutto nel settore prealpino e attorno ai rilievi dolomitici. Nel corso del pomeriggio e nella notte le precipitazioni non saranno del tutto escluse specie tra Prealpi e Pedemontana, per qualche modesta pioviggine o piovasco (10-20%). Temperature massime in generale aumento con valori prossimi o di qualche grado pi&ugrave; alti della norma; sono previste punte diurne di 21&deg;/24&deg;C nei fondovalle prealpini e di 16&deg;/21&deg;C a 800-1200 m. Venti in quota deboli o moderati in prevalenza da nord-ovest, tendenti a disporsi da ovest, sud ovest a fine giornata. ]]>
-					</text>
-				</giorno>
-				<giorno data="20 maggio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_1.png" caption="20 maggio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_2.png" caption="20 maggio pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Intensificazione della nuvolosit&agrave; gi&agrave; nel corso della notte a partire dai settori occidentali delle Prealpi per l'arrivo di nubi medio-alte in ulteriore intensificazione fino a cielo molto nuvoloso o coperto dalla mattinata con fenomeni anche diffusi a partire dalle Prealpi veronesi.<br /><b>Precipitazioni: </b>Gi&agrave; al mattino possibili precipitazioni (40/50%) a partire dalle Prealpi veronesi e vicentine in estensione alle altre zone prealpine e alle Dolomiti in tarda mattinata per precipitazioni inizialmente da locali a sparse che diverranno pi&ugrave; probabili (70/80%) ed anche diffuse nel corso del pomeriggio e verso sera con rovesci e temporali e quota neve intorno ai 2600-2900 m. I quantitativi previsti nelle 24 ore oscilleranno tra i 10 e i 30 mm con punte di 35/40 mm. <br /><b>Temperature: </b>Minime in aumento anche sensibile, massime in generale diminuzione con ridotta escursione termica giornaliera. Su Prealpi a 1500 m, min 8&deg;C e max 9&deg;C; a 2000 m, min 5&deg;C e max 6&deg;C. Su Dolomiti a 2000 m, min 5&deg;C e max 7&deg;C; a 3000, min -1&deg;C e max 0&deg;C.<br /><b>Venti: </b>Nelle valli in prevalenza deboli con qualche temporaneo rinforzo in caso di temporale; in quota deboli o moderati dai quadranti meridionali tendenti a divenire orientali a fine giornata, a 10-20 km/h 2000 m e a 10-25 km/h a 3000 m.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Previsione: </b>Cielo molto nuvoloso o coperto su tutte le zone montane con alta probabilit&agrave; di fenomeni anche diffusi nel corso del pomeriggio e verso sera per rovesci e temporali e quota neve intorno ai 2600-2900 m. I quantitativi previsti nelle 24 ore oscilleranno tra i 10 e i 30 mm con punte di 35/40 mm. Temperature massime in generale diminuzione con ridotta escursione termica giornaliera; sono previste punte diurne di 15&deg;/18&deg;C nei fondovalle prealpini e di 13&deg;/15&deg;C a 800-1200 m. Venti nelle valli in prevalenza deboli con qualche temporaneo rinforzo in caso di temporale; in quota deboli o moderati dai quadranti meridionali.]]>
 					</text>
 				</giorno>
 				<giorno data="21 maggio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_3.png" caption="21 maggio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_4.png" caption="21 maggio pomeriggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_1.png" caption="21 maggio mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_2.png" caption="21 maggio pomeriggio" />
 					<text>
                         <![CDATA[<b>Tempo atteso: </b>Giornata umida e piovosa con cielo in prevalenza molto nuvoloso o coperto con qualche eventuale breve e parziale schiarita. <br /><b>Precipitazioni: </b>Nel corso della giornata, probabilit&agrave; medio-alta (60-75%) di precipitazioni intermittenti da sparse a diffuse anche con rovesci e qualche temporale, nevose oltre i 2500-2800 m. Sono previsti quantitativi nelle 24 ore pi&ugrave; modesti rispetto a quelli di mercoled&igrave; e compresi tra i 5 e i 20 mm con punte di 25-30 mm laddove si verificheranno dei rovesci.   <br /><b>Temperature: </b>Minime senza notevoli variazioni, massime in lieve aumento con modesta escursione termica giornaliera. Su Prealpi a 1500 m, min 8&deg;C e max 10&deg;C; a 2000 m, min 5&deg;C e max 7&deg;C. Su Dolomiti a 2000 m, min 5&deg;C e max 8&deg;C; a 3000, min -2&deg;C e max 0&deg;C.<br /><b>Venti: </b>Nelle valli in genere deboli con qualche eventuale rinforzo in caso di temporale; in quota deboli a tratti moderati dai quadranti settentrionali, a 5-15 km/h 2000 m e a 10-20 km/h a 3000 m.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
 					</text>
 				</giorno>
 				<giorno data="22 maggio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_5.png" caption="22 maggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_3.png" caption="22 maggio mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_4.png" caption="22 maggio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per gioved&igrave; 22: </b>Ancora tempo variabile a tratti instabile/perturbato con precipitazioni intermittenti da sparse a diffuse anche a carattere di rovescio o di temporale, nevose oltre i 2200/2500 m. Gli apporti saranno pi&ugrave; importanti rispetto a quelli di marted&igrave; e di mercoled&igrave;. Temperature in calo, anche sensibile le massime, con clima diurno pi&ugrave; fresco a tutte le quote rispetto ai giorni precedenti e con escursione termica giornaliera ancora modesta. Venti in quota fino al primo mattino moderati o tesi meridionali, in seguito tendenti a disporsi dai quadranti settentrionali e a divenire temporaneamente anche forti con qualche raffica di Foehn tra la sera e la notte nelle valli.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Ancora cielo molto nuvoloso o coperto con tempo ancora molto umido e diffusamente instabile/perturbato.<br /><b>Precipitazioni: </b>Alta probabilit&agrave; (80/90%) di precipitazioni intermittenti da sparse a diffuse anche a carattere di rovescio o di temporale, nevose al mattino intorno ai 2300-2600 m, nel corso del pomeriggio/sera fino a circa 1900/2000 m. Gli apporti saranno pi&ugrave; importanti rispetto a quelli di marted&igrave; e di mercoled&igrave; con quantitativi compresi tra i 25 e i 40 mm con punte di 55-60 mm e con apporti nevosi tra i 3 e i 25 cm oltre i 2000 m.<br /><b>Temperature: </b>In calo, anche sensibile le massime, con minime misurate a fine giornata. Clima diurno pi&ugrave; fresco a tutte le quote rispetto ai giorni precedenti e con escursione termica giornaliera ancora modesta. Su Prealpi a 1500 m, min 7&deg;C e max 8&deg;C; a 2000 m, min 4&deg;C e max 5&deg;C. Su Dolomiti a 2000 m, min 2&deg;C e max 5&deg;C; a 3000, min -3&deg;C e max -1&deg;C.<br /><b>Venti: </b>Nelle valli in genere deboli con qualche eventuale rinforzo in caso di temporale; in quota fino in genere moderati o tesi da sud, sud ovest, tendenti a disporsi dai quadranti settentrionali a fine giornata con qualche raffica di Foehn tra la sera e la notte in alcune valli, a 15-35 km/h 2000 m e a 20-35 km/h a 3000 m.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
 					</text>
 				</giorno>
 				<giorno data="23 maggio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_6.png" caption="23 maggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_5.png" caption="23 maggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per venerd&igrave; 23: </b>Tempo variabile al mattino per presenza di nuvolosit&agrave; irregolare per nubi basse in molte valli specie nelle ore fredde e nubi medio alte nel corso della mattinata, associate ancora a qualche  possibile residua precipitazione specie sui settori orientali delle Dolomiti e delle Prealpi, eventualmente nevosa oltre i 2000 m, con quantitativi comunque piuttosto modesti. Maggior probabilit&agrave; di schiarite dalle ore centrali che saranno ampie nel corso del pomeriggio. Temperature minime in lieve calo e misurate a fine giornata, massime in aumento. Venti in quota deboli o moderati settentrionali.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
+                        <![CDATA[<b>Tendenza per venerd&igrave; 23: </b>Tempo variabile al mattino per presenza di nuvolosit&agrave; irregolare per nubi basse in molte valli specie nelle ore fredde e nubi medio-alte alternate a qualche schiarita. Nel corso delle giornata, formazione di nubi a sviluppo cumuliforme per una moderata convezione diurna, associate ancora a qualche possibile precipitazione anche a carattere di rovescio, nevosa oltre i 2000 m, con quantitativi nelle 24 ore comunque piuttosto modesti. Temperature minime in lieve calo, massime in aumento. Venti in quota in prevalenza deboli o moderati settentrionali.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
+					</text>
+				</giorno>
+				<giorno data="24 maggio">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_6.png" caption="24 maggio" />
+					<text>
+                        <![CDATA[<b>Tendenza per sabato 24: </b>Tempo variabile a tratti instabile; al mattino irregolarmente nuvoloso con nubi basse nelle valli e qualche fenomeno sparso mentre dalle ore centrali fenomeni pi&ugrave; diffusi e in prevalenza modesti, nevosi oltre i 1700-2000 m. Temperature senza variazioni di rilievo o in lieve calo specie le massime. Venti in quota deboli settentrionali.
+Previsore: M.Padoan<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 <quota_zero_termico>
-<previsione data="19 maggio">3000</previsione>
 <previsione data="20 maggio">3000</previsione>
 <previsione data="21 maggio">2900</previsione>
 <previsione data="22 maggio">2700</previsione>
 <previsione data="23 maggio">2300</previsione>
+<previsione data="24 maggio">2300</previsione>
 </quota_zero_termico>
-<previsioni_localita data="20 maggio">
+<previsioni_localita data="21 maggio">
 <localita nome="Bosco C.N.">
-<tmin value="10" /><tmax value="12" />
-<scadenza data="mar 20 maggio Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="40%" />
-</scadenza><scadenza data="mar 20 maggio Mattina"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="60%" />
-</scadenza><scadenza data="mar 20 maggio Pomeriggio"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="80%" />
-</scadenza><scadenza data="mar 20 maggio Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="80%" />
-</scadenza><pioggia value="10-25" /><neve value="0" />
+<tmin value="12" /><tmax value="14" />
+<scadenza data="mer 21 maggio Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><scadenza data="mer 21 maggio Mattina"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="50%" />
+</scadenza><scadenza data="mer 21 maggio Pomeriggio"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><scadenza data="mer 21 maggio Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><pioggia value="5-15" /><neve value="0" />
 </localita>
 <localita nome="Asiago">
-<tmin value="8" /><tmax value="12" />
-<scadenza data="mar 20 maggio Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="40%" />
-</scadenza><scadenza data="mar 20 maggio Mattina"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="60%" />
-</scadenza><scadenza data="mar 20 maggio Pomeriggio"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="80%" />
-</scadenza><scadenza data="mar 20 maggio Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="80%" />
-</scadenza><pioggia value="10-25" /><neve value="0" />
+<tmin value="7" /><tmax value="14" />
+<scadenza data="mer 21 maggio Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><scadenza data="mer 21 maggio Mattina"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="50%" />
+</scadenza><scadenza data="mer 21 maggio Pomeriggio"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><scadenza data="mer 21 maggio Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><pioggia value="3-8" /><neve value="0" />
 </localita>
 <localita nome="Belluno">
-<tmin value="11" /><tmax value="14" />
-<scadenza data="mar 20 maggio Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="30%" />
-</scadenza><scadenza data="mar 20 maggio Mattina"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
-</scadenza><scadenza data="mar 20 maggio Pomeriggio"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="80%" />
-</scadenza><scadenza data="mar 20 maggio Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="80%" />
-</scadenza><pioggia value="10-25" /><neve value="0" />
+<tmin value="13" /><tmax value="18" />
+<scadenza data="mer 21 maggio Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><scadenza data="mer 21 maggio Mattina"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="50%" />
+</scadenza><scadenza data="mer 21 maggio Pomeriggio"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><scadenza data="mer 21 maggio Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><pioggia value="5-15" /><neve value="0" />
 </localita>
 <localita nome="Agordo">
-<tmin value="10" /><tmax value="13" />
-<scadenza data="mar 20 maggio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="20%" />
-</scadenza><scadenza data="mar 20 maggio Mattina"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="40%" />
-</scadenza><scadenza data="mar 20 maggio Pomeriggio"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="80%" />
-</scadenza><scadenza data="mar 20 maggio Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="80%" />
-</scadenza><pioggia value="10-25" /><neve value="0" />
+<tmin value="13" /><tmax value="16" />
+<scadenza data="mer 21 maggio Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><scadenza data="mer 21 maggio Mattina"><cielo value="Nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><scadenza data="mer 21 maggio Pomeriggio"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><scadenza data="mer 21 maggio Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><pioggia value="5-15" /><neve value="0" />
 </localita>
 <localita nome="Arabba">
-<tmin value="6" /><tmax value="9" />
-<scadenza data="mar 20 maggio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><scadenza data="mar 20 maggio Mattina"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="40%" />
-</scadenza><scadenza data="mar 20 maggio Pomeriggio"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="80%" />
-</scadenza><scadenza data="mar 20 maggio Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="80%" />
-</scadenza><pioggia value="10-25" /><neve value="0" />
+<tmin value="7" /><tmax value="11" />
+<scadenza data="mer 21 maggio Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><scadenza data="mer 21 maggio Mattina"><cielo value="Nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><scadenza data="mer 21 maggio Pomeriggio"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><scadenza data="mer 21 maggio Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><pioggia value="3-8" /><neve value="0" />
 </localita>
 <localita nome="Cortina d'Ampezzo">
-<tmin value="8" /><tmax value="12" />
-<scadenza data="mar 20 maggio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><scadenza data="mar 20 maggio Mattina"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="40%" />
-</scadenza><scadenza data="mar 20 maggio Pomeriggio"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="80%" />
-</scadenza><scadenza data="mar 20 maggio Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="80%" />
-</scadenza><pioggia value="10-20" /><neve value="0" />
+<tmin value="9" /><tmax value="13" />
+<scadenza data="mer 21 maggio Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><scadenza data="mer 21 maggio Mattina"><cielo value="Nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><scadenza data="mer 21 maggio Pomeriggio"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><scadenza data="mer 21 maggio Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><pioggia value="3-8" /><neve value="0" />
 </localita>
 <localita nome="Pieve di Cadore">
-<tmin value="11" /><tmax value="14" />
-<scadenza data="mar 20 maggio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><scadenza data="mar 20 maggio Mattina"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="40%" />
-</scadenza><scadenza data="mar 20 maggio Pomeriggio"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="80%" />
-</scadenza><scadenza data="mar 20 maggio Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="80%" />
-</scadenza><pioggia value="10-20" /><neve value="0" />
+<tmin value="13" /><tmax value="15" />
+<scadenza data="mer 21 maggio Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><scadenza data="mer 21 maggio Mattina"><cielo value="Nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><scadenza data="mer 21 maggio Pomeriggio"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><scadenza data="mer 21 maggio Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><pioggia value="3-8" /><neve value="0" />
 </localita>
 <localita nome="Auronzo di Cadore">
-<tmin value="10" /><tmax value="14" />
-<scadenza data="mar 20 maggio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><scadenza data="mar 20 maggio Mattina"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="40%" />
-</scadenza><scadenza data="mar 20 maggio Pomeriggio"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="80%" />
-</scadenza><scadenza data="mar 20 maggio Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="80%" />
-</scadenza><pioggia value="10-20" /><neve value="0" />
+<tmin value="11" /><tmax value="15" />
+<scadenza data="mer 21 maggio Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><scadenza data="mer 21 maggio Mattina"><cielo value="Nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><scadenza data="mer 21 maggio Pomeriggio"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><scadenza data="mer 21 maggio Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><pioggia value="3-8" /><neve value="0" />
 </localita>
 </previsioni_localita>
 </bollettino>
 
-<bollettino bollettinoid="MP" name="Meteo Pianura Veneta" title="Bollettino del 19 maggio">
-<evoluzionegenerale><![CDATA[Il nucleo depressionario che ha portato variabilit&agrave; nello scorso fine settimana, nel corso di luned&igrave; si allontaner&agrave; verso est lasciando spazio ad un temporaneo promontorio anticiclonico. Da marted&igrave; una nuova depressione avanzer&agrave; da ovest transitando sul nord Italia fino alle prime ore di mercoled&igrave;, determinando sulla regione una fase di tempo instabile, con precipitazioni sparse e discontinue. Seguir&agrave; l'avanzare di un nuovo impulso perturbato, associato ad una vasta area depressionaria posizionata sul nord Europa, che determiner&agrave; precipitazioni pi&ugrave; diffuse e consistenti sui settori centro-settentrionali della regione fino al primo mattino di venerd&igrave;.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="19 maggio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_0.png" caption="19 maggio pomeriggio" />
+<bollettino bollettinoid="MP" name="Meteo Pianura Veneta" title="Bollettino del 20 maggio">
+<evoluzionegenerale><![CDATA[Da marted&igrave; una nuova depressione avanzer&agrave; da ovest transitando sul nord Italia fino alle prime ore di mercoled&igrave;, determinando sulla regione una fase di tempo instabile, con precipitazioni sparse e discontinue. Seguir&agrave; l'avanzare di un nuovo impulso perturbato, associato ad una vasta area depressionaria posizionata sul nord Europa, che determiner&agrave; precipitazioni pi&ugrave; diffuse e consistenti sui settori centro-settentrionali della regione, specie nella giornata di gioved&igrave;. Venerd&igrave; e sabato rimarr&agrave; una certa variabilit&agrave;, specie in montagna, dove saranno pi&ugrave; probabili precipitazioni.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="20 maggio">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_0.png" caption="20 maggio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Sereno o poco nuvoloso salvo locali annuvolamenti cumuliformi. Temperature massime in aumento. Venti deboli variabili, con brezze sulla costa.]]>
-					</text>
-				</giorno>
-				<giorno data="20 maggio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_1.png" caption="20 maggio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_2.png" caption="20 maggio pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Tempo da variabile a instabile nella seconda parte della giornata. Iniziali schiarite alternate a nubi irregolari, poi tendenza ad aumento della nuvolosit&agrave;, specie nel pomeriggio/sera.<br /><b>Precipitazioni: </b>Nella notte fino a parte della mattinata probabili precipitazioni sparse e discontinue, in particolare in pianura, poi possibile temporaneo esaurimento dei fenomeni sui settori pianeggianti centro-orientali. Nel pomeriggio aumenter&agrave; nuovamente la probabilit&agrave; di rovesci e temporali, a partire da sud-ovest in rapida estensione al resto della pianura. In questa fase non si escludono locali temporali intensi (forti rovesci, raffiche di vento).<br /><b>Temperature: </b>Minime in aumento, massime in calo.<br /><b>Venti: </b>Dai quadranti orientali deboli/moderati; sulla costa nel pomeriggio ingresso di venti di Scirocco che soffier&agrave; con intensit&agrave; moderata/tesa. <br /><b>Mare: </b>Poco mosso.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Previsione: </b>Tempo da variabile a instabile, con aumento graduale della nuvolosit&agrave; e della probabilit&agrave; di precipitazioni che risulteranno pi&ugrave; frequenti e diffuse rispetto al mattino, con rovesci e temporali, specie verso sera e sui settori meridionali. In questa fase non si escludono locali temporali intensi (forti rovesci, raffiche di vento). Temperature massime in calo. Venti dai quadranti orientali deboli/moderati; sulla costa nel pomeriggio ingresso di venti di Scirocco, che soffieranno con intensit&agrave; a tratti moderata/tesa. ]]>
 					</text>
 				</giorno>
 				<giorno data="21 maggio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_3.png" caption="21 maggio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_4.png" caption="21 maggio pomeriggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_1.png" caption="21 maggio mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_2.png" caption="21 maggio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Nuvolosit&agrave; irregolare, a tratti consistente, alternata a schiarite.<br /><b>Precipitazioni: </b>Nella notte/prime ore del mattino residue precipitazioni sparse sui settori orientali, generalmente assenti altrove. Nel pomeriggio aumento della probabilit&agrave; di rovesci e temporali sparsi. <br /><b>Temperature: </b>Senza notevoli variazioni. <br /><b>Venti: </b>Deboli variabili, con probabili rinforzi in occasione di eventi temporaleschi. <br /><b>Mare: </b>Da poco mosso a quasi calmo.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Nuvolosit&agrave; irregolare, a tratti consistente, alternata a schiarite.<br /><b>Precipitazioni: </b>Nella notte/prime ore del mattino residue precipitazioni sparse sui settori orientali, generalmente assenti altrove. Nel pomeriggio nuovo aumento della probabilit&agrave; di rovesci e temporali sparsi, pi&ugrave; frequenti sulle zone pedemontane, in pianura a carattere locale e pi&ugrave; probabili sui settori occidentali.<br /><b>Temperature: </b>Senza notevoli variazioni. <br /><b>Venti: </b>Al mattino moderati da nord-est, poi deboli variabili. <br /><b>Mare: </b>Da poco mosso a quasi calmo.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
 					</text>
 				</giorno>
 				<giorno data="22 maggio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_5.png" caption="22 maggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_3.png" caption="22 maggio mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_4.png" caption="22 maggio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per gioved&igrave; 22: </b>Tempo perturbato, con nubi estese e precipitazioni in prevalenza diffuse, specie sui settori pedemontani, con rovesci e temporali, salvo possibili temporanei diradamenti dei fenomeni sui settori sud-orientali. Temperature minime stazionarie; massime in calo sulle zone pedemontane, senza notevoli variazioni altrove. Venti variabili moderati, a tratti tesi.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Tempo perturbato, con nubi estese.<br /><b>Precipitazioni: </b>Nella notte fino alle prime ore del mattino precipitazioni in prevalenza diffuse, poi tenderanno a diradarsi, fino a risultare generalmente assenti sui settori centro-meridionali della pianura, mentre persisteranno su zone pedemontane e settentrionali della pianura. Saranno frequenti rovesci e temporali. Generale diradamento dei fenomeni verso fine giornata.<br /><b>Temperature: </b>In diminuzione in entrambi i valori estremi, salvo stazionariet&agrave; delle temperature massime sulla costa.<br /><b>Venti: </b>Durante le ore centrali moderati/tesi dai quadranti orientali, poi variabili moderati, a tratti tesi.<br /><b>Mare: </b><br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
 					</text>
 				</giorno>
 				<giorno data="23 maggio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_6.png" caption="23 maggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_5.png" caption="23 maggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per venerd&igrave; 23: </b>Fino al primo mattino residua nuvolosit&agrave; e precipitazioni, con ultimi fenomeni sui settori orientali. In seguito attenuazione della nuvolosit&agrave;, con comparsa di schiarite, anche ampie, e con precipitazioni generalmente assenti o al pi&ugrave; deboli locali sui rilievi. Venti deboli/moderati dai quadranti orientali, salvo rinforzi moderati/tesi durante le ore centrali. 
+                        <![CDATA[<b>Tendenza per venerd&igrave; 23: </b>Fino al primo mattino residua nuvolosit&agrave; e instabilit&agrave; sui settori meridionali, con precipitazioni anche a carattere temporalesco, con ultimi fenomeni sui settori sud-orientali. In seguito attenuazione della nuvolosit&agrave;, con comparsa di schiarite, anche ampie, e con precipitazioni generalmente assenti. Temperature minime in calo, massime in ripresa sui settori centro-settentrionali, in diminuzione altrove. Venti deboli/moderati dai quadranti orientali, salvo rinforzi moderati/tesi nelle prime ore del mattino sulla costa. <br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
+					</text>
+				</giorno>
+				<giorno data="24 maggio">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_6.png" caption="24 maggio" />
+					<text>
+                        <![CDATA[<b>Tendenza per sabato 24: </b>Condizioni di variabilit&agrave;, specie sulle zone pedemontane, dove si alterneranno schiarite ed annuvolamenti, a tratti anche consistenti, con probabili precipitazioni associate. In pianura nubi irregolari sulle zone interne, alternate a tratti soleggiati, ma generalmente senza precipitazioni, mentre sulla costa prevarr&agrave; un cielo sereno o poco nuvoloso. Temperature minime stazionarie, massime in ripresa su costa e pianura centro-orientale, senza notevoli variazioni altrove. Sulla costa moderati venti da nord-est.
 Previsore: R.R.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
