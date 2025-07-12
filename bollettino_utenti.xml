@@ -1,38 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <previsioni>
-<data_emissione date="10/07/2025 alle 13:00" />
-<data_aggiornamento date="10/07 alle 16.00" />
+<data_emissione date="11/07/2025 alle 13:00" />
+<data_aggiornamento date="11/07 alle 16.00" />
 <meteogrammi>
 <meteogramma zoneid="1" name="Dolomiti Nord-Est">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Parzialmente nuvoloso per modesta attivit&#224; cumuliforme" />
-          <previsione title="Temperatura 2000m" type="text" value="max 12 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max 2 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura 2000m" type="text" value="min 6 C" />
-          <previsione title="Temperatura 3000m" type="text" value="min -2 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="ven 11 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
           <previsione title="Temperatura 2000m" type="text" value="max 12 C" />
           <previsione title="Temperatura 3000m" type="text" value="max 2 C" />
-					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+          <previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="Oltre i 2900 m" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="sab 12 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
@@ -45,63 +25,63 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="sab 12 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
-         <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png"/>
+          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura 2000m" type="text" value="max 12 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max 4 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max 3 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="dom 13 luglio">
+				<scadenza data="dom 13 luglio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura 2000m" type="text" value="min 9 C" />
+          <previsione title="Temperatura 3000m" type="text" value="min 3 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom 13 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto per intensa attivit&#224; cumuliforme" />
+          <previsione title="Temperatura 2000m" type="text" value="max 12 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max 5 C" />
 					<previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+				  <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="2" name="Dolomiti Sud-Ovest">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Parzialmente nuvoloso per modesta attivit&#224; cumuliforme" />
-          <previsione title="Temperatura 2000m" type="text" value="max 12 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max 2 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura 2000m" type="text" value="min 6 C" />
-          <previsione title="Temperatura 3000m" type="text" value="min -2 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="ven 11 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
           <previsione title="Temperatura 2000m" type="text" value="max 12 C" />
           <previsione title="Temperatura 3000m" type="text" value="max 2 C" />
-					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+          <previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="Oltre i 2900 m" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="sab 12 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
@@ -114,67 +94,67 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="sab 12 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
-         <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png"/>
+          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura 2000m" type="text" value="max 12 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max 4 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max 3 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="dom 13 luglio">
+				<scadenza data="dom 13 luglio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura 2000m" type="text" value="min 9 C" />
+          <previsione title="Temperatura 3000m" type="text" value="min 3 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom 13 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto per intensa attivit&#224; cumuliforme" />
+          <previsione title="Temperatura 2000m" type="text" value="max 12 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max 5 C" />
 					<previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+				  <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="3" name="Belluno e Prealpi orientali">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Parzialmente nuvoloso per modesta attivit&#224; cumuliforme" />
+				<scadenza data="ven 11 luglio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
           <previsione title="Temperatura 1500m" type="text" value="max 14 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 12 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+          <previsione title="Temperatura 2000m" type="text" value="max 11 C" />
+          <previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura 1500m" type="text" value="min 10 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min 7 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="ven 11 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
-          <previsione title="Temperatura 1500m" type="text" value="max 14 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 12 C" />
-					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="sab 12 luglio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="In prevalenza soleggiato" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Parzialmente nuvoloso per possibili nubi basse" />
           <previsione title="Temperatura 1500m" type="text" value="min 10 C" />
           <previsione title="Temperatura 2000m" type="text" value="min 7 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
@@ -183,8 +163,8 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="sab 12 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
-         <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png"/>
+          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura 1500m" type="text" value="max 14 C" />
           <previsione title="Temperatura 2000m" type="text" value="max 11 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
@@ -192,54 +172,54 @@
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="dom 13 luglio">
+				<scadenza data="dom 13 luglio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura 1500m" type="text" value="min 12 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min 9 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom 13 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto per intensa attivit&#224; cumuliforme" />
+          <previsione title="Temperatura 1500m" type="text" value="max 14 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max 11 C" />
 					<previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+				  <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="4" name="Prealpi centrali">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Parzialmente nuvoloso per modesta attivit&#224; cumuliforme" />
+				<scadenza data="ven 11 luglio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
           <previsione title="Temperatura 1500m" type="text" value="max 14 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 12 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+          <previsione title="Temperatura 2000m" type="text" value="max 11 C" />
+          <previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura 1500m" type="text" value="min 10 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min 7 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="ven 11 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
-          <previsione title="Temperatura 1500m" type="text" value="max 14 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 12 C" />
-					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="sab 12 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
@@ -252,8 +232,8 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="sab 12 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
-         <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png"/>
+          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura 1500m" type="text" value="max 14 C" />
           <previsione title="Temperatura 2000m" type="text" value="max 11 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
@@ -261,82 +241,102 @@
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="dom 13 luglio">
+				<scadenza data="dom 13 luglio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura 1500m" type="text" value="min 12 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min 9 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom 13 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto per intensa attivit&#224; cumuliforme" />
+          <previsione title="Temperatura 1500m" type="text" value="max 14 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max 11 C" />
 					<previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+				  <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="5" name="Pedemontana orientale">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 26/28 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+				<scadenza data="ven 11 luglio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 24/26 C" />
+          <previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
+				<scadenza data="sab 12 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 13/15 C" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 14/16 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="ven 11 luglio pomeriggio">
+				<scadenza data="sab 12 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png"/>
           <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 25/27 C" />
+          <previsione title="Temperatura" type="text" value="max 24/26 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab 12 luglio mattina">
+				<scadenza data="dom 13 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="min 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 16/18 C" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab 12 luglio pomeriggio">
+				<scadenza data="dom 13 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
           <previsione title="Temperatura" type="text" value="max 24/26 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="dom 13 luglio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza soleggiato con cumuli pomeridiani" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
@@ -344,63 +344,63 @@
 </meteogramma>
 
 <meteogramma zoneid="6" name="Treviso e pianura orientale">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				<scadenza data="ven 11 luglio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
           <previsione title="Temperatura" type="text" value="max 26/28 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+          <previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
+				<scadenza data="sab 12 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 14/16 C" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 15/17 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="ven 11 luglio pomeriggio">
+				<scadenza data="sab 12 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png"/>
           <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 24/26 C" />
+					<previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom 13 luglio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 17/19 C" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom 13 luglio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
           <previsione title="Temperatura" type="text" value="max 25/27 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="sab 12 luglio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="min 15/17 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="sab 12 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 25/27 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="dom 13 luglio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza soleggiato con cumuli pomeridiani" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
@@ -408,68 +408,68 @@
 </meteogramma>
 
 <meteogramma zoneid="7" name="Veneziano orientale">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 26/28 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+				<scadenza data="ven 11 luglio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 24/26 C" />
+          <previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
+          <previsione title="Vento" type="text" value="Moderati da est" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
+				<scadenza data="sab 12 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 14/16 C" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 15/17 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Deboli da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="ven 11 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 25/27 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da est" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="sab 12 luglio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="min 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="sab 12 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 25/27 C" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png"/>
+          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 24/26 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Deboli da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="dom 13 luglio">
+				<scadenza data="dom 13 luglio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 16/18 C" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom 13 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 25/27 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza soleggiato con cumuli pomeridiani" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
@@ -477,35 +477,15 @@
 </meteogramma>
 
 <meteogramma zoneid="8" name="Prealpi occidentali">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Parzialmente nuvoloso per modesta attivit&#224; cumuliforme" />
-          <previsione title="Temperatura 1500m" type="text" value="max 14 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 12 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a1.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura 1500m" type="text" value="min 10 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min 7 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="ven 11 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
           <previsione title="Temperatura 1500m" type="text" value="max 14 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 12 C" />
-					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
+          <previsione title="Temperatura 2000m" type="text" value="max 11 C" />
+          <previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="sab 12 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
@@ -518,8 +498,8 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="sab 12 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
-         <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png"/>
+          <previsione title="Cielo" type="text" value="Irregolarmente nuvoloso con schiarite" />
           <previsione title="Temperatura 1500m" type="text" value="max 14 C" />
           <previsione title="Temperatura 2000m" type="text" value="max 11 C" />
 					<previsione title="Precipitazioni" type="text" value="Sparse anche a carattere di rovescio/temporale" />
@@ -527,82 +507,102 @@
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="dom 13 luglio">
+				<scadenza data="dom 13 luglio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura 1500m" type="text" value="min 12 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min 9 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom 13 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto per intensa attivit&#224; cumuliforme" />
+          <previsione title="Temperatura 1500m" type="text" value="max 14 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max 11 C" />
 					<previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+					<previsione title="Precipitazioni" type="text" value="Modeste sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+				  <previsione title="Precipitazioni" type="text" value="Piogge anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="9" name="Vicenza e pedemontana">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				<scadenza data="ven 11 luglio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
           <previsione title="Temperatura" type="text" value="max 26/28 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+          <previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
+				<scadenza data="sab 12 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 14/16 C" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 15/17 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="ven 11 luglio pomeriggio">
+				<scadenza data="sab 12 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
           <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
           <previsione title="Temperatura" type="text" value="max 25/27 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab 12 luglio mattina">
+				<scadenza data="dom 13 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="min 15/17 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 16/18 C" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab 12 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 25/27 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="dom 13 luglio">
+				<scadenza data="dom 13 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 26/28 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza soleggiato con cumuli pomeridiani" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
@@ -610,63 +610,63 @@
 </meteogramma>
 
 <meteogramma zoneid="10" name="Padova e pianura centrale">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				<scadenza data="ven 11 luglio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
           <previsione title="Temperatura" type="text" value="max 26/28 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+          <previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
+				<scadenza data="sab 12 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Poco nuvoloso" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
           <previsione title="Temperatura" type="text" value="min 16/18 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="ven 11 luglio pomeriggio">
+				<scadenza data="sab 12 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
           <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 26/28 C" />
+          <previsione title="Temperatura" type="text" value="max 25/27 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab 12 luglio mattina">
+				<scadenza data="dom 13 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="min 16/18 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 18/20 C" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab 12 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 25/27 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="dom 13 luglio">
+				<scadenza data="dom 13 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 26/28 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza soleggiato con cumuli pomeridiani" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
@@ -674,68 +674,68 @@
 </meteogramma>
 
 <meteogramma zoneid="11" name="Venezia e laguna">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				<scadenza data="ven 11 luglio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
           <previsione title="Temperatura" type="text" value="max 25/27 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+          <previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da sudest" />
+          <previsione title="Vento" type="text" value="Moderati da est" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
+				<scadenza data="sab 12 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 16/18 C" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 17/19 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="A regime di brezza" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+          <previsione title="Vento" type="text" value="Deboli da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="ven 11 luglio pomeriggio">
+				<scadenza data="sab 12 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
           <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
           <previsione title="Temperatura" type="text" value="max 25/27 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da est" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="sab 12 luglio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="min 17/19 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="sab 12 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 24/26 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="dom 13 luglio">
+				<scadenza data="dom 13 luglio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 18/20 C" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom 13 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 25/27 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza soleggiato con cumuli pomeridiani" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
@@ -743,68 +743,68 @@
 </meteogramma>
 
 <meteogramma zoneid="12" name="Delta del Po">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				<scadenza data="ven 11 luglio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
           <previsione title="Temperatura" type="text" value="max 27/29 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+          <previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da sudest" />
+          <previsione title="Vento" type="text" value="Moderati da sudest" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
+				<scadenza data="sab 12 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Poco nuvoloso" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
           <previsione title="Temperatura" type="text" value="min 16/18 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Deboli da est" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="ven 11 luglio pomeriggio">
+				<scadenza data="sab 12 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
           <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
           <previsione title="Temperatura" type="text" value="max 27/29 C" />
-					<previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="sab 12 luglio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="min 17/19 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da est" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="sab 12 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 27/29 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="dom 13 luglio">
+				<scadenza data="dom 13 luglio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 19/21 C" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom 13 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 28/30 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza soleggiato con cumuli pomeridiani" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
@@ -812,63 +812,63 @@
 </meteogramma>
 
 <meteogramma zoneid="13" name="Rovigo e pianura meridionale">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 27/29 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+				<scadenza data="ven 11 luglio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 29/31 C" />
+          <previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale verso sera" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
+				<scadenza data="sab 12 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Poco nuvoloso" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
           <previsione title="Temperatura" type="text" value="min 16/18 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="ven 11 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 27/29 C" />
-					<previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale verso sera" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="sab 12 luglio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="min 16/18 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="sab 12 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
           <previsione title="Temperatura" type="text" value="max 29/31 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="dom 13 luglio">
+				<scadenza data="dom 13 luglio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 18/20 C" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom 13 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 28/30 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza soleggiato con cumuli pomeridiani" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
@@ -876,63 +876,63 @@
 </meteogramma>
 
 <meteogramma zoneid="14" name="Verona e pedemontana">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				<scadenza data="ven 11 luglio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
           <previsione title="Temperatura" type="text" value="max 27/29 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+          <previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale verso sera" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
+				<scadenza data="sab 12 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Poco nuvoloso" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
           <previsione title="Temperatura" type="text" value="min 15/17 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="ven 11 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 27/29 C" />
-					<previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale verso sera" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="sab 12 luglio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="min 16/18 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="sab 12 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 27/29 C" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 28/30 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="dom 13 luglio">
+				<scadenza data="dom 13 luglio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 17/19 C" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom 13 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 27/29 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza soleggiato con cumuli pomeridiani" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
@@ -940,68 +940,68 @@
 </meteogramma>
 
 <meteogramma zoneid="15" name="Area del Garda">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				<scadenza data="ven 11 luglio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
           <previsione title="Temperatura" type="text" value="max 26/28 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+          <previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="A regime di brezza" />
+          <previsione title="Vento" type="text" value="Deboli da sudest" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
+				<scadenza data="sab 12 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Poco nuvoloso" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
           <previsione title="Temperatura" type="text" value="min 16/18 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da est" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="ven 11 luglio pomeriggio">
+				<scadenza data="sab 12 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
           <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
           <previsione title="Temperatura" type="text" value="max 26/28 C" />
-					<previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+          <previsione title="Vento" type="text" value="Deboli da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab 12 luglio mattina">
+				<scadenza data="dom 13 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="min 17/19 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 18/20 C" />
+					<previsione title="Precipitazioni" type="text" value="Locali anche a carattere di rovescio/temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab 12 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 26/28 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="A regime di brezza" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="dom 13 luglio">
+				<scadenza data="dom 13 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 26/28 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza soleggiato con cumuli pomeridiani" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
@@ -1009,68 +1009,68 @@
 </meteogramma>
 
 <meteogramma zoneid="16" name="Litorale nord">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 25/27 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+				<scadenza data="ven 11 luglio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 24/26 C" />
+          <previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
+          <previsione title="Vento" type="text" value="Moderati da est" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
+				<scadenza data="sab 12 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 14/16 C" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 15/17 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Deboli da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="ven 11 luglio pomeriggio">
+				<scadenza data="sab 12 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
           <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
           <previsione title="Temperatura" type="text" value="max 24/26 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge locali anche con rovesci/temporali" />
+					<previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale verso sera" />
 					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da est" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="sab 12 luglio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="min 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="sab 12 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 23/25 C" />
-					<previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale verso sera" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Deboli da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="dom 13 luglio">
+				<scadenza data="dom 13 luglio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 16/18 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom 13 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 25/27 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
@@ -1078,68 +1078,68 @@
 </meteogramma>
 
 <meteogramma zoneid="17" name="Litorale centrale">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 26/28 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da sudest" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="min 16/18 C" />
-					<previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="A regime di brezza" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="ven 11 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
           <previsione title="Temperatura" type="text" value="max 25/27 C" />
-					<previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale" />
+          <previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale" />
 					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da est" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="sab 12 luglio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
           <previsione title="Temperatura" type="text" value="min 17/19 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+          <previsione title="Vento" type="text" value="Deboli da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="sab 12 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 24/26 C" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 25/27 C" />
 					<previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale verso sera" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="dom 13 luglio">
+				<scadenza data="dom 13 luglio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 18/20 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom 13 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 25/27 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
@@ -1147,68 +1147,68 @@
 </meteogramma>
 
 <meteogramma zoneid="18" name="Litorale sud">
-				<scadenza data="gio 10 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 26/28 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+				<scadenza data="ven 11 luglio pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 27/29 C" />
+          <previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da sudest" />
+          <previsione title="Vento" type="text" value="Moderati da sudest" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 11 luglio mattina">
+				<scadenza data="sab 12 luglio mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
-         <previsione title="Cielo" type="text" value="Poco nuvoloso" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
           <previsione title="Temperatura" type="text" value="min 16/18 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Deboli da est" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="ven 11 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="max 26/28 C" />
-					<previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="sab 12 luglio mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-          <previsione title="Temperatura" type="text" value="min 17/19 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Deboli da est" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="sab 12 luglio pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
+          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
           <previsione title="Temperatura" type="text" value="max 27/29 C" />
 					<previsione title="Precipitazioni" type="text" value="Qualche rovescio o temporale verso sera" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da sudest" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="dom 13 luglio">
+				<scadenza data="dom 13 luglio mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+          <previsione title="Temperatura" type="text" value="min 19/21 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="dom 13 luglio pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/c1.png" />
          <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
+          <previsione title="Temperatura" type="text" value="max 28/30 C" />
 					<previsione title="Precipitazioni" type="text" value="Piogge sparse anche con rovesci/temporali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 				<scadenza data="lun 14 luglio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a3.png"/>
-         <previsione title="Cielo" type="text" value="Annuvolamenti e schiarite" />
-				  <previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="mar 15 luglio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/previsioni/images/meteosymbols/a2.png"/>
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+				  <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
@@ -1218,186 +1218,186 @@
 </meteogrammi>
 <bollettini>
 
-<bollettino bollettinoid="MV" name="Meteo Veneto" title="Bollettino del 10 luglio">
-<evoluzionegenerale><![CDATA[L'area depressionaria con aria fresca che ha portato il cambiamento meteorologico dei giorni scorsi si porta dall'Europa orientale al Baltico; la nostra regione &egrave; al suo margine sud-occidentale, ove nei prossimi giorni &egrave; atteso un periodo di tempo nel complesso variabile, con qualche fase di precipitazioni sparse.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="10 luglio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_0.png" caption="10 luglio pomeriggio" />
+<bollettino bollettinoid="MV" name="Meteo Veneto" title="Bollettino del 11 luglio">
+<evoluzionegenerale><![CDATA[Una vasta area di bassa pressione in spostamento dall'Europa centro-orientale verso ovest lambir&agrave; il Veneto nel corso del fine-settimana: il tempo sar&agrave; variabile e, soprattutto nelle ore pomeridiane-serali, a tratti instabile, con fenomeni probabilmente pi&ugrave; diffusi domenica a partire dalle ore centrali. All'inizio della prossima settimana timida rimonta del promontorio anticiclonico in espansione dal Mediterraneo occidentale con condizioni relativamente pi&ugrave; stabili, soprattutto marted&igrave;.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="11 luglio">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_0.png" caption="11 luglio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Cielo da sereno a poco nuvoloso salvo qualche maggiore addensamento di tipo cumuliforme in montagna, in genere senza precipitazioni; per le temperature, prevale un contenuto aumento rispetto a mercoled&igrave;.]]>
-					</text>
-				</giorno>
-				<giorno data="11 luglio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_1.png" caption="11 luglio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_2.png" caption="11 luglio pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Un po' di variabilit&agrave;, con spazi di sereno anche ampi all'inizio della giornata e addensamenti nuvolosi pi&ugrave; presenti dal pomeriggio in poi soprattutto sulle zone centro-settentrionali, a partire da quelle montane.<br /><b>Precipitazioni: </b>A partire dalle ore centrali probabilit&agrave; di fenomeni da locali a temporaneamente sparsi, a prevalente carattere di rovescio o temporale, dapprima sulle zone montane e poi anche su parte di quelle pianeggianti.<br /><b>Temperature: </b>Minime in aumento soprattutto in montagna; per le massime, attese contenute variazioni di carattere locale.<br /><b>Venti: </b>In quota perlopi&ugrave; moderati da nord-ovest, con intensit&agrave; minima in mattinata e massima nel pomeriggio; nelle valli e sulla fascia pedemontana, generalmente deboli con direzione variabile; altrove inizialmente deboli con direzione variabile, poi da deboli ad almeno temporaneamente moderati dai quadranti orientali.<br /><b>Mare: </b>Da quasi calmo a poco mosso.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Previsione: </b>Spazi di sereno anche ampi soprattutto nel primo pomeriggio e sulla pianura meridionale, alternati ad annuvolamenti, pi&ugrave; consistenti nel corso del pomeriggio a partire dalle zone montane e pedemontane; possibili precipitazioni anche a carattere di rovescio o temporale, sparse in montagna, pi&ugrave; localizzate in pianura; non esclusi locali fenomeni intensi tra Prealpi e alta pianura centro-orientale. Temperature diurne senza notevoli variazioni o in rialzo in alta montagna. Venti in quota moderati occidentali, in pianura deboli/moderati dai quadranti orientali.]]>
 					</text>
 				</giorno>
 				<giorno data="12 luglio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_3.png" caption="12 luglio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_4.png" caption="12 luglio pomeriggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_1.png" caption="12 luglio mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_2.png" caption="12 luglio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Tempo variabile, con spazi di sereno alternati ad addensamenti nuvolosi.<br /><b>Precipitazioni: </b>Probabili fenomeni locali od al pi&ugrave; temporaneamente sparsi, in genere a carattere di rovescio o temporale, soprattutto dalle ore centrali in poi.<br /><b>Temperature: </b>Contenute variazioni di carattere locale.<br /><b>Venti: </b>In quota dai quadranti occidentali, sulle Dolomiti moderati, sulle Prealpi da moderati a tesi; nelle valli, deboli con direzione variabile; in pianura perlopi&ugrave; dai quadranti orientali, da deboli ad almeno localmente moderati per un po' di rinforzi a partire dalla costa.<br /><b>Mare: </b>In genere, quasi calmo il settore centro-settentrionale e poco mosso quello meridionale.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Nella prima met&agrave; della giornata sereno o poco nuvoloso, salvo residui annuvolamenti nottetempo; a partire dal pomeriggio annuvolamenti irregolari di tipo cumuliforme dapprima sulle zone montane e pedemontane.<br /><b>Precipitazioni: </b>Assenti fino a met&agrave; giornata, poi dalle ore centrali precipitazioni anche a carattere di rovescio o temporale, sparse con probabilit&agrave; medio-alta (50-75%) in montagna e sull'alta pianura centro-orientale, locali con probabilit&agrave; medio-bassa (25-50%) altrove.<br /><b>Temperature: </b>Stazionarie o in locale leggera variazione.<br /><b>Venti: </b>In quota deboli/moderati occidentali; nelle valli variabili; in pianura variabili: fino al primo mattino deboli da nord-est, poi deboli /moderati orientali o sud-orientali; dal tardo pomeriggio tendenti a divenire moderati nord-orientali sulla pianura interna e sulla costa centro-settentrionale.<br /><b>Mare: </b>In prevalenza poco mosso.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 				<giorno data="13 luglio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_5.png" caption="13 luglio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_3.png" caption="13 luglio mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_4.png" caption="13 luglio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per domenica 13: </b>Tempo variabile, a tratti instabile nelle ore pomeridiane, con addensamenti nuvolosi alternati a spazi di sereno; fasi di precipitazioni sparse, con rovesci e temporali; temperature minime in aumento; temperature massime in contenuto aumento sulle zone centro-settentrionali, stazionarie o in lieve calo a sud.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Cielo inizialmente poco nuvoloso con crescenti annuvolamenti, soprattutto nel corso del pomeriggio, a partire dalle zone montane e dalla pianura interna. Condizioni di diffusa instabilit&agrave; a partire dalle ore centrali.<br /><b>Precipitazioni: </b>Aumento fino a medio-alta (50-75%) nel pomeriggio di precipitazioni diffuse anche a carattere di rovescio o temporale.<br /><b>Temperature: </b>Minime in rialzo, massime in locale variazione.<br /><b>Venti: </b>In quota fino al pomeriggio/sera moderati/tesi da sud-ovest, in serata deboli da nord-ovest; altrove variabili.<br /><b>Mare: </b>Poco mosso.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 				<giorno data="14 luglio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_6.png" caption="14 luglio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_5.png" caption="14 luglio" />
 					<text>
-                        <![CDATA[<b>Tendenza per luned&igrave; 14: </b>Variabilit&agrave; residua, con addensamenti nuvolosi alternati a spazi di sereno anche ampi; non si esclude qualche locale modesta precipitazione, pi&ugrave; che altro in montagna; riguardo alle temperature minime, in montagna prevale una contenuta diminuzione, altrove sono attesi valori stazionari o in lieve aumento; temperature massime in aumento, specie sulle zone montane.
-Previsore: AB.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Tendenza per luned&igrave; 14: </b>Cielo poco o parzialmente nuvoloso, con maggiori annuvolamenti al pomeriggio soprattutto sulle zone montane dove ci sar&agrave; una bassa probabilit&agrave; di locali piovaschi o rovesci nelle ore pomeridiane. Temperature minime senza notevoli variazioni, massime in ripresa.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
+					</text>
+				</giorno>
+				<giorno data="15 luglio">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MV_6.png" caption="15 luglio" />
+					<text>
+                        <![CDATA[<b>Tendenza per marted&igrave; 15: </b>In prevalenza sereno o poco nuvoloso, salvo locali maggiori annuvolamenti in montagna per possibile attivit&agrave; cumuliforme pomeridiana. Temperature in aumento.
+Previsore:ms.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
 					</text>
 				</giorno>
 </bollettino>
 
-<bollettino bollettinoid="DM" name="Dolomiti Meteo" title="Bollettino del 10 luglio">
-<evoluzionegenerale><![CDATA[Si sta temporaneamente espandendo verso l'arco alpino un timido promontorio anticiclonico che determiner&agrave; ancora una giornata di tempo stabile, soleggiato e temporaneamente asciutto, anche se a tratti transiteranno delle velature e una modesta convezione diurna potr&agrave; favorire lo sviluppo di qualche innocuo annuvolamento specie a ridosso delle cime. Tuttavia, da venerd&igrave; il passaggio di alcune linee d'instabilit&agrave; legate alla circolazione depressionaria quasi stazionaria, ora centrata sulla Polonia, tender&agrave; in modo retrogrado a spostarsi verso ovest e ad interessare ancora le Alpi fino a domenica rendendo il tempo instabile specie durante le ore pomeridiane e serali. Inoltre, il transito di un modesto impulso atlantico verso il mediterraneo, atteso tra sabato e domenica, contribuir&agrave; a determinare un aumento della nuvolosit&agrave; su tutta la regione anche al mattino. Le temperature, dagli attuali valori inferiori alla norma, si porteranno gioved&igrave; prossimi alla norma.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="10 luglio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_0.png" caption="10 luglio pomeriggio" />
+<bollettino bollettinoid="DM" name="Dolomiti Meteo" title="Bollettino del 11 luglio">
+<evoluzionegenerale><![CDATA[Da venerd&igrave; la pressione tender&agrave; nuovamente a diminuire per il passaggio di alcune linee d'instabilit&agrave; legate alla circolazione depressionaria quasi stazionaria, ancora centrata sulla Polonia, che tender&agrave; in modo retrogrado a spostarsi verso ovest e ad interessare ancora le Alpi soprattutto fino a domenica, ma in parte anche luned&igrave; rendendo il tempo instabile specie dalle ore centrali. Inoltre, il transito di un modesto impulso atlantico verso il mediterraneo, atteso tra sabato e domenica, contribuir&agrave; a determinare un aumento della nuvolosit&agrave; su tutta la regione anche al mattino. Da marted&igrave; il ritorno di un promontorio anticiclonico determiner&agrave; tempo pi&ugrave; stabile. Le temperature, rispetto agli attuali valori, che sono prossimi o leggermente inferiori alla norma, non subiranno notevoli variazioni fino a sabato mentre da domenica tenderanno lentamente ad aumentare.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="11 luglio">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_0.png" caption="11 luglio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Cielo in genere poco o parzialmente nuvoloso per il transito di velature e per qualche modesto e innocuo addensamento specie a ridosso delle cime o di qualche pendio; rasserenamenti serali/notturni. Temperature massime in lieve o contenuto aumento a tutte le quote su valori prossimi o leggermente inferiori alla norma; sono previste punte diurne di 23&deg;-26&deg;C nelle conche prealpine, di 20&deg;-24&deg;C a quote comprese tra gli 800 e i 1200 m e intorno ai 12&deg;-13&deg;C a circa 2000 m. Venti in genere moderati, nelle valli a regime di brezza, in quota in prevalenza da nord, nord ovest. ]]>
-					</text>
-				</giorno>
-				<giorno data="11 luglio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_1.png" caption="11 luglio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_2.png" caption="11 luglio pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Al mattino in genere sereno o poco nuvoloso con qualche possibile annuvolamento nelle ore fredde in alcune valli per nubi basse come a tratti in Valbelluna; nel pomeriggio pi&ugrave; nuvoloso con annuvolamenti a tratti anche intensi, associati a possibili fenomeni sparsi.
-<br /><b>Precipitazioni: </b>Al mattino assenti (0%). Nel corso del pomeriggio aumento della probabilit&agrave; fino a medio-alta (50-60%) di precipitazioni da locali a sparse, anche con qualche rovescio o temporale e qualche nevicata oltre i 2900-3000 m. Sono previsti quantitativi in prevalenza modesti e compresi mediamente tra i 5 e i 25 mm anche localmente assenti specie sui Lessini.<br /><b>Temperature: </b>Minime in lieve o contenuto aumento, massime senza variazioni di rilievo o in lieve aumento specie in alta montagna. Su Prealpi a 1500 m min 10&deg;C, max 14&deg;C; a 2000 m min 7&deg;C, max 12&deg;C. Su Dolomiti a 2000 m min 6&deg;C, max 12&deg;C; a 3000 m min -2&deg;C, max 2&deg;C.<br /><b>Venti: </b>Nelle valli al mattino in genere deboli con moderati rinforzi di brezza nelle ore calde o per qualche temporale pomeridiano; in alta montagna in prevalenza moderati dai quadranti occidentali, a 5-15 km/h a 2000 m e a 15-30 km/h a 3000 m.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Previsione: </b>Cielo inizialmente nuvoloso o parzialmente nuvoloso, con un ulteriore intensificazione della nuvolosit&agrave; nel corso del pomeriggio fino a molto nuvoloso o coperto e possibili fenomeni sparsi anche diffusi con qualche rovescio o temporale e qualche nevicata oltre i 2900-3000 m; schiarite verso sera e la notte. Sono previsti quantitativi in prevalenza modesti e compresi mediamente tra i 5 e i 25 mm anche localmente assenti specie sui Lessini. Temperature massime senza notevoli variazioni; sono previste punte diurne di 23&deg;-25&deg;C nelle basse conche prealpine, di 19&deg;-23&deg;C a quote comprese tra gli 800 e i 1200 m e intorno ai 12&deg; a circa 2000 m. Venti nelle valli in genere deboli con qualche rinforzo in caso di temporale; in alta montagna in prevalenza moderati dai quadranti occidentali. ]]>
 					</text>
 				</giorno>
 				<giorno data="12 luglio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_3.png" caption="12 luglio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_4.png" caption="12 luglio pomeriggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_1.png" caption="12 luglio mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_2.png" caption="12 luglio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Al mattino tempo variabile e fenomeni generalmente assenti con annuvolamenti diffusi e qualche schiarita e possibili nubi basse in alcune valli prealpine nelle ore fredde. Dalle ore centrali intensificazione della nuvolosit&agrave; con probabili fenomeni.<br /><b>Precipitazioni: </b>Al mattino assenti (0%). Nel corso del pomeriggio aumento della probabilit&agrave; (50-60%) di precipitazioni anche a carattere di rovescio o temporale perlopi&ugrave; sparsi o a tratti anche diffusi. 
-<br /><b>Temperature: </b>Senza variazioni di rilievo, salvo qualche leggero aumento in quota. Su Prealpi a 1500 m min 10&deg;C, max 14&deg;C; a 2000 m min 7&deg;C, max 11&deg;C. Su Dolomiti a 2000 m min 7&deg;C, max 12&deg;C; a 3000 m min 0&deg;C, max 4&deg;C.<br /><b>Venti: </b>Nelle valli in genere deboli con locali rinforzi in caso di temporale; in quota moderati da ovest, sud ovest a 5-20 km/h a 2000 m e a 15-25 km/h a 3000 m.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Al mattino tempo variabile e fenomeni generalmente assenti con cielo inizialmente poco nuvoloso e possibili nubi basse nelle ore fredde in alcune valli; nel corso della mattinata graduale intensificazione della nuvolosit&agrave; con annuvolamenti diffusi e probabili fenomeni dalle ore centrali.<br /><b>Precipitazioni: </b>Al mattino assenti (0%). Nel corso del pomeriggio aumento della probabilit&agrave; (50-60%) di precipitazioni anche a carattere di rovescio o di temporale perlopi&ugrave; sparsi o a tratti anche diffusi. Sono previsti quantitativi in prevalenza modesti e compresi mediamente tra i 3 e i 25 mm localmente un po' maggiori.
+<br /><b>Temperature: </b>Senza variazioni di rilievo, salvo qualche leggero aumento in quota. Su Prealpi a 1500 m min 10&deg;C, max 14&deg;C; a 2000 m min 7&deg;C, max 11&deg;C. Su Dolomiti a 2000 m min 7&deg;C, max 12&deg;C; a 3000 m min 0&deg;C, max 3&deg;C.<br /><b>Venti: </b>Nelle valli in genere deboli con locali rinforzi in caso di temporale; in quota moderati da ovest, sud ovest a 10-25 km/h a 2000 m e a 20-25 km/h a 3000 m.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
 					</text>
 				</giorno>
 				<giorno data="13 luglio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_5.png" caption="13 luglio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_3.png" caption="13 luglio mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_4.png" caption="13 luglio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per domenica 13: </b>Al mattino tempo in genere nuvoloso con nubi basse in alcune valli prealpine e con addensamenti nuvolosi inizialmente modesti, in intensificazione nel corso della mattinata associati a fenomeni perlopi&ugrave; sparsi specie nella seconda parte della giornata. Parziali schiarite in serata. Temperature in lieve aumento specie le massime e in alta montagna. Venti in quota moderati dai quadranti occidentali.
+                        <![CDATA[<b>Tempo atteso: </b>Al mattino tempo in genere nuvoloso con nubi basse in alcune valli prealpine e con addensamenti nuvolosi inizialmente modesti, in intensificazione nel corso della mattinata associati a fenomeni perlopi&ugrave; da sparsi a diffusi specie nella seconda parte della giornata. Parziali schiarite in serata. <br /><b>Precipitazioni: </b>Al mattino possibili modeste precipitazioni da locali a sparse 20-30%); dalle ore centrali ulteriore aumento della probabilit&agrave; (50-60%) di fenomeni da sparsi a diffusi anche a carattere di rovescio o di temporale. Sono previsti quantitativi pi&ugrave; significativi rispetto a quelli di sabato e compresi mediamente tra i 10 e i 30 mm, localmente anche 35/45 mm.
+<br /><b>Temperature: </b>In lieve aumento specie le massime e in alta montagna. Su Prealpi a 1500 m min 12&deg;C, max 14&deg;C; a 2000 m min 9&deg;C, max 11&deg;C. Su Dolomiti a 2000 m min 9&deg;C, max 12&deg;C; a 3000 m min 3&deg;C, max 5&deg;C.<br /><b>Venti: </b>Nelle valli in genere deboli, con qualche temporaneo rinforzo in caso di temporale; in quota moderati dai quadranti occidentali, a 15-25 km/h a 2000 m e a 15-30 km/h a 3000 m.
 <br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 				<giorno data="14 luglio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_6.png" caption="14 luglio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_5.png" caption="14 luglio" />
 					<text>
-                        <![CDATA[<b>Tendenza per luned&igrave; 14: </b>Tempo variabile ma pi&ugrave; stabile rispetto ai giorni precedenti con annuvolamenti irregolari alternati a schiarite e fenomeni generalmente assenti eventualmente occasionali. Temperature minime in lieve diminuzione specie nelle valli, massime in generale contenuto aumento su valori prossimi alla norma. Venti in alta montagna moderati dai quadranti settentrionali.
+                        <![CDATA[<b>Tendenza per luned&igrave; 14: </b>Al mattino tempo variabile con prevalenza del soleggiamento e fenomeni generalmente assenti; nel pomeriggio a tratti leggermente instabile quando gli annuvolamenti potranno essere anche consistenti e determinare ancora qualche modesto fenomeno da locale a sparso. Temperature minime in lieve diminuzione specie nelle valli, massime in generale aumento su valori prossimi alla norma. Venti in alta montagna moderati dai quadranti occidentali al mattino, in rotazione da quelli settentrionali nel pomeriggio.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
+					</text>
+				</giorno>
+				<giorno data="15 luglio">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_DM_6.png" caption="15 luglio" />
+					<text>
+                        <![CDATA[<b>Tendenza per marted&igrave; 15: </b>Tempo pi&ugrave; stabile e soleggiato rispetto a luned&igrave; con cielo in genere sereno o poco nuvoloso fino al primo mattino e con graduale e modesto aumento delle nuvolosit&agrave; per qualche addensamento nuvoloso a ridosso dei rilievi specie sulle cime. Fenomeni assenti. Temperature in lieve o contenuto aumento su valori leggermente superiori alla norma. Venti in alta montagna in genere moderati dai quadranti occidentali. 
 Previsore: M.Padoan<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 <quota_zero_termico>
-<previsione data="10 luglio">3000</previsione>
 <previsione data="11 luglio">3200</previsione>
-<previsione data="12 luglio">3500</previsione>
-<previsione data="13 luglio">3800</previsione>
-<previsione data="14 luglio">4000</previsione>
+<previsione data="12 luglio">3600</previsione>
+<previsione data="13 luglio">3900</previsione>
+<previsione data="14 luglio">4100</previsione>
+<previsione data="15 luglio">4000</previsione>
 </quota_zero_termico>
-<previsioni_localita data="11 luglio">
+<previsioni_localita data="12 luglio">
 <localita nome="Bosco C.N.">
-<tmin value="13" /><tmax value="21" />
-<scadenza data="ven 11 luglio Notte"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="ven 11 luglio Mattina"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="ven 11 luglio Pomeriggio"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="30%" />
-</scadenza><scadenza data="ven 11 luglio Sera"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><pioggia value="0-3" /><neve value="0" />
+<tmin value="14" /><tmax value="21" />
+<scadenza data="sab 12 luglio Notte"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="sab 12 luglio Mattina"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="sab 12 luglio Pomeriggio"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="60%" />
+</scadenza><scadenza data="sab 12 luglio Sera"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="40%" />
+</scadenza><pioggia value="1-5" /><neve value="0" />
 </localita>
 <localita nome="Asiago">
-<tmin value="6" /><tmax value="21" />
-<scadenza data="ven 11 luglio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="ven 11 luglio Mattina"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="ven 11 luglio Pomeriggio"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="50%" />
-</scadenza><scadenza data="ven 11 luglio Sera"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><pioggia value="5-10" /><neve value="0" />
+<tmin value="8" /><tmax value="21" />
+<scadenza data="sab 12 luglio Notte"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="sab 12 luglio Mattina"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="sab 12 luglio Pomeriggio"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="60%" />
+</scadenza><scadenza data="sab 12 luglio Sera"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="40%" />
+</scadenza><pioggia value="5-15" /><neve value="0" />
 </localita>
 <localita nome="Belluno">
 <tmin value="12" /><tmax value="25" />
-<scadenza data="ven 11 luglio Notte"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="ven 11 luglio Mattina"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="ven 11 luglio Pomeriggio"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="50%" />
-</scadenza><scadenza data="ven 11 luglio Sera"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><pioggia value="5-15" /><neve value="0" />
+<scadenza data="sab 12 luglio Notte"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="sab 12 luglio Mattina"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="sab 12 luglio Pomeriggio"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="60%" />
+</scadenza><scadenza data="sab 12 luglio Sera"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="40%" />
+</scadenza><pioggia value="10-20" /><neve value="0" />
 </localita>
 <localita nome="Agordo">
-<tmin value="9" /><tmax value="24" />
-<scadenza data="ven 11 luglio Notte"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="ven 11 luglio Mattina"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="ven 11 luglio Pomeriggio"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="50%" />
-</scadenza><scadenza data="ven 11 luglio Sera"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="10%" />
+<tmin value="10" /><tmax value="24" />
+<scadenza data="sab 12 luglio Notte"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="sab 12 luglio Mattina"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="sab 12 luglio Pomeriggio"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="60%" />
+</scadenza><scadenza data="sab 12 luglio Sera"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="30%" />
 </scadenza><pioggia value="10-20" /><neve value="0" />
 </localita>
 <localita nome="Arabba">
-<tmin value="6" /><tmax value="17" />
-<scadenza data="ven 11 luglio Notte"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="ven 11 luglio Mattina"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="ven 11 luglio Pomeriggio"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="50%" />
-</scadenza><scadenza data="ven 11 luglio Sera"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><pioggia value="3-8" /><neve value="0" />
+<tmin value="8" /><tmax value="17" />
+<scadenza data="sab 12 luglio Notte"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="sab 12 luglio Mattina"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="sab 12 luglio Pomeriggio"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="60%" />
+</scadenza><scadenza data="sab 12 luglio Sera"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><pioggia value="2-8" /><neve value="0" />
 </localita>
 <localita nome="Cortina d'Ampezzo">
-<tmin value="9" /><tmax value="20" />
-<scadenza data="ven 11 luglio Notte"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="ven 11 luglio Mattina"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="ven 11 luglio Pomeriggio"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="50%" />
-</scadenza><scadenza data="ven 11 luglio Sera"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><pioggia value="3-10" /><neve value="0" />
+<tmin value="10" /><tmax value="20" />
+<scadenza data="sab 12 luglio Notte"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="sab 12 luglio Mattina"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="sab 12 luglio Pomeriggio"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="60%" />
+</scadenza><scadenza data="sab 12 luglio Sera"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><pioggia value="0" /><neve value="0" />
 </localita>
 <localita nome="Pieve di Cadore">
-<tmin value="10" /><tmax value="22" />
-<scadenza data="ven 11 luglio Notte"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="ven 11 luglio Mattina"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="ven 11 luglio Pomeriggio"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="50%" />
-</scadenza><scadenza data="ven 11 luglio Sera"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><pioggia value="3-8" /><neve value="0" />
+<tmin value="11" /><tmax value="22" />
+<scadenza data="sab 12 luglio Notte"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="sab 12 luglio Mattina"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="sab 12 luglio Pomeriggio"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="60%" />
+</scadenza><scadenza data="sab 12 luglio Sera"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><pioggia value="3-5" /><neve value="0" />
 </localita>
 <localita nome="Auronzo di Cadore">
-<tmin value="6" /><tmax value="23" />
-<scadenza data="ven 11 luglio Notte"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="ven 11 luglio Mattina"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="ven 11 luglio Pomeriggio"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="50%" />
-</scadenza><scadenza data="ven 11 luglio Sera"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="10%" />
-</scadenza><pioggia value="3-8" /><neve value="0" />
+<tmin value="8" /><tmax value="23" />
+<scadenza data="sab 12 luglio Notte"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="sab 12 luglio Mattina"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><scadenza data="sab 12 luglio Pomeriggio"><cielo value="Annuvolamenti e schiarite" /><probabilita_pioggia value="60%" />
+</scadenza><scadenza data="sab 12 luglio Sera"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><pioggia value="3-5" /><neve value="0" />
 </localita>
 </previsioni_localita>
 </bollettino>
 
-<bollettino bollettinoid="MP" name="Meteo Pianura Veneta" title="Bollettino del 10 luglio">
-<evoluzionegenerale><![CDATA[L'area depressionaria con aria fresca che ha portato il cambiamento meteorologico dei giorni scorsi si porta dall'Europa orientale al Baltico; la nostra regione &egrave; al suo margine sud-occidentale, ove nei prossimi giorni &egrave; atteso un periodo di tempo nel complesso variabile, con qualche fase di precipitazioni sparse.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="10 luglio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_0.png" caption="10 luglio pomeriggio" />
+<bollettino bollettinoid="MP" name="Meteo Pianura Veneta" title="Bollettino del 11 luglio">
+<evoluzionegenerale><![CDATA[Una vasta area di bassa pressione in spostamento dall'Europa centro-orientale verso ovest lambir&agrave; il Veneto nel corso del fine-settimana: il tempo sar&agrave; variabile e, soprattutto nelle ore pomeridiane-serali, a tratti instabile, con fenomeni probabilmente pi&ugrave; diffusi domenica a partire dalle ore centrali. All'inizio della prossima settimana timida rimonta del promontorio anticiclonico in espansione dal Mediterraneo occidentale con condizioni relativamente pi&ugrave; stabili, soprattutto marted&igrave;.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="11 luglio">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_0.png" caption="11 luglio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Cielo da sereno a poco nuvoloso; per le temperature, prevale un contenuto aumento rispetto a mercoled&igrave;.]]>
-					</text>
-				</giorno>
-				<giorno data="11 luglio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_1.png" caption="11 luglio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_2.png" caption="11 luglio pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Un po' di variabilit&agrave;, con spazi di sereno anche ampi all'inizio della giornata e addensamenti nuvolosi pi&ugrave; presenti dal tardo pomeriggio in poi soprattutto sulle zone centro-settentrionali, a partire da quelle pedemontane.<br /><b>Precipitazioni: </b>Dal pomeriggio in poi probabilit&agrave; di piogge da locali a temporaneamente sparse, a prevalente carattere di rovescio o temporale.<br /><b>Temperature: </b>Minime in contenuto aumento; per le massime, attese contenute variazioni di carattere locale.<br /><b>Venti: </b>Sulla fascia pedemontana, generalmente deboli con direzione variabile; altrove inizialmente deboli con direzione variabile, poi da deboli ad almeno temporaneamente moderati dai quadranti orientali.<br /><b>Mare: </b>Da quasi calmo a poco mosso.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Previsione: </b>Spazi di sereno anche ampi soprattutto nel primo pomeriggio e sulla pianura meridionale, alternati ad annuvolamenti, pi&ugrave; consistenti nel corso del pomeriggio a partire dalle zone pedemontane; possibili locali precipitazioni anche a carattere di rovescio o temporale; non esclusi locali fenomeni sull'alta pianura centro-orientale. Temperature diurne senza notevoli variazioni. Venti deboli/moderati dai quadranti orientali.]]>
 					</text>
 				</giorno>
 				<giorno data="12 luglio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_3.png" caption="12 luglio mattina" />
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_4.png" caption="12 luglio pomeriggio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_1.png" caption="12 luglio mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_2.png" caption="12 luglio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Tempo variabile, con spazi di sereno alternati ad addensamenti nuvolosi.<br /><b>Precipitazioni: </b>Probabili piogge locali od al pi&ugrave; temporaneamente sparse, in genere a carattere di rovescio o temporale, soprattutto dalle ore centrali in poi.<br /><b>Temperature: </b>Contenute variazioni di carattere locale.<br /><b>Venti: </b>Perlopi&ugrave; dai quadranti orientali, da deboli ad almeno localmente moderati per un po' di rinforzi a partire dalla costa.<br /><b>Mare: </b>In genere, quasi calmo il settore centro-settentrionale e poco mosso quello meridionale.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Nella prima met&agrave; della giornata sereno o poco nuvoloso, salvo residui annuvolamenti nottetempo; a partire dal pomeriggio annuvolamenti irregolari di tipo cumuliforme soprattutto sulle zone pedemontane.<br /><b>Precipitazioni: </b>Assenti fino a met&agrave; giornata, poi dalle ore centrali precipitazioni anche a carattere di rovescio o temporale, sparse con probabilit&agrave; medio-alta (50-75%) sull'alta pianura centro-orientale, locali con probabilit&agrave; medio-bassa (25-50%) altrove.<br /><b>Temperature: </b>Stazionarie o in locale leggera variazione.<br /><b>Venti: </b>Variabili: fino al primo mattino deboli da nord-est, poi deboli /moderati orientali o sud-orientali; dal tardo pomeriggio tendenti a divenire moderati nord-orientali sulla pianura interna e sulla costa centro-settentrionale.<br /><b>Mare: </b>In prevalenza poco mosso.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 				<giorno data="13 luglio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_5.png" caption="13 luglio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_3.png" caption="13 luglio mattina" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_4.png" caption="13 luglio pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per domenica 13: </b>Tempo variabile, a tratti instabile nelle ore pomeridiane, con addensamenti nuvolosi alternati a spazi di sereno; fasi di piogge sparse, con rovesci e temporali; temperature minime in aumento; temperature massime in contenuto aumento sulle zone centro-settentrionali, stazionarie o in lieve calo a sud.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Cielo inizialmente poco nuvoloso con crescenti annuvolamenti, soprattutto nel corso del pomeriggio, a partire dalle zone pedemontane e dalla pianura interna. Condizioni di diffusa instabilit&agrave; a partire dalle ore centrali.<br /><b>Precipitazioni: </b>Aumento fino a medio-alta (50-75%) nel pomeriggio di precipitazioni diffuse anche a carattere di rovescio o temporale.<br /><b>Temperature: </b>Minime in rialzo, massime in locale variazione.<br /><b>Venti: </b>Variabili.<br /><b>Mare: </b>Poco mosso.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 				<giorno data="14 luglio">
-					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_6.png" caption="14 luglio" />
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_5.png" caption="14 luglio" />
 					<text>
-                        <![CDATA[<b>Tendenza per luned&igrave; 14: </b>Variabilit&agrave; residua, con addensamenti nuvolosi alternati a spazi di sereno anche ampi, in genere senza precipitazioni; temperature minime stazionarie o in lieve aumento, massime un po' in aumento.
-Previsore: AB.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Tendenza per luned&igrave; 14: </b>Cielo poco o parzialmente nuvoloso, con maggiori annuvolamenti al pomeriggio. Temperature minime senza notevoli variazioni, massime in ripresa.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
+					</text>
+				</giorno>
+				<giorno data="15 luglio">
+					<img src="https://www.arpa.veneto.it/previsioni/it/images/map_MP_6.png" caption="15 luglio" />
+					<text>
+                        <![CDATA[<b>Tendenza per marted&igrave; 15: </b>In prevalenza sereno o poco nuvoloso. Temperature in aumento.
+Previsore:ms.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
 					</text>
 				</giorno>
 </bollettino>
