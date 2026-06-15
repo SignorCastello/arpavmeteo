@@ -1,30 +1,46 @@
 name: Download and Upload File
 
 on:
-  workflow_dispatch: # Allows manual triggering
+  workflow_dispatch:
   schedule:
-    - cron: "0 4 * * *" # Runs daily at midnight UTC (adjust as needed)
+    - cron: "0 4 * * *" # 04:00 UTC
+
+permissions:
+  contents: write
 
 jobs:
   download-and-upload:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Download file
         run: |
-          curl -L -o bollettino_utenti.xml "https://meteo.arpa.veneto.it/meteo/bollettini/it/xml/bollettino_utenti.xml"
+          curl -4 -L \
+            --connect-timeout 30 \
+            --max-time 120 \
+            --retry 5 \
+            --retry-delay 20 \
+            --retry-all-errors \
+            -A "Mozilla/5.0" \
+            -H "Accept: application/xml,text/xml,*/*" \
+            -o bollettino_utenti.xml \
+            "https://meteo.arpa.veneto.it/meteo/bollettini/it/xml/bollettino_utenti.xml"
 
-      - name: Configure Git
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          test -s bollettino_utenti.xml
 
-      - name: Commit and Push Changes
+      - name: Commit and push if changed
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add bollettino_utenti.xml
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
           git commit -m "Updated bollettino_utenti.xml"
           git push
-        continue-on-error: true  # Prevents failure if no changes occur
