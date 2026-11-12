@@ -1,1407 +1,1399 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <previsioni>
-<data_emissione date="10/11/2026 alle 13:00" />
-<data_aggiornamento date="11/11 alle 09.00" />
+<data_emissione date="12/11/2026 alle 13:00" />
 <meteogrammi>
 <meteogramma zoneid="1" name="Dolomiti Nord-Est">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura 2000m" type="text" value="max 5 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max 1 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
+				<scadenza data="gio 12 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
+          <previsione title="Temperatura 2000m" type="text" value="max 4 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max -1 C" />
+          <previsione title="Precipitazioni" type="text" value="Deboli" />
+					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 2600-2900 m" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
-          <previsione title="Temperatura 2000m" type="text" value="min 2 C" />
-          <previsione title="Temperatura 3000m" type="text" value="min -2 C" />
+				<scadenza data="ven 13 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/e2.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura 2000m" type="text" value="min -3 C" />
+          <previsione title="Temperatura 3000m" type="text" value="min -5 C" />
+					<previsione title="Precipitazioni" type="text" value="Deboli sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Quota neve" type="text" value="in calo sotto i 2000 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="ven 13 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura 2000m" type="text" value="max 2 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max -2 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura 2000m" type="text" value="min -2 C" />
+          <previsione title="Temperatura 3000m" type="text" value="min -5 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura 2000m" type="text" value="max 1 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max -3 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
-          <previsione title="Temperatura 2000m" type="text" value="max 4 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max 0 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 2000m" type="text" value="min 3 C" />
-          <previsione title="Temperatura 3000m" type="text" value="min -1 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 2400-2600 m" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 12 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 2000m" type="text" value="max 4 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max 1 C" />
-					<previsione title="Precipitazioni" type="text" value="Deboli" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 2600-2900 m" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="ven 13 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/e2.png" />
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/e6.png"/>
          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-					<previsione title="Precipitazioni" type="text" value="Deboli sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
-					<previsione title="Quota neve" type="text" value="in calo sotto i 2000 m" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="sab 14 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png"/>
-         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate" />
+					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 1500/1800 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="2" name="Dolomiti Sud-Ovest">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura 2000m" type="text" value="max 5 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max 1 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
+				<scadenza data="gio 12 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
+          <previsione title="Temperatura 2000m" type="text" value="max 4 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max -1 C" />
+          <previsione title="Precipitazioni" type="text" value="Deboli" />
+					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 2600-2900 m" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png" />
-         <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
-          <previsione title="Temperatura 2000m" type="text" value="min 2 C" />
-          <previsione title="Temperatura 3000m" type="text" value="min -2 C" />
+				<scadenza data="ven 13 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/e2.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura 2000m" type="text" value="min -3 C" />
+          <previsione title="Temperatura 3000m" type="text" value="min -5 C" />
+					<previsione title="Precipitazioni" type="text" value="Deboli sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Quota neve" type="text" value="in calo sotto i 2000 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="ven 13 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura 2000m" type="text" value="max 2 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max -2 C" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura 2000m" type="text" value="min -2 C" />
+          <previsione title="Temperatura 3000m" type="text" value="min -5 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura 2000m" type="text" value="max 1 C" />
+          <previsione title="Temperatura 3000m" type="text" value="max -3 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png"/>
-          <previsione title="Cielo" type="text" value="Nuvoloso o molto nuvoloso" />
-          <previsione title="Temperatura 2000m" type="text" value="max 4 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max 0 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 2000m" type="text" value="min 3 C" />
-          <previsione title="Temperatura 3000m" type="text" value="min -1 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 2400-2600 m" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 12 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 2000m" type="text" value="max 4 C" />
-          <previsione title="Temperatura 3000m" type="text" value="max 1 C" />
-					<previsione title="Precipitazioni" type="text" value="Deboli" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="Oltre i 2600-2900 m" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="ven 13 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/e2.png" />
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/e6.png"/>
          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-					<previsione title="Precipitazioni" type="text" value="Deboli sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
-					<previsione title="Quota neve" type="text" value="in calo sotto i 2000 m" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="sab 14 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png"/>
-         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate" />
+					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 1500/1800 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="3" name="Belluno e Prealpi orientali">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura 1500m" type="text" value="max 7 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 5 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 1500m" type="text" value="min 5 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min 3 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 1500m" type="text" value="max 7 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 4 C" />
-					<previsione title="Precipitazioni" type="text" value="Qualche pioggia verso sera" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 1500m" type="text" value="min 6 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min 4 C" />
-					<previsione title="Precipitazioni" type="text" value="Moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="gio 12 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 1500m" type="text" value="max 7 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 6 C" />
-					<previsione title="Precipitazioni" type="text" value="Moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+          <previsione title="Temperatura 1500m" type="text" value="max 8 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max 5 C" />
+          <previsione title="Precipitazioni" type="text" value="Moderate" />
+					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 13 novembre">
+				<scadenza data="ven 13 novembre mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/e2.png" />
          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura 1500m" type="text" value="min 0 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min -2 C" />
 					<previsione title="Precipitazioni" type="text" value="Deboli sparse" />
 					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab 14 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png"/>
+				<scadenza data="ven 13 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura 1500m" type="text" value="max 6 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max 4 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="in calo sotto i 2000 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
          <previsione title="Cielo" type="text" value="In prevalenza sereno" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Temperatura 1500m" type="text" value="min -1 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min -2 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura 1500m" type="text" value="max 3 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max -1 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/e6.png"/>
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate" />
+					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 1700/1900 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="4" name="Prealpi centrali">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura 1500m" type="text" value="max 7 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 5 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 1500m" type="text" value="min 5 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min 3 C" />
-					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 1500m" type="text" value="max 7 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 4 C" />
-					<previsione title="Precipitazioni" type="text" value="Qualche pioggia verso sera" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 1500m" type="text" value="min 6 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min 4 C" />
-					<previsione title="Precipitazioni" type="text" value="Moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="gio 12 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 1500m" type="text" value="max 7 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 6 C" />
-					<previsione title="Precipitazioni" type="text" value="Moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+          <previsione title="Temperatura 1500m" type="text" value="max 8 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max 5 C" />
+          <previsione title="Precipitazioni" type="text" value="Moderate" />
+					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 13 novembre">
+				<scadenza data="ven 13 novembre mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/e2.png" />
          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura 1500m" type="text" value="min 0 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min -2 C" />
 					<previsione title="Precipitazioni" type="text" value="Deboli sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab 14 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png"/>
+				<scadenza data="ven 13 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura 1500m" type="text" value="max 6 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max 4 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="in calo sotto i 2000 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
          <previsione title="Cielo" type="text" value="In prevalenza sereno" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Temperatura 1500m" type="text" value="min -1 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min -2 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura 1500m" type="text" value="max 3 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max -1 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/e6.png"/>
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate" />
+					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 1700/1900 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="5" name="Pedemontana orientale">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png" />
+				<scadenza data="gio 12 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
          <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+          <previsione title="Precipitazioni" type="text" value="Piogge consistenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png" />
+				<scadenza data="ven 13 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a4.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="min 7/9 C" />
+          <previsione title="Temperatura" type="text" value="min 5/7 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="ven 13 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="min 10/12 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b10.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge abbondanti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="ven 13 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-					<previsione title="Precipitazioni" type="text" value="Piogge modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="sab 14 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 2/4 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 10/12 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+					<previsione title="Precipitazioni" type="text" value="Qualche pioggia verso sera" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b6.png"/>
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="6" name="Treviso e pianura orientale">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
+				<scadenza data="gio 12 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
          <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+          <previsione title="Precipitazioni" type="text" value="Piogge consistenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png" />
+				<scadenza data="ven 13 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b6.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="min 9/11 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+          <previsione title="Temperatura" type="text" value="min 4/6 C" />
 					<previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="min 10/12 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b10.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge abbondanti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="ven 13 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="sab 14 novembre">
+				<scadenza data="ven 13 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 2/4 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 10/12 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+					<previsione title="Precipitazioni" type="text" value="Qualche pioggia verso sera" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b2.png"/>
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="7" name="Veneziano orientale">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="min 9/11 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="min 10/12 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
 				<scadenza data="gio 12 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b10.png" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
          <previsione title="Cielo" type="text" value="Coperto" />
           <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge abbondanti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+          <previsione title="Precipitazioni" type="text" value="Piogge consistenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da est" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 13 novembre">
+				<scadenza data="ven 13 novembre mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
+          <previsione title="Temperatura" type="text" value="min 4/6 C" />
+					<previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Moderati da nordovest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="sab 14 novembre">
+				<scadenza data="ven 13 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 1/3 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 11/13 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+					<previsione title="Precipitazioni" type="text" value="Qualche pioggia verso sera" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b2.png"/>
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="8" name="Prealpi occidentali">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a4.png" />
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-          <previsione title="Temperatura 1500m" type="text" value="max 7 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 5 C" />
-          <previsione title="Precipitazioni" type="text" value="Assenti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 1500m" type="text" value="min 5 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min 3 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 1500m" type="text" value="max 7 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 4 C" />
-					<previsione title="Precipitazioni" type="text" value="Qualche pioggia verso sera" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 1500m" type="text" value="min 6 C" />
-          <previsione title="Temperatura 2000m" type="text" value="min 4 C" />
-					<previsione title="Precipitazioni" type="text" value="Moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
-				</scadenza>
 				<scadenza data="gio 12 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura 1500m" type="text" value="max 7 C" />
-          <previsione title="Temperatura 2000m" type="text" value="max 6 C" />
-					<previsione title="Precipitazioni" type="text" value="Moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+          <previsione title="Temperatura 1500m" type="text" value="max 8 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max 5 C" />
+          <previsione title="Precipitazioni" type="text" value="Moderate" />
+					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 13 novembre">
+				<scadenza data="ven 13 novembre mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/e2.png" />
          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura 1500m" type="text" value="min 0 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min -2 C" />
 					<previsione title="Precipitazioni" type="text" value="Deboli sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Buona" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
-				<scadenza data="sab 14 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png"/>
+				<scadenza data="ven 13 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura 1500m" type="text" value="max 6 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max 4 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="in calo sotto i 2000 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
          <previsione title="Cielo" type="text" value="In prevalenza sereno" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Temperatura 1500m" type="text" value="min -1 C" />
+          <previsione title="Temperatura 2000m" type="text" value="min -2 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="In prevalenza sereno" />
+          <previsione title="Temperatura 1500m" type="text" value="max 3 C" />
+          <previsione title="Temperatura 2000m" type="text" value="max -1 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Ottima" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/e6.png"/>
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate" />
+					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
+					<previsione title="Quota neve" type="text" value="Oltre i 1700/1900 m" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="9" name="Vicenza e pedemontana">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
+				<scadenza data="gio 12 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
          <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+          <previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png" />
+				<scadenza data="ven 13 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b2.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="min 9/11 C" />
+          <previsione title="Temperatura" type="text" value="min 4/6 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="ven 13 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
 					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="min 10/12 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b10.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge abbondanti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="ven 13 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-					<previsione title="Precipitazioni" type="text" value="Piogge modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="sab 14 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 2/4 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 10/12 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+					<previsione title="Precipitazioni" type="text" value="Qualche pioggia verso sera" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b6.png"/>
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="10" name="Padova e pianura centrale">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
+				<scadenza data="gio 12 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
          <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+          <previsione title="Precipitazioni" type="text" value="Piogge consistenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png" />
+				<scadenza data="ven 13 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b2.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="min 9/11 C" />
+          <previsione title="Temperatura" type="text" value="min 5/7 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="min 10/12 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b10.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge abbondanti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="ven 13 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="sab 14 novembre">
+				<scadenza data="ven 13 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 3/5 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 11/13 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+					<previsione title="Precipitazioni" type="text" value="Qualche pioggia verso sera" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b2.png"/>
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="11" name="Venezia e laguna">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="min 9/11 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="min 10/12 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
 				<scadenza data="gio 12 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b10.png" />
          <previsione title="Cielo" type="text" value="Coperto" />
           <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge abbondanti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+          <previsione title="Precipitazioni" type="text" value="Piogge consistenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 13 novembre">
+				<scadenza data="ven 13 novembre mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
+          <previsione title="Temperatura" type="text" value="min 6/8 C" />
+					<previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Moderati da nordovest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="sab 14 novembre">
+				<scadenza data="ven 13 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 4/6 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 11/13 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+					<previsione title="Precipitazioni" type="text" value="Qualche pioggia verso sera" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b2.png"/>
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="12" name="Delta del Po">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="min 9/11 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="min 10/12 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
 				<scadenza data="gio 12 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b10.png" />
          <previsione title="Cielo" type="text" value="Coperto" />
           <previsione title="Temperatura" type="text" value="max 14/16 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
+          <previsione title="Precipitazioni" type="text" value="Piogge consistenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Forti da sud-est" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Moderati da sud" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 13 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
+				<scadenza data="ven 13 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
+          <previsione title="Temperatura" type="text" value="min 10/12 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Moderati da nordovest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="sab 14 novembre">
+				<scadenza data="ven 13 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura" type="text" value="max 14/16 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 5/7 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 11/13 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+					<previsione title="Precipitazioni" type="text" value="Qualche pioggia verso sera" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b2.png"/>
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="13" name="Rovigo e pianura meridionale">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
+				<scadenza data="gio 12 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b10.png" />
          <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+          <previsione title="Precipitazioni" type="text" value="Piogge consistenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png" />
+				<scadenza data="ven 13 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="min 9/11 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+          <previsione title="Temperatura" type="text" value="min 5/7 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="min 10/12 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="ven 13 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="sab 14 novembre">
+				<scadenza data="ven 13 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 3/5 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+					<previsione title="Precipitazioni" type="text" value="Qualche pioggia verso sera" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b2.png"/>
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="14" name="Verona e pedemontana">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
+				<scadenza data="gio 12 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
          <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+          <previsione title="Precipitazioni" type="text" value="Piogge consistenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png" />
+				<scadenza data="ven 13 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b2.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="min 9/11 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="min 10/12 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b10.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge abbondanti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="ven 13 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-					<previsione title="Precipitazioni" type="text" value="Piogge modeste" />
+          <previsione title="Temperatura" type="text" value="min 5/7 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
 					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="sab 14 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+				<scadenza data="ven 13 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 2/4 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 11/13 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+					<previsione title="Precipitazioni" type="text" value="Qualche pioggia verso sera" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b6.png"/>
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="15" name="Area del Garda">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
+				<scadenza data="gio 12 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
          <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+          <previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Variabili" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png" />
+				<scadenza data="ven 13 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b2.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="min 9/11 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
-					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+          <previsione title="Temperatura" type="text" value="min 6/8 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
 					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Deboli da nord" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="min 10/12 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b10.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
+				<scadenza data="ven 13 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png"/>
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
           <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge abbondanti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge locali" />
+					<previsione title="Probabilita' precipitazione" type="text" value="10%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Deboli da sudest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="ven 13 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-					<previsione title="Precipitazioni" type="text" value="Piogge modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="sab 14 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 5/7 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 11/13 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Variabili" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+					<previsione title="Precipitazioni" type="text" value="Qualche pioggia verso sera" />
+					<previsione title="Probabilita' precipitazione" type="text" value="20%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b6.png"/>
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="16" name="Litorale nord">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="min 9/11 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="min 10/12 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
 				<scadenza data="gio 12 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b10.png" />
          <previsione title="Cielo" type="text" value="Coperto" />
           <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge abbondanti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+          <previsione title="Precipitazioni" type="text" value="Piogge consistenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Moderati da est" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 13 novembre">
+				<scadenza data="ven 13 novembre mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
+          <previsione title="Temperatura" type="text" value="min 4/6 C" />
+					<previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Moderati da nordovest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="sab 14 novembre">
+				<scadenza data="ven 13 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 1/3 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 11/13 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b2.png"/>
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="17" name="Litorale centrale">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="" />
-				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png" />
-         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="min 9/11 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="70%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="min 10/12 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
 				<scadenza data="gio 12 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b10.png" />
          <previsione title="Cielo" type="text" value="Coperto" />
           <previsione title="Temperatura" type="text" value="max 13/15 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge abbondanti" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
+          <previsione title="Precipitazioni" type="text" value="Piogge consistenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="100%" />
 					<previsione title="Quota neve" type="text" value="" />
           <previsione title="Vento" type="text" value="Moderati da nordest" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="ven 13 novembre">
+				<scadenza data="ven 13 novembre mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
+         <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
+          <previsione title="Temperatura" type="text" value="min 6/8 C" />
+					<previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Moderati da nordovest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="sab 14 novembre">
+				<scadenza data="ven 13 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="30%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 4/6 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 11/13 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b2.png"/>
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 <meteogramma zoneid="18" name="Litorale sud">
-				<scadenza data="mar 10 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
+				<scadenza data="gio 12 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b10.png" />
          <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
-          <previsione title="Precipitazioni" type="text" value="Piogge modeste" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+          <previsione title="Precipitazioni" type="text" value="Piogge consistenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
+          <previsione title="Vento" type="text" value="Moderati da sud" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
-				<scadenza data="mer 11 novembre mattina">
+				<scadenza data="ven 13 novembre mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b3.png" />
          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="min 9/11 C" />
+          <previsione title="Temperatura" type="text" value="min 10/12 C" />
 					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
 					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
 					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Moderati da nordovest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
-				<scadenza data="mer 11 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a5.png"/>
-          <previsione title="Cielo" type="text" value="Molto nuvoloso o coperto" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
-					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
-					<previsione title="Probabilita' precipitazione" type="text" value="50%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="min 10/12 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="90%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Variabili" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="gio 12 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-          <previsione title="Temperatura" type="text" value="max 15/17 C" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
-					<previsione title="Quota neve" type="text" value="" />
-          <previsione title="Vento" type="text" value="Forti da sud-est" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="ven 13 novembre">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b7.png" />
-         <previsione title="Cielo" type="text" value="Coperto" />
-					<previsione title="Precipitazioni" type="text" value="Piogge moderate" />
-					<previsione title="Probabilita' precipitazione" type="text" value="80%" />
-					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
-				</scadenza>
-				<scadenza data="sab 14 novembre">
+				<scadenza data="ven 13 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png"/>
-         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
-				  <previsione title="Precipitazioni" type="text" value="Assenti" />
+          <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+          <previsione title="Temperatura" type="text" value="max 14/16 C" />
+					<previsione title="Precipitazioni" type="text" value="Modeste piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="40%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre mattina">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="min 5/7 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
-					<previsione title="Attendibilita'" type="text" value="Ottima" />
+          <previsione title="Vento" type="text" value="Moderati da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="sab 14 novembre pomeriggio">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a1.png" />
+         <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
+          <previsione title="Temperatura" type="text" value="max 11/13 C" />
+					<previsione title="Precipitazioni" type="text" value="Assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+          <previsione title="Vento" type="text" value="Deboli da nordest" />
+					<previsione title="Attendibilita'" type="text" value="Buona" />
+				</scadenza>
+				<scadenza data="dom 15 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in aumento" />
+					<previsione title="Precipitazioni" type="text" value="Generalmente assenti" />
+					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
+				</scadenza>
+				<scadenza data="lun 16 novembre">
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/b2.png"/>
+         <previsione title="Cielo" type="text" value="Nuvolosit&#224; in diminuzione" />
+				  <previsione title="Precipitazioni" type="text" value="Moderate piogge sparse" />
+					<previsione title="Probabilita' precipitazione" type="text" value="60%" />
+					<previsione title="Quota neve" type="text" value="" />
+					<previsione title="Attendibilita'" type="text" value="Discreta" />
 				</scadenza>
 </meteogramma>
 
 </meteogrammi>
 <bollettini>
 
-<bollettino bollettinoid="MV" name="Meteo Veneto" title="Bollettino del 10 novembre">
-<evoluzionegenerale><![CDATA[Almeno fino a venerd&igrave; correnti dai quadranti occidentali con circolazione prevalentemente ciclonica; situazione meteorologica tipicamente novembrina, con piogge specie gioved&igrave;. Sabato pressione in aumento, rasserenamenti e temperature in calo.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="10 novembre">
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MV_0.png.jpg" caption="10 novembre pomeriggio" />
+<bollettino bollettinoid="MV" name="Meteo Veneto" title="Bollettino del 12 novembre">
+<evoluzionegenerale><![CDATA[Si struttura un'estesa saccatura che interessa l'Europa con significative differenze bariche tra nord e sud, seguita sabato da un flusso leggermente anticiclonico dai quadranti occidentali e poi dall'avvicinamento di una saccatura di origine atlantica; per il Veneto ne conseguono molte nubi e precipitazioni inizialmente fino a venerd&igrave; mattina, spazi di sereno sabato con calo soprattutto delle temperature minime, nubi almeno a tratti in nuovo aumento da domenica con altre probabili precipitazioni luned&igrave;.]]></evoluzionegenerale><avviso><![CDATA[AVVISO METEO. Venerd&igrave; vento di Bora sulla costa, a tratti anche forte nelle ore centrali.]]></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="12 novembre">
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MV_0.png.jpg" caption="12 novembre pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Cielo coperto, eccetto leggere/moderate diminuzioni della nuvolosit&agrave; sui monti. Piogge modeste in esaurimento di pomeriggio a partire da nord e ovunque assenti di sera. Temperature: in aumento, eccetto cali pomeridiani sucosta e zone limitrofe, con differenze anche sensibili sui monti rispetto a luned&igrave;; sotto la media di pomeriggio e sopra la media di sera, anche di molto.]]>
-					</text>
-				</giorno>
-				<giorno data="11 novembre">
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MV_1.png.jpg" caption="11 novembre mattina" />
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MV_2.png.jpg" caption="11 novembre pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Cielo molto nuvoloso o coperto; parziali riduzioni della visibilit&agrave;, anche per locali banchi di nebbia sulle zone pianeggianti nelle ore pi&ugrave; fredde.<br /><b>Precipitazioni: </b>Soprattutto in pianura, da deboli a moderate e da locali a sparse; eventuali fiocchi di neve solo ad alta quota sulle Dolomiti.<br /><b>Temperature: </b>In aumento leggero/moderato rispetto a marted&igrave;. Sopra la media nelle ore notturne e sotto la media nelle ore diurne, anche di molto.<br /><b>Venti: </b>In quota sud-occidentali, prevalentemente tesi, a tratti anche forti sulle Prealpi; altrove, deboli/moderati con direzione variabile.<br /><b>Mare: </b>Poco mosso.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
-					</text>
-				</giorno>
-				<giorno data="12 novembre">
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MV_3.png.jpg" caption="12 novembre mattina" />
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MV_4.png.jpg" caption="12 novembre pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Coperto.
-<br /><b>Precipitazioni: </b>Probabilit&agrave; alta (75-100%) per piogge estese specie dal pomeriggio, con accumuli anche abbondanti sulla pianura.<br /><b>Temperature: </b>In aumento, eccetto cali diurni sui monti, con differenze leggere/moderate rispetto a mercoled&igrave;.<br /><b>Venti: </b>Sulla pianura fino al mattino deboli/moderati con direzione variabile, dal pomeriggio su Delta del Po e zone limitrofe tesi da sud-est mentre altrove moderati da nord-est. Nelle valli deboli/moderati con direzione variabile. In alta montagna forti da sud/ovest.<br /><b>Mare: </b>Da poco mosso a mosso col passar delle ore.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+                        <![CDATA[<b>Previsione: </b>Cielo coperto; precipitazioni da sparse a diffuse, con quantitativi anche consistenti almeno localmente sulle zone pianeggianti; limite delle nevicate sui 2300-2600 m; in quota, discreto Libeccio a tratti; rinforzi di vento in pianura, pi&ugrave; significativi sulla costa nelle ultime ore, sul litorale sud dai quadranti meridionali e per il resto da quelli nord-orientali.]]>
 					</text>
 				</giorno>
 				<giorno data="13 novembre">
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MV_5.png.jpg" caption="13 novembre" />
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MV_1.png.jpg" caption="13 novembre mattina" />
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MV_2.png.jpg" caption="13 novembre pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per venerd&igrave; 13: </b>Piovoso fino al mattino, dal pomeriggio piogge in esaurimento e verso sera leggere/moderate diminuzioni della nuvolosit&agrave; a partire dai monti. Temperature in aumento fino al pomeriggio e in calo di sera con minime a fine giornata.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Nelle prime ore cielo molto nuvoloso o coperto, poi variabilit&agrave; con nubi in diminuzione e significativi spazi di sereno specie verso sera.<br /><b>Precipitazioni: </b>Fenomeni fino al primo mattino piuttosto diffusi e di entit&agrave; localmente moderata, poi pi&ugrave; modesti e da sparsi a locali, con diradamento a partire dalle Dolomiti fino a risultare assenti pressoch&egrave; ovunque prima di sera; limite delle nevicate in abbassamento fino a circa 1700-2000 m.<br /><b>Temperature: </b>Minime raggiunte di sera, senza notevoli variazioni a sud-est e per il resto in diminuzione, pi&ugrave; sensibile in montagna; per le massime leggere diminuzioni in quota e sulla costa, valori stazionari o in lieve aumento altrove.<br /><b>Venti: </b>In quota perlopi&ugrave; moderati dai quadranti settentrionali, ma inizialmente anche tesi sulle Dolomiti; nelle valli probabili episodi di Foehn soprattutto sulle zone dolomitiche, per il resto deboli con direzione variabile; in pianura nelle prime ore dai quadranti occidentali e poi da quelli nord-orientali, sull'entroterra a tratti deboli e a tratti moderati con culmine nelle ore centrali, sulla costa da moderati a pi&ugrave; spesso tesi in particolare nel pomeriggio.<br /><b>Mare: </b>Nelle prime ore da mosso a temporaneamente poco mosso, poi pi&ugrave; decisamente mosso.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
 					</text>
 				</giorno>
 				<giorno data="14 novembre">
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MV_6.png.jpg" caption="14 novembre" />
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MV_3.png.jpg" caption="14 novembre mattina" />
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MV_4.png.jpg" caption="14 novembre pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per sabato 14: </b>Nuvolosit&agrave; in diminuzione senza precipitazioni, temperature in calo.
-Previsore: Stefano Veronese<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Cielo sereno o poco nuvoloso.<br /><b>Precipitazioni: </b>Assenti.<br /><b>Temperature: </b>Sulle zone pianeggianti, in moderata diminuzione; sulle zone montane, contenute variazioni di carattere locale.<br /><b>Venti: </b>In quota, da deboli occidentali a moderati sud-occidentali; nelle valli, deboli con direzione variabile; in pianura dai quadranti settentrionali con iniziale prevalenza da nord-est, sull'entroterra deboli e sulla costa perlopi&ugrave; moderati ma con attenuazione a fine giornata.<br /><b>Mare: </b>Da mosso a poco mosso.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+					</text>
+				</giorno>
+				<giorno data="15 novembre">
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MV_5.png.jpg" caption="15 novembre" />
+					<text>
+                        <![CDATA[<b>Tendenza per domenica 15: </b>Cielo nel complesso irregolarmente nuvoloso, con maggiori spazi di sereno nelle prime ore e addensamenti pi&ugrave; significativi a fine giornata; possibile qualche modesta precipitazione di sera sulle zone centro-occidentali, eventualmente nevosa da circa 1700-2000 m; riguardo alle temperature, prevalgono in montagna moderati aumenti delle minime e lievi diminuzioni delle massime, in pianura diminuzioni leggere delle minime e al pi&ugrave; moderate delle massime.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
+					</text>
+				</giorno>
+				<giorno data="16 novembre">
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MV_6.png.jpg" caption="16 novembre" />
+					<text>
+                        <![CDATA[<b>Tendenza per luned&igrave; 16: </b>Cielo nel complesso irregolarmente nuvoloso, con addensamenti pi&ugrave; compatti fino alle ore centrali e maggiori spazi di sereno verso fine giornata; alcune fasi di precipitazioni sparse, localmente significative sulle zone centro-settentrionali, in diradamento probabilmente pi&ugrave; netto alla sera; limite delle nevicate sui 1700-2000 m; temperature minime un po' in aumento, salvo locali leggere controtendenze; riguardo alle temperature massime, aumenti su bassa pianura e costa, diminuzioni in quota, contenute variazioni di carattere locale altrove.
+Previsore: AB<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 </bollettino>
 
-<bollettino bollettinoid="DM" name="Dolomiti Meteo" title="Bollettino del 10 novembre">
-<evoluzionegenerale><![CDATA[Per buona parte della settimana la montagna veneta sar&agrave; interessata da correnti umide occidentali, pi&ugrave; miti a partire da marted&igrave;. Pertanto il tempo sar&agrave; caratterizzato da molte nubi ma precipitazioni irrisorie fino a mercoled&igrave;. Tra Gioved&igrave; e venerd&igrave; passaggio di una perturbazione pi&ugrave; attiva con precipitazioni pi&ugrave; diffuse seguita da correnti pi&ugrave; fredde settentrionali.    ]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="10 novembre">
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_DM_0.png.jpg" caption="10 novembre pomeriggio" />
+<bollettino bollettinoid="DM" name="Dolomiti Meteo" title="Bollettino del 12 novembre">
+<evoluzionegenerale><![CDATA[Tra gioved&igrave; e la prima parte di venerd&igrave; una saccatura atlantica, associata ad una profonda bassa pressione al suolo, transiter&agrave; sul Veneto con un episodio di tempo perturbato; nella prima fase vi sar&agrave; un richiamo di aria molto mite in quota da sud-ovest, mentre a fine evento vi sar&agrave; l'ingresso di masse d'aria decisamente pi&ugrave; fredda. Nel fine settimana un promontorio di intervallo garantir&agrave; condizioni di stabilit&agrave; atmosferica in un contesto termico quasi invernale. Luned&igrave; transiter&agrave; una nuova saccatura con ulteriori precipitazioni e limite delle nevicate pi&ugrave; basso. In seguito si instaurer&agrave; un flusso mediamente occidentale con alcune ondulazioni cicloniche che potranno portare qualche ulteriore precipitazione in una contesto di generale variabilit&agrave;.]]></evoluzionegenerale><avviso><![CDATA[AVVISO METEO. Venerd&igrave; vento di Bora sulla costa, a tratti anche forte nelle ore centrali.]]></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="12 novembre">
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_DM_0.png.jpg" caption="12 novembre pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Schiarite via via pi&ugrave; ampie dapprima su Dolomiti fino a poco nuvoloso e pi&ugrave; tardi anche su Prealpi fino a cielo poco o parzialmente nuvoloso. Temperature in aumento, su Prealpi - a 1500 m: max 7, a 2000 m: max 5. Dolomiti - a 2000 m: max 5, a 3000 m: max 1. Venti in quota in attenuazione a deboli/moderati occidentali in rotazione da nordovest, deboli variabili nelle valli, a 15-30 km/h a 2000 m e 15-30 km/h a 3000 m. ]]>
-					</text>
-				</giorno>
-				<giorno data="11 novembre">
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_DM_1.png.jpg" caption="11 novembre mattina" />
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_DM_2.png.jpg" caption="11 novembre pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Cielo molto nuvoloso o coperto con locali addensamenti medio-bassi in alcune conche e valli.
-<br /><b>Precipitazioni: </b>Dal pomeriggio piogge deboli sparse possibili su Prealpi e Dolomiti meridionali (30-50%), generalmente ancora pi&ugrave; modeste e meno probabili su Dolomiti (10-30%), con qualche fiocco di neve confinato alle cime pi&ugrave; elevate.  <br /><b>Temperature: </b>Temperature in lieve aumento; (&deg;C) Su Prealpi - a 1500 m: max 7, a 2000 m: max 4 Dolomiti - a 2000 m: max 4, a 3000 m: max 0.<br /><b>Venti: </b>Venti in alta quota e su fascia prealpina tesi da ovest/sudovest, al pi&ugrave; moderati su Dolomiti fino sui 2000-2500 m, deboli variabili nelle valli; a 5-30 km/h a 2000 m e 25-45 km/h a 3000 m.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
-					</text>
-				</giorno>
-				<giorno data="12 novembre">
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_DM_3.png.jpg" caption="12 novembre mattina" />
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_DM_4.png.jpg" caption="12 novembre pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Cielo coperto. 
-<br /><b>Precipitazioni: </b>Precipitazioni diffuse dal mattino a partire da Prealpi in estensione a Dolomiti, nel pomeriggio/sera a tratti moderate con rovesci su Prealpi, generalmente deboli su Dolomiti e nevose oltre i 2400-2600 m in rialzo alle cime pi&ugrave; elevate (oltre i 2600-2900 m) nel pomeriggio/sera.  
-<br /><b>Temperature: </b>Temperature massime in lieve calo nelle valli. Su Prealpi - a 1500 m: min 6 max 7, a 2000 m: min 4 max 6 Dolomiti - a 2000 m: min 3 max 4, a 3000 m: min -1 max 1<br /><b>Venti: </b>Venti in quota forti da sud/sudovest, deboli variabili nelle valli, a 25-40 km/h a 2000 m e 40-60 km/h a 3000 m.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Previsione: </b>Cielo coperto con precipitazioni diffuse perlopi&ugrave; moderate (80/100%), localmente pi&ugrave; intense e a carattere di rovescio sulle Prealpi; limite neve a 2500/2600 m, in lieve calo. Complessivamente sono attese nelle 24 ore cumulate tra 20 e 40 mm con punte localmente superiori lungo la fascia prealpina. Contesto relativamente fresco nelle valli, e uggioso. Venti in quota perlopi&ugrave; moderati da sud-ovest, deboli nelle valli.]]>
 					</text>
 				</giorno>
 				<giorno data="13 novembre">
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_DM_5.png.jpg" caption="13 novembre" />
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_DM_1.png.jpg" caption="13 novembre mattina" />
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_DM_2.png.jpg" caption="13 novembre pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per venerd&igrave; 13: </b>Fino al mattino molte nubi con possibili precipitazioni sparse e limite neve in calo fin localmente sotto i 2000 m su Dolomiti nord. Dal pomeriggio schiarite via via pi&ugrave; ampie dapprima su Dolomiti a seguire anche su Prealpi dove non &egrave; escluso qualche locale rovescio. Temperature in calo specie dal pomeriggio e in quota. Venti in quota forti da sudovest fino al mattino in rotazione da nord/nordovest dal mezzogiorno con qualche raffica nelle valli dolomitiche pi&ugrave; settentrionali. 
-
-<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Fino al mattino cielo molto nuvoloso con fenomeni inizialmente diffusi, nel pomeriggio schiarite via via pi&ugrave; ampie a partire da nord-ovest, in estensione alle Prealpi bellunesi entro sera.<br /><b>Precipitazioni: </b>Inizialmente deboli/moderate diffuse nelle prime ore della notte (70/80%) poi sparse tra mattino e ore centrali (50/70%), pi&ugrave; probabili su provincia di Belluno, in esaurimento da ovest. Il calo della quota neve, fino a 1500 m sulle Dolomiti, 1700/1800 m sulle Prealpi, corrisponder&agrave; all'esaurimento dei fenomeni, determinando quindi apporti irrisori alle quote indicate. Fenomeni assenti al pomeriggio/sera.<br /><b>Temperature: </b>Minime in calo, pi&ugrave; marcato in quota, raggiunte alla sera. Massime in lieve calo, registrate nelle prime ore notturne in quota. Su Prealpi a 1500 m min 0&deg;C max 6&deg;C, a 2000 m min -2&deg;C max 4&deg;C. Su Dolomiti a 2000 m min -3&deg;C max 2&deg;C, a 3000 m min -5&deg;C max -2&deg;C.<br /><b>Venti: </b>Nelle valli e sulle dorsali prealpine probabili rinforzi di Foehn; in quota moderati/tesi settentrionali, a 10-35 km/h a 2000 m e 15-45 km/h a 3000 m.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 				<giorno data="14 novembre">
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_DM_6.png.jpg" caption="14 novembre" />
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_DM_3.png.jpg" caption="14 novembre mattina" />
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_DM_4.png.jpg" caption="14 novembre pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per sabato 14: </b>Cielo sereno aria tersa ed ottima visibilit&agrave;. Temperature in generale calo. Venti deboli.
-
-Previsore: D.Dalla Libera<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Cielo sereno, aria tersa ed ottima visibilit&agrave;; potr&agrave; fare eccezione qualche banco di nebbia o locali nubi basse sui settori prealpini nelle prime ore. Contesto termico freddo al mattino.<br /><b>Precipitazioni: </b>Assenti (0%)<br /><b>Temperature: </b>Minime in calo nelle valli, con possibili gelate in molti fondovalle, stazionarie in quota; massime in ulteriore lieve calo. Su Prealpi a 1500 m min -1&deg;C max 3&deg;C, a 2000 m min -2&deg;C max -1&deg;C. Su Dolomiti a 2000 m min -2&deg;C max 1&deg;C, a 3000 m min -5&deg;C max -3&deg;C.<br /><b>Venti: </b>Nelle valli in attenuazione a deboli ovunque; in quota deboli/moderati in rotazione da nord-ovest a sud-ovest al pomeriggio/sera, a 5-15 km/h a 2000 m e 10-25 km/h a 3000 m.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+					</text>
+				</giorno>
+				<giorno data="15 novembre">
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_DM_5.png.jpg" caption="15 novembre" />
+					<text>
+                        <![CDATA[<b>Tendenza per domenica 15: </b>Poco nuvoloso al mattino con qualche velatura, con tendenza ad aumento della nuvolosit&agrave; al pomeriggio/sera, fino a nuvoloso nella notte. Contesto termico freddo al mattino. Venti in quota in intensificazione da sud-ovest.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+					</text>
+				</giorno>
+				<giorno data="16 novembre">
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_DM_6.png.jpg" caption="16 novembre" />
+					<text>
+                        <![CDATA[<b>Tendenza per luned&igrave; 16: </b>Molto nuvoloso o coperto, con precipitazioni perlopi&ugrave; deboli diffuse fino al pomeriggio, con limite della neve a 1500/1800 m in funzione dell'intensit&agrave;: Attenuazione della nuvolosit&agrave; e cessazione dei fenomeni entro sera. Minime in aumento, massime stazionarie con contesto termico diurno piuttosto freddo. Venti in rotazione da sud-ovest a nord-ovest.
+Previsore: G.M.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 <quota_zero_termico>
-<previsione data="10 novembre">3100</previsione>
-<previsione data="11 novembre">2800</previsione>
-<previsione data="12 novembre">2600</previsione>
-<previsione data="13 novembre">2500</previsione>
-<previsione data="14 novembre">2000</previsione>
+<previsione data="12 novembre">2700</previsione>
+<previsione data="13 novembre">2000</previsione>
+<previsione data="14 novembre">1900</previsione>
+<previsione data="15 novembre">1800</previsione>
+<previsione data="16 novembre">2000</previsione>
 </quota_zero_termico>
-<previsioni_localita data="11 novembre">
+<previsioni_localita data="13 novembre">
 <localita nome="Bosco C.N.">
-<tmin value="8" /><tmax value="10" />
-<scadenza data="mer 11 novembre Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Mattina"><cielo value="Coperto" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Pomeriggio"><cielo value="Coperto" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="40%" />
-</scadenza><pioggia value="1-5" /><neve value="0" />
+<tmin value="4" /><tmax value="9" />
+<scadenza data="ven 13 novembre Notte"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="50%" />
+</scadenza><scadenza data="ven 13 novembre Mattina"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="40%" />
+</scadenza><scadenza data="ven 13 novembre Pomeriggio"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><scadenza data="ven 13 novembre Sera"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><pioggia value="2-10" /><neve value="0" />
 </localita>
 <localita nome="Asiago">
-<tmin value="4" /><tmax value="9" />
-<scadenza data="mer 11 novembre Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Mattina"><cielo value="Coperto" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Pomeriggio"><cielo value="Coperto" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Sera"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="30%" />
-</scadenza><pioggia value="1-5" /><neve value="0" />
+<tmin value="2" /><tmax value="9" />
+<scadenza data="ven 13 novembre Notte"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="60%" />
+</scadenza><scadenza data="ven 13 novembre Mattina"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="50%" />
+</scadenza><scadenza data="ven 13 novembre Pomeriggio"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><scadenza data="ven 13 novembre Sera"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><pioggia value="5-15" /><neve value="0" />
 </localita>
 <localita nome="Belluno">
-<tmin value="6" /><tmax value="11" />
-<scadenza data="mer 11 novembre Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Mattina"><cielo value="Coperto" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Pomeriggio"><cielo value="Coperto" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Sera"><cielo value="Coperto" /><probabilita_pioggia value="20%" />
-</scadenza><pioggia value="0-2" /><neve value="0" />
+<tmin value="4" /><tmax value="12" />
+<scadenza data="ven 13 novembre Notte"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><scadenza data="ven 13 novembre Mattina"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="60%" />
+</scadenza><scadenza data="ven 13 novembre Pomeriggio"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="30%" />
+</scadenza><scadenza data="ven 13 novembre Sera"><cielo value="Sereno o poco nuvoloso" /><probabilita_pioggia value="0%" />
+</scadenza><pioggia value="10-20" /><neve value="0" />
 </localita>
 <localita nome="Agordo">
-<tmin value="5" /><tmax value="9" />
-<scadenza data="mer 11 novembre Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Mattina"><cielo value="Coperto" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Pomeriggio"><cielo value="Coperto" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Sera"><cielo value="Coperto" /><probabilita_pioggia value="10%" />
-</scadenza><pioggia value="0" /><neve value="0" />
+<tmin value="3" /><tmax value="11" />
+<scadenza data="ven 13 novembre Notte"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><scadenza data="ven 13 novembre Mattina"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="60%" />
+</scadenza><scadenza data="ven 13 novembre Pomeriggio"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
+</scadenza><scadenza data="ven 13 novembre Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><pioggia value="5-15" /><neve value="0" />
 </localita>
 <localita nome="Arabba">
-<tmin value="3" /><tmax value="7" />
-<scadenza data="mer 11 novembre Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Mattina"><cielo value="Coperto" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Pomeriggio"><cielo value="Coperto" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Sera"><cielo value="Coperto" /><probabilita_pioggia value="10%" />
-</scadenza><pioggia value="0" /><neve value="0" />
+<tmin value="-1" /><tmax value="3" />
+<scadenza data="ven 13 novembre Notte"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><scadenza data="ven 13 novembre Mattina"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="60%" />
+</scadenza><scadenza data="ven 13 novembre Pomeriggio"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="10%" />
+</scadenza><scadenza data="ven 13 novembre Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><pioggia value="5-10" /><neve value="0-5" />
 </localita>
 <localita nome="Cortina d'Ampezzo">
-<tmin value="3" /><tmax value="9" />
-<scadenza data="mer 11 novembre Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Mattina"><cielo value="Coperto" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Pomeriggio"><cielo value="Coperto" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Sera"><cielo value="Coperto" /><probabilita_pioggia value="10%" />
-</scadenza><pioggia value="0" /><neve value="0" />
+<tmin value="2" /><tmax value="6" />
+<scadenza data="ven 13 novembre Notte"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><scadenza data="ven 13 novembre Mattina"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="60%" />
+</scadenza><scadenza data="ven 13 novembre Pomeriggio"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="10%" />
+</scadenza><scadenza data="ven 13 novembre Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><pioggia value="5-15" /><neve value="0" />
 </localita>
 <localita nome="Pieve di Cadore">
 <tmin value="3" /><tmax value="10" />
-<scadenza data="mer 11 novembre Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Mattina"><cielo value="Coperto" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Pomeriggio"><cielo value="Coperto" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Sera"><cielo value="Coperto" /><probabilita_pioggia value="10%" />
-</scadenza><pioggia value="0" /><neve value="0" />
+<scadenza data="ven 13 novembre Notte"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><scadenza data="ven 13 novembre Mattina"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="60%" />
+</scadenza><scadenza data="ven 13 novembre Pomeriggio"><cielo value="Parzialmente nuvoloso" /><probabilita_pioggia value="10%" />
+</scadenza><scadenza data="ven 13 novembre Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><pioggia value="5-15" /><neve value="0" />
 </localita>
 <localita nome="Auronzo di Cadore">
-<tmin value="4" /><tmax value="10" />
-<scadenza data="mer 11 novembre Notte"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Mattina"><cielo value="Coperto" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Pomeriggio"><cielo value="Coperto" /><probabilita_pioggia value="0%" />
-</scadenza><scadenza data="mer 11 novembre Sera"><cielo value="Coperto" /><probabilita_pioggia value="10%" />
-</scadenza><pioggia value="0" /><neve value="0" />
+<tmin value="2" /><tmax value="10" />
+<scadenza data="ven 13 novembre Notte"><cielo value="Molto nuvoloso o coperto" /><probabilita_pioggia value="70%" />
+</scadenza><scadenza data="ven 13 novembre Mattina"><cielo value="Nuvoloso o molto nuvoloso" /><probabilita_pioggia value="60%" />
+</scadenza><scadenza data="ven 13 novembre Pomeriggio"><cielo value="Poco nuvoloso" /><probabilita_pioggia value="10%" />
+</scadenza><scadenza data="ven 13 novembre Sera"><cielo value="Sereno" /><probabilita_pioggia value="0%" />
+</scadenza><pioggia value="5-15" /><neve value="0" />
 </localita>
 </previsioni_localita>
 </bollettino>
 
-<bollettino bollettinoid="MP" name="Meteo Pianura Veneta" title="Bollettino del 10 novembre">
-<evoluzionegenerale><![CDATA[Almeno fino a venerd&igrave; correnti dai quadranti occidentali con circolazione prevalentemente ciclonica; situazione meteorologica tipicamente novembrina, con piogge specie gioved&igrave;. Sabato pressione in aumento, rasserenamenti e temperature in calo.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="10 novembre">
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MP_0.png.jpg" caption="10 novembre pomeriggio" />
+<bollettino bollettinoid="MP" name="Meteo Pianura Veneta" title="Bollettino del 12 novembre">
+<evoluzionegenerale><![CDATA[Si struttura un'estesa saccatura che interessa l'Europa con significative differenze bariche tra nord e sud, seguita sabato da un flusso leggermente anticiclonico dai quadranti occidentali e poi dall'avvicinamento di una saccatura di origine atlantica; per il Veneto ne conseguono molte nubi e precipitazioni inizialmente fino a venerd&igrave; mattina, spazi di sereno sabato con calo soprattutto delle temperature minime, nubi almeno a tratti in nuovo aumento da domenica con altre probabili precipitazioni luned&igrave;.]]></evoluzionegenerale><avviso><![CDATA[AVVISO METEO. Venerd&igrave; vento di Bora sulla costa, a tratti anche forte nelle ore centrali.]]></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="12 novembre">
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MP_0.png.jpg" caption="12 novembre pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Cielo coperto. Piogge modeste in esaurimento di pomeriggio a partire da nord e ovunque assenti di sera. Temperature: in aumento, eccetto cali pomeridiani su costa e zone limitrofe, con differenze leggere/moderate rispetto a luned&igrave;; sotto la media di pomeriggio e sopra la media di sera, anche di molto. Venti deboli/moderati con direzione variabile.]]>
-					</text>
-				</giorno>
-				<giorno data="11 novembre">
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MP_1.png.jpg" caption="11 novembre mattina" />
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MP_2.png.jpg" caption="11 novembre pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Cielo molto nuvoloso o coperto; parziali riduzioni della visibilit&agrave;, anche per locali banchi di nebbia nelle ore pi&ugrave; fredde.<br /><b>Precipitazioni: </b>Piogge da deboli a moderate e da locali a sparse.<br /><b>Temperature: </b>In aumento leggero/moderato rispetto a marted&igrave;. Sopra la media nelle ore notturne e sotto la media nelle ore diurne, anche di molto.<br /><b>Venti: </b>Deboli/moderati con direzione variabile.<br /><b>Mare: </b>Poco mosso.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
-					</text>
-				</giorno>
-				<giorno data="12 novembre">
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MP_3.png.jpg" caption="12 novembre mattina" />
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MP_4.png.jpg" caption="12 novembre pomeriggio" />
-					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Coperto.<br /><b>Precipitazioni: </b>Probabilit&agrave; alta (75-100%) per piogge estese specie dal pomeriggio, con accumuli anche abbondanti.<br /><b>Temperature: </b>In aumento leggero/moderato rispetto a mercoled&igrave;.<br /><b>Venti: </b>Fino al mattino deboli/moderati con direzione variabile, dal pomeriggio su Delta del Po e zone limitrofe tesi da sud-est mentre altrove moderati da nord-est.<br /><b>Mare: </b>Da poco mosso a mosso col passar delle ore.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+                        <![CDATA[<b>Previsione: </b>Cielo coperto; piogge da sparse a diffuse, con quantitativi anche consistenti almeno localmente; rinforzi di vento, pi&ugrave; significativi sulla costa nelle ultime ore, sul litorale sud dai quadranti meridionali e per il resto da quelli nord-orientali.]]>
 					</text>
 				</giorno>
 				<giorno data="13 novembre">
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MP_5.png.jpg" caption="13 novembre" />
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MP_1.png.jpg" caption="13 novembre mattina" />
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MP_2.png.jpg" caption="13 novembre pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per venerd&igrave; 13: </b>Piovoso fino al mattino, dal pomeriggio piogge in esaurimento e verso sera leggere/moderate diminuzioni della nuvolosit&agrave;. Temperature in aumento fino al pomeriggio e in calo di sera con minime a fine giornata.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Nelle prime ore cielo molto nuvoloso o coperto, poi variabilit&agrave; con nubi in diminuzione e significativi spazi di sereno specie verso sera.<br /><b>Precipitazioni: </b>Piogge fino al primo mattino piuttosto diffuse e di entit&agrave; localmente moderata, poi pi&ugrave; modeste e da sparse a locali, con diradamento fino a risultare assenti pressoch&egrave; ovunque prima di sera.<br /><b>Temperature: </b>Minime raggiunte di sera, senza notevoli variazioni a sud-est e per il resto in discreta diminuzione; per le massime leggere diminuzioni sulla costa, valori stazionari o in lieve aumento altrove.<br /><b>Venti: </b>Nelle prime ore dai quadranti occidentali e poi da quelli nord-orientali, sull'entroterra a tratti deboli e a tratti moderati con culmine nelle ore centrali, sulla costa da moderati a pi&ugrave; spesso tesi in particolare nel pomeriggio.<br /><b>Mare: </b>Nelle prime ore da mosso a temporaneamente poco mosso, poi pi&ugrave; decisamente mosso.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
 					</text>
 				</giorno>
 				<giorno data="14 novembre">
-					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MP_6.png.jpg" caption="14 novembre" />
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MP_3.png.jpg" caption="14 novembre mattina" />
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MP_4.png.jpg" caption="14 novembre pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tendenza per sabato 14: </b>Nuvolosit&agrave; in diminuzione senza precipitazioni, temperature in calo.
-Previsore: Stefano Veronese<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Cielo sereno o poco nuvoloso.<br /><b>Precipitazioni: </b>Assenti.<br /><b>Temperature: </b>In moderata diminuzione.<br /><b>Venti: </b>Dai quadranti settentrionali con iniziale prevalenza da nord-est, sull'entroterra deboli e sulla costa perlopi&ugrave; moderati ma con attenuazione a fine giornata.<br /><b>Mare: </b>Da mosso a poco mosso.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+					</text>
+				</giorno>
+				<giorno data="15 novembre">
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MP_5.png.jpg" caption="15 novembre" />
+					<text>
+                        <![CDATA[<b>Tendenza per domenica 15: </b>Cielo nel complesso irregolarmente nuvoloso, con maggiori spazi di sereno nelle prime ore e addensamenti pi&ugrave; significativi a fine giornata; possibile qualche modesta pioggia di sera sulle zone centro-occidentali; riguardo alle temperature, prevalgono diminuzioni leggere delle minime e al pi&ugrave; moderate delle massime.<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
+					</text>
+				</giorno>
+				<giorno data="16 novembre">
+					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MP_6.png.jpg" caption="16 novembre" />
+					<text>
+                        <![CDATA[<b>Tendenza per luned&igrave; 16: </b>Cielo nel complesso irregolarmente nuvoloso, con addensamenti pi&ugrave; compatti fino alle ore centrali e maggiori spazi di sereno verso fine giornata; alcune fasi di piogge sparse, localmente significative sulle zone centro-settentrionali, in diradamento probabilmente pi&ugrave; netto alla sera; temperature minime un po' in aumento, salvo locali leggere controtendenze; riguardo alle temperature massime, aumenti su bassa pianura e costa, contenute variazioni di carattere locale altrove.
+Previsore: AB<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 					</text>
 				</giorno>
 </bollettino>
