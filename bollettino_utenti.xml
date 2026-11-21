@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <previsioni>
 <data_emissione date="20/11/2026 alle 13:00" />
+<data_aggiornamento date="21/11 alle 09.00" />
 <meteogrammi>
 <meteogramma zoneid="1" name="Dolomiti Nord-Est">
 				<scadenza data="ven 20 novembre pomeriggio">
@@ -212,7 +213,7 @@
 <meteogramma zoneid="4" name="Prealpi centrali">
 				<scadenza data="ven 20 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png" />
-         <previsione title="Cielo" type="text" value="Poco nuvoloso" />
+         <previsione title="Cielo" type="text" value="Parzialmente nuvoloso" />
           <previsione title="Temperatura 1500m" type="text" value="max 5 C" />
           <previsione title="Temperatura 2000m" type="text" value="max 3 C" />
           <previsione title="Precipitazioni" type="text" value="Assenti" />
@@ -346,15 +347,15 @@
 				<scadenza data="ven 20 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png" />
          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
           <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="sab 21 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png" />
-         <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f2.png" />
+         <previsione title="Cielo" type="text" value="Nebbie in dissolvimento" />
           <previsione title="Temperatura" type="text" value="min 3/5 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
@@ -362,7 +363,7 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="sab 21 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png"/>
           <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
           <previsione title="Temperatura" type="text" value="max 12/14 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
@@ -418,8 +419,8 @@
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="sab 21 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png" />
-         <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f2.png" />
+         <previsione title="Cielo" type="text" value="Nebbie in dissolvimento" />
           <previsione title="Temperatura" type="text" value="min 4/6 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
@@ -428,7 +429,7 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="sab 21 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png"/>
           <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
           <previsione title="Temperatura" type="text" value="max 13/15 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
@@ -477,8 +478,8 @@
 
 <meteogramma zoneid="8" name="Prealpi occidentali">
 				<scadenza data="ven 20 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png" />
-         <previsione title="Cielo" type="text" value="Poco nuvoloso" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a3.png" />
+         <previsione title="Cielo" type="text" value="Parzialmente nuvoloso" />
           <previsione title="Temperatura 1500m" type="text" value="max 5 C" />
           <previsione title="Temperatura 2000m" type="text" value="max 3 C" />
           <previsione title="Precipitazioni" type="text" value="Assenti" />
@@ -548,7 +549,7 @@
 				<scadenza data="ven 20 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png" />
          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
           <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -612,7 +613,7 @@
 				<scadenza data="ven 20 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png" />
          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
           <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -620,7 +621,7 @@
 				</scadenza>
 				<scadenza data="sab 21 novembre mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png" />
-         <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
+         <previsione title="Cielo" type="text" value="Nebbie in dissolvimento" />
           <previsione title="Temperatura" type="text" value="min 4/6 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
@@ -628,7 +629,7 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="sab 21 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png"/>
           <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
           <previsione title="Temperatura" type="text" value="max 11/13 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
@@ -685,7 +686,7 @@
 				</scadenza>
 				<scadenza data="sab 21 novembre mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png" />
-         <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
+         <previsione title="Cielo" type="text" value="Nebbie in dissolvimento" />
           <previsione title="Temperatura" type="text" value="min 5/7 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
@@ -694,7 +695,7 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="sab 21 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png"/>
           <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
           <previsione title="Temperatura" type="text" value="max 11/13 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
@@ -754,7 +755,7 @@
 				</scadenza>
 				<scadenza data="sab 21 novembre mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png" />
-         <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
+         <previsione title="Cielo" type="text" value="Nebbie in dissolvimento" />
           <previsione title="Temperatura" type="text" value="min 4/6 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
@@ -763,7 +764,7 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="sab 21 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png"/>
           <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
           <previsione title="Temperatura" type="text" value="max 11/13 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
@@ -822,7 +823,7 @@
 				</scadenza>
 				<scadenza data="sab 21 novembre mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png" />
-         <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
+         <previsione title="Cielo" type="text" value="Nebbie in dissolvimento" />
           <previsione title="Temperatura" type="text" value="min 4/6 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
@@ -830,7 +831,7 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="sab 21 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png"/>
           <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
           <previsione title="Temperatura" type="text" value="max 11/13 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
@@ -878,14 +879,14 @@
 				<scadenza data="ven 20 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png" />
          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 12/14 C" />
+          <previsione title="Temperatura" type="text" value="max 13/15 C" />
           <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="sab 21 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f2.png" />
          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
           <previsione title="Temperatura" type="text" value="min 3/5 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
@@ -942,7 +943,7 @@
 				<scadenza data="ven 20 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png" />
          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso" />
-          <previsione title="Temperatura" type="text" value="max 11/13 C" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
           <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -1011,7 +1012,7 @@
 				<scadenza data="ven 20 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png" />
          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
-          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+          <previsione title="Temperatura" type="text" value="max 14/16 C" />
           <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -1019,8 +1020,8 @@
 					<previsione title="Attendibilita'" type="text" value="" />
 				</scadenza>
 				<scadenza data="sab 21 novembre mattina">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png" />
-         <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f2.png" />
+         <previsione title="Cielo" type="text" value="Nebbie in dissolvimento" />
           <previsione title="Temperatura" type="text" value="min 4/6 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
@@ -1029,7 +1030,7 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="sab 21 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png"/>
           <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
           <previsione title="Temperatura" type="text" value="max 13/15 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
@@ -1089,7 +1090,7 @@
 				</scadenza>
 				<scadenza data="sab 21 novembre mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png" />
-         <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
+         <previsione title="Cielo" type="text" value="Nebbie in dissolvimento" />
           <previsione title="Temperatura" type="text" value="min 5/7 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
@@ -1098,7 +1099,7 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="sab 21 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png"/>
           <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
           <previsione title="Temperatura" type="text" value="max 11/13 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
@@ -1149,7 +1150,7 @@
 				<scadenza data="ven 20 novembre pomeriggio">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png" />
          <previsione title="Cielo" type="text" value="Sereno o poco nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
-          <previsione title="Temperatura" type="text" value="max 13/15 C" />
+          <previsione title="Temperatura" type="text" value="max 12/14 C" />
           <previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
 					<previsione title="Quota neve" type="text" value="" />
@@ -1158,7 +1159,7 @@
 				</scadenza>
 				<scadenza data="sab 21 novembre mattina">
 					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png" />
-         <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
+         <previsione title="Cielo" type="text" value="Nebbie in dissolvimento" />
           <previsione title="Temperatura" type="text" value="min 4/6 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
 					<previsione title="Probabilita' precipitazione" type="text" value="0%" />
@@ -1167,7 +1168,7 @@
 					<previsione title="Attendibilita'" type="text" value="Buona" />
 				</scadenza>
 				<scadenza data="sab 21 novembre pomeriggio">
-					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/f3.png"/>
+					<previsione title="Simbolo" type="image" value="https://www.arpa.veneto.it/risorse/data-bollettini/meteo/icone/meteo/a2.png"/>
           <previsione title="Cielo" type="text" value="Parzialmente nuvoloso con foschie/nebbie nelle ore pi&#249; fredde" />
           <previsione title="Temperatura" type="text" value="max 11/13 C" />
 					<previsione title="Precipitazioni" type="text" value="Assenti" />
@@ -1221,14 +1222,14 @@
 <evoluzionegenerale><![CDATA[Una temporanea rimonta anticiclonica tra venerd&igrave; e sabato render&agrave; il tempo pi&ugrave; stabile, ma con l'insidia delle nebbie nelle ore pi&ugrave; fredde. Domenica giunger&agrave; sulla regione una saccatura atlantica responsabile di una fase perturbata con precipitazioni diffuse. Nei primi due giorni della prossima settimana correnti da nord-ovest porteranno tratti di variabilit&agrave;, ma con precipitazioni di scarsa entit&agrave;.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="20 novembre">
 					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MV_0.png.jpg" caption="20 novembre pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Cielo sereno o poco nuvoloso per nubi medio-alte; le foschie/nebbie, dopo il dissolvimento nelle ore pi&ugrave; calde, potranno riformarsi in pianura e nei fondovalle dopo il tramonto. Temperature diurne in ripresa, tranne in quota dove non subiranno notevoli variazioni. Venti in quota moderati a tratti tesi da nord-ovest, nelle valli variabili, in pianura deboli occidentali.]]>
+                        <![CDATA[<b>Previsione: </b>Cielo poco o parzialmente nuvoloso; foschie/nebbie, dopo il dissolvimento nelle ore pi&ugrave; calde, saranno nuovamente in intensificazione in pianura e nei fondovalle. Temperature diurne in ripresa, tranne in quota dove non subiranno notevoli variazioni. Venti in quota moderati a tratti tesi da nord-ovest, nelle valli variabili, in pianura deboli occidentali.]]>
 					</text>
 				</giorno>
 				<giorno data="21 novembre">
 					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MV_1.png.jpg" caption="21 novembre mattina" />
 					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MV_2.png.jpg" caption="21 novembre pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Tempo stabile con foschie, nebbie, nubi basse in pianura e nelle valli soprattutto nelle ore pi&ugrave; fredde, ma localmente persistenti  anche durante il giorno in pianura. Dalla sera nubi medio-alte in aumento da ovest.<br /><b>Precipitazioni: </b>Assenti.<br /><b>Temperature: </b>Minime senza notevoli variazioni o in locale lieve calo; massime per lo pi&ugrave; in diminuzione in pianura e in alta quota, stazionarie o in locale rialzo nelle valli.<br /><b>Venti: </b>In quota inizialmente tesi/forti da nord-ovest, poi in attenuazione e rotazione fino a disporsi da ovest; altrove deboli variabili.<br /><b>Mare: </b>Calmo o quasi calmo.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Tempo stabile con foschie, nebbie, nubi basse in pianura e nelle valli soprattutto nelle ore pi&ugrave; fredde, ma localmente persistenti  anche durante il giorno in pianura. Dalla sera nubi medio-alte in aumento da ovest.<br /><b>Precipitazioni: </b>Assenti.<br /><b>Temperature: </b>Minime pressoch&eacute; stazionarie o in locale lieve variazione; massime per lo pi&ugrave; in diminuzione in pianura e in alta quota, stazionarie o in locale rialzo nelle valli.<br /><b>Venti: </b>In quota inizialmente tesi/forti da nord-ovest, poi in attenuazione e rotazione fino a disporsi da ovest; altrove deboli variabili.<br /><b>Mare: </b>Calmo o quasi calmo.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
 					</text>
 				</giorno>
 				<giorno data="22 novembre">
@@ -1257,14 +1258,14 @@ Previsore: ms.<br /><b>Attendibilit&agrave;: </b>Buona<br />]]>
 <evoluzionegenerale><![CDATA[Una discreta variabilit&agrave; caratterizza sia la situazione sinottica sia il tempo del periodo nel suo complesso; la fase pi&ugrave; nuvolosa e con pi&ugrave; precipitazioni &egrave; attesa per domenica; al suo seguito, il clima si fa pi&ugrave; freddo.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="20 novembre">
 					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_DM_0.png.jpg" caption="20 novembre pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Cielo poco o a tratti parzialmente nuvoloso; temperature diurne un po' in aumento rispetto a gioved&igrave;, specie nelle valli; attesi in libera atmosfera sulle Prealpi 5 &deg;C a 1500 m e 3 &deg;C a 2000 m, sulle Dolomiti 2 &deg;C a 2000 m e -7 &deg;C a 3000 m; venti in quota a tratti localmente tesi, da nord-ovest.]]>
+                        <![CDATA[<b>Previsione: </b>Cielo poco o a tratti parzialmente nuvoloso; temperature diurne un po' in aumento rispetto a gioved&igrave;; massime previste in libera atmosfera sulle Prealpi 5 &deg;C a 1500 m e 3 &deg;C a 2000 m, sulle Dolomiti 2 &deg;C a 2000 m e -7 &deg;C a 3000 m; venti in quota a tratti localmente tesi, da nord-ovest.]]>
 					</text>
 				</giorno>
 				<giorno data="21 novembre">
 					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_DM_1.png.jpg" caption="21 novembre mattina" />
 					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_DM_2.png.jpg" caption="21 novembre pomeriggio" />
 					<text>
-                        <![CDATA[<b>Tempo atteso: </b>Cielo perlopi&ugrave; sereno o poco nuvoloso, salvo locali nubi basse fino al mattino nelle valli.<br /><b>Precipitazioni: </b>Assenti.<br /><b>Temperature: </b>Contenute variazioni di carattere locale, con prevalenza di diminuzioni in quota; minime e massime attese in libera atmosfera sulle Prealpi 4/5 &deg;C a 1500 m e 0/1 &deg;C a 2000 m, sulle Dolomiti -1/1 &deg;C a 2000 m e -10/-7 &deg;C a 3000 m.<br /><b>Venti: </b>Nelle valli, prevalentemente deboli con direzione variabile; in quota da tesi nord-occidentali a moderati occidentali, indicativamente 10-30 km/h a 2000 m e 30-60 km/h a 3000 m.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
+                        <![CDATA[<b>Tempo atteso: </b>Cielo perlopi&ugrave; sereno o poco nuvoloso, salvo locali nubi basse con foschie e banchi di nebbia nelle ore fredde in alcune valli prealpine specie in Valbelluna, in graduale dissolvimento nel corso della mattinata.<br /><b>Precipitazioni: </b>Assenti.<br /><b>Temperature: </b>Contenute variazioni di carattere locale, con prevalenza di diminuzioni in quota; minime e massime attese in libera atmosfera sulle Prealpi 4/5 &deg;C a 1500 m e 0/1 &deg;C a 2000 m, sulle Dolomiti -1/1 &deg;C a 2000 m e -10/-7 &deg;C a 3000 m.<br /><b>Venti: </b>Nelle valli, prevalentemente deboli con direzione variabile; in quota da tesi nord-occidentali a moderati occidentali, indicativamente 10-30 km/h a 2000 m e 30-60 km/h a 3000 m.<br /><b>Attendibilit&agrave;: </b>Ottima<br />]]>
 					</text>
 				</giorno>
 				<giorno data="22 novembre">
@@ -1366,7 +1367,7 @@ Previsore: AB<br /><b>Attendibilit&agrave;: </b>Discreta<br />]]>
 <evoluzionegenerale><![CDATA[Una temporanea rimonta anticiclonica tra venerd&igrave; e sabato render&agrave; il tempo pi&ugrave; stabile, ma con l'insidia delle nebbie nelle ore pi&ugrave; fredde. Domenica giunger&agrave; sulla regione una saccatura atlantica responsabile di una fase perturbata con precipitazioni diffuse. Nei primi due giorni della prossima settimana correnti da nord-ovest porteranno tratti di variabilit&agrave;, ma con precipitazioni di scarsa entit&agrave;.]]></evoluzionegenerale><avviso></avviso><fenomeniparticolari></fenomeniparticolari>				<giorno data="20 novembre">
 					<img src="https://meteo.arpa.veneto.it/meteo/bollettini/it/images/map_MP_0.png.jpg" caption="20 novembre pomeriggio" />
 					<text>
-                        <![CDATA[<b>Previsione: </b>Cielo sereno o poco nuvoloso per nubi medio-alte; le foschie/nebbie, dopo il dissolvimento nelle ore pi&ugrave; calde, potranno riformarsi dopo il tramonto. Temperature diurne in ripresa. Venti deboli occidentali.]]>
+                        <![CDATA[<b>Previsione: </b>Cielo poco o parzialmente nuvoloso; foschie/nebbie, dopo il dissolvimento nelle ore pi&ugrave; calde, saranno nuovamente in intensificazione. Temperature diurne in ripresa. Venti deboli occidentali.]]>
 					</text>
 				</giorno>
 				<giorno data="21 novembre">
